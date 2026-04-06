@@ -158,16 +158,11 @@
     },
     {
       "id": "shop-25",
-      "name": "マルショウKM(株)",
-      "category": "service",
+      "name": "空き区画",
+      "category": "empty",
       "subcategory": "その他",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%9E%E3%83%AB%E3%82%B7%E3%83%A7%E3%82%A6KM%28%E6%A0%AA%29%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
-      "tags": [
-        "オフィス",
-        "建設",
-        "工事",
-        "管理"
-      ]
+      "url": "",
+      "tags": []
     },
     {
       "id": "shop-26",

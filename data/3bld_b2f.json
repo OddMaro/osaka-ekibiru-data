@@ -224,16 +224,11 @@
     },
     {
       "id": "shop-19",
-      "name": "ぶためし　山ぶた",
-      "category": "food",
-      "subcategory": "食事",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%B6%E3%81%9F%E3%82%81%E3%81%97%E3%80%80%E5%B1%B1%E3%81%B6%E3%81%9F%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
-      "tags": [
-        "豚肉料理",
-        "丼もの",
-        "定食",
-        "ランチ"
-      ]
+      "name": "空き区画",
+      "category": "empty",
+      "subcategory": "その他",
+      "url": "",
+      "tags": []
     },
     {
       "id": "shop-20",

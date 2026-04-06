@@ -1,0 +1,937 @@
+{
+  "floor": "B1F",
+  "shops": [
+    {
+      "id": "shop-1",
+      "name": "チャイニーズ酒家 豪華（フーバー）",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%81%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%BC%E3%82%BA%E9%85%92%E5%AE%B6%20%E8%B1%AA%E8%8F%AF%EF%BC%88%E3%83%95%E3%83%BC%E3%83%90%E3%83%BC%EF%BC%89%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "中華料理",
+        "酒家",
+        "広東料理",
+        "宴会"
+      ]
+    },
+    {
+      "id": "shop-2",
+      "name": "福祉交換所",
+      "category": "service",
+      "subcategory": "サービス",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E7%A5%89%E4%BA%A4%E6%8F%9B%E6%89%80%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "福祉用具",
+        "チケット交換",
+        "商品券"
+      ]
+    },
+    {
+      "id": "shop-3-1",
+      "name": "タイ古式マッサージ Ｊａｓｍｉｎｕｍ ジャスミン",
+      "category": "service",
+      "subcategory": "サービス",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%BF%E3%82%A4%E5%8F%A4%E5%BC%8F%E3%83%9E%E3%83%83%E3%82%B5%E3%83%BC%E3%82%B8%20%EF%BC%AA%EF%BD%81%EF%BD%93%EF%BD%8D%EF%BD%89%EF%BD%8E%EF%BD%95%EF%BD%8D%20%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%9F%E3%83%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "タイ古式マッサージ",
+        "リラクゼーション",
+        "ボディケア",
+        "もみほぐし"
+      ]
+    },
+    {
+      "id": "shop-3-2",
+      "name": "肉食系酒場 片岡肉じろう",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E8%82%89%E9%A3%9F%E7%B3%BB%E9%85%92%E5%A0%B4%20%E7%89%87%E5%B2%A1%E8%82%89%E3%81%98%E3%82%8D%E3%81%86%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "居酒屋",
+        "肉料理",
+        "大衆酒場",
+        "焼肉"
+      ]
+    },
+    {
+      "id": "shop-3-3",
+      "name": "リラクゼーション 癒し手",
+      "category": "service",
+      "subcategory": "サービス",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%A9%E3%82%AF%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E7%99%92%E3%81%97%E6%89%8B%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "もみほぐし",
+        "リラクゼーション",
+        "ボディケア",
+        "肩こり"
+      ]
+    },
+    {
+      "id": "shop-4",
+      "name": "大衆酒場 台所や はなれ",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E8%A1%86%E9%85%92%E5%A0%B4%20%E5%8F%B0%E6%89%80%E3%82%84%20%E3%81%AF%E3%81%AA%E3%82%8C%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "居酒屋",
+        "大衆酒場",
+        "家庭料理",
+        "定食"
+      ]
+    },
+    {
+      "id": "shop-5",
+      "name": "トータルリラクゼーション 癒身園",
+      "category": "service",
+      "subcategory": "サービス",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%88%E3%83%BC%E3%82%BF%E3%83%AB%E3%83%AA%E3%83%A9%E3%82%AF%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E7%99%92%E8%BA%AB%E5%9C%92%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "もみほぐし",
+        "ボディケア",
+        "全身リラクゼーション",
+        "疲労回復"
+      ]
+    },
+    {
+      "id": "shop-6-1",
+      "name": "ちかごろのカレー屋さん カナエ",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%A1%E3%81%8B%E3%81%94%E3%82%8D%E3%81%AE%E3%82%AB%E3%83%AC%E3%83%BC%E5%B1%8B%E3%81%95%E3%82%93%20%E3%82%AB%E3%83%8A%E3%82%A8%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "カレー",
+        "スパイスカレー",
+        "ランチ",
+        "定食"
+      ]
+    },
+    {
+      "id": "shop-6-2",
+      "name": "スタンド もぐ",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E3%82%82%E3%81%90%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "立ち食い",
+        "スタンドバー",
+        "軽食",
+        "ランチ"
+      ]
+    },
+    {
+      "id": "shop-7-1",
+      "name": "大衆串カツ よっとこ",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E8%A1%86%E4%B8%B2%E3%82%AB%E3%83%84%20%E3%82%88%E3%81%A3%E3%81%A8%E3%81%93%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "串カツ",
+        "大阪名物",
+        "揚げ物",
+        "大衆食堂"
+      ]
+    },
+    {
+      "id": "shop-7-2",
+      "name": "爽＆快",
+      "category": "service",
+      "subcategory": "サービス",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E7%88%BD%EF%BC%86%E5%BF%AB%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "もみほぐし",
+        "リラクゼーション",
+        "ボディケア"
+      ]
+    },
+    {
+      "id": "shop-8-1",
+      "name": "肉汁餃子のダンダダン 大阪駅前第２ビル店",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E8%82%89%E6%B1%81%E9%A4%83%E5%AD%90%E3%81%AE%E3%83%80%E3%83%B3%E3%83%80%E3%83%80%E3%83%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC%EF%BC%92%E3%83%93%E3%83%AB%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "餃子",
+        "肉汁餃子",
+        "中華",
+        "居酒屋"
+      ]
+    },
+    {
+      "id": "shop-8-2",
+      "name": "ひねり蛇口ハイ 大衆酒泉 テルマエ 大阪駅前第２ビル店",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%B2%E3%81%AD%E3%82%8A%E8%9B%87%E5%8F%A3%E3%83%8F%E3%82%A4%20%E5%A4%A7%E8%A1%86%E9%85%92%E6%B3%89%20%E3%83%86%E3%83%AB%E3%83%9E%E3%82%A8%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC%EF%BC%92%E3%83%93%E3%83%AB%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "大衆酒場",
+        "ハイボール",
+        "立ち飲み",
+        "居酒屋"
+      ]
+    },
+    {
+      "id": "shop-8-3",
+      "name": "台湾料理 味仙",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E6%B9%BE%E6%96%99%E7%90%86%20%E5%91%B3%E4%BB%99%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "台湾料理",
+        "中華",
+        "餃子",
+        "定食"
+      ]
+    },
+    {
+      "id": "shop-8-4",
+      "name": "海鮮酒場 ナカヒデ",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E9%AE%AE%E9%85%92%E5%A0%B4%20%E3%83%8A%E3%82%AB%E3%83%92%E3%83%87%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "海鮮",
+        "居酒屋",
+        "刺身",
+        "鮮魚"
+      ]
+    },
+    {
+      "id": "shop-8-5",
+      "name": "リラクゼーション タイ古式マッサージ ルアンタイ",
+      "category": "service",
+      "subcategory": "サービス",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%A9%E3%82%AF%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%BF%E3%82%A4%E5%8F%A4%E5%BC%8F%E3%83%9E%E3%83%83%E3%82%B5%E3%83%BC%E3%82%B8%20%E3%83%AB%E3%82%A2%E3%83%B3%E3%82%BF%E3%82%A4%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "タイ古式マッサージ",
+        "リラクゼーション",
+        "ストレッチ",
+        "ボディケア"
+      ]
+    },
+    {
+      "id": "shop-10",
+      "name": "Ｋ２クラフト 合鍵・靴修理",
+      "category": "retail",
+      "subcategory": "物販",
+      "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AB%EF%BC%92%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%20%E5%90%88%E9%8D%B5%E3%83%BB%E9%9D%B4%E4%BF%AE%E7%90%86%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "合鍵",
+        "靴修理",
+        "カギ",
+        "リペア"
+      ]
+    },
+    {
+      "id": "shop-11",
+      "name": "山長 梅田店",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E9%95%B7%20%E6%A2%85%E7%94%B0%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "和食",
+        "定食",
+        "ランチ",
+        "うどん"
+      ]
+    },
+    {
+      "id": "shop-12-1",
+      "name": "北京整体院",
+      "category": "service",
+      "subcategory": "サービス",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E4%BA%AC%E6%95%B4%E4%BD%93%E9%99%A2%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "整体",
+        "中国整体",
+        "骨盤矯正",
+        "腰痛"
+      ]
+    },
+    {
+      "id": "shop-12-2",
+      "name": "立吞屋 楠木フサエ 本店",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E7%AB%8B%E5%90%9E%E5%B1%8B%20%E6%A5%A0%E6%9C%A8%E3%83%95%E3%82%B5%E3%82%A8%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "立ち飲み",
+        "大衆酒場",
+        "日本酒",
+        "焼酎"
+      ]
+    },
+    {
+      "id": "shop-13",
+      "name": "大衆酒場 台所や",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E8%A1%86%E9%85%92%E5%A0%B4%20%E5%8F%B0%E6%89%80%E3%82%84%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "居酒屋",
+        "大衆酒場",
+        "家庭料理",
+        "定食"
+      ]
+    },
+    {
+      "id": "shop-14-1",
+      "name": "楠木フサエ はなれ",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E6%A5%A0%E6%9C%A8%E3%83%95%E3%82%B5%E3%82%A8%20%E3%81%AF%E3%81%AA%E3%82%8C%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "立ち飲み",
+        "居酒屋",
+        "日本酒",
+        "大衆酒場"
+      ]
+    },
+    {
+      "id": "shop-14-2",
+      "name": "ｎａａ ｒａｋ 整体院",
+      "category": "service",
+      "subcategory": "サービス",
+      "url": "https://www.google.com/maps/search/?api=1&query=%EF%BD%8E%EF%BD%81%EF%BD%81%20%EF%BD%92%EF%BD%81%EF%BD%8B%20%E6%95%B4%E4%BD%93%E9%99%A2%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "整体",
+        "もみほぐし",
+        "肩こり",
+        "腰痛"
+      ]
+    },
+    {
+      "id": "shop-15",
+      "name": "プロミス",
+      "category": "service",
+      "subcategory": "金融",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%97%E3%83%AD%E3%83%9F%E3%82%B9%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "消費者金融",
+        "ローン",
+        "キャッシング",
+        "無人契約機"
+      ]
+    },
+    {
+      "id": "shop-16",
+      "name": "リラクゼーション 癒憩 ～Ｙｕｋａｉ～",
+      "category": "service",
+      "subcategory": "サービス",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%A9%E3%82%AF%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E7%99%92%E6%86%A9%20%EF%BD%9E%EF%BC%B9%EF%BD%95%EF%BD%8B%EF%BD%81%EF%BD%89%EF%BD%9E%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "もみほぐし",
+        "リラクゼーション",
+        "足つぼ",
+        "疲労回復"
+      ]
+    },
+    {
+      "id": "shop-17-1",
+      "name": "めん処 つるつる庵",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%81%E3%82%93%E5%87%A6%20%E3%81%A4%E3%82%8B%E3%81%A4%E3%82%8B%E5%BA%B5%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "うどん",
+        "そば",
+        "定食",
+        "ランチ"
+      ]
+    },
+    {
+      "id": "shop-18",
+      "name": "カフェ・ラ・ネージュ",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%83%A9%E3%83%BB%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A5%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "カフェ",
+        "コーヒー",
+        "喫茶",
+        "ランチ"
+      ]
+    },
+    {
+      "id": "shop-19",
+      "name": "ステーキファイブと寿司六",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96%E3%81%A8%E5%AF%BF%E5%8F%B8%E5%85%AD%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "ステーキ",
+        "寿司",
+        "海鮮",
+        "洋食"
+      ]
+    },
+    {
+      "id": "shop-20",
+      "name": "まじめや",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%BE%E3%81%98%E3%82%81%E3%82%84%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "和食",
+        "定食",
+        "ランチ",
+        "居酒屋"
+      ]
+    },
+    {
+      "id": "shop-21-1",
+      "name": "まじめや",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%BE%E3%81%98%E3%82%81%E3%82%84%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "和食",
+        "定食",
+        "ランチ",
+        "居酒屋"
+      ]
+    },
+    {
+      "id": "shop-21-2",
+      "name": "セブンイレブン 大阪駅前第２ビル店 Ｂ１",
+      "category": "retail",
+      "subcategory": "物販",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%BB%E3%83%96%E3%83%B3%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC%EF%BC%92%E3%83%93%E3%83%AB%E5%BA%97%20%EF%BC%A2%EF%BC%91%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "コンビニ",
+        "24時間",
+        "日用品",
+        "弁当"
+      ]
+    },
+    {
+      "id": "shop-22",
+      "name": "セブンイレブン 大阪駅前第２ビル店 Ｂ１",
+      "category": "retail",
+      "subcategory": "物販",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%BB%E3%83%96%E3%83%B3%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC%EF%BC%92%E3%83%93%E3%83%AB%E5%BA%97%20%EF%BC%A2%EF%BC%91%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "コンビニ",
+        "24時間",
+        "日用品",
+        "弁当"
+      ]
+    },
+    {
+      "id": "shop-23",
+      "name": "パチンコ ＬＵＸＯＲ",
+      "category": "service",
+      "subcategory": "サービス",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%91%E3%83%81%E3%83%B3%E3%82%B3%20%EF%BC%AC%EF%BC%B5%EF%BC%B8%EF%BC%AF%EF%BC%B2%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "パチンコ",
+        "遊技場",
+        "ゲーム"
+      ]
+    },
+    {
+      "id": "shop-27",
+      "name": "スロット ＲＵＳＨ",
+      "category": "service",
+      "subcategory": "サービス",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%AD%E3%83%83%E3%83%88%20%EF%BC%B2%EF%BC%B5%EF%BC%B3%EF%BC%A8%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "スロット",
+        "パチスロ",
+        "遊技場"
+      ]
+    },
+    {
+      "id": "shop-28",
+      "name": "立吞処 しげ家",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E7%AB%8B%E5%90%9E%E5%87%A6%20%E3%81%97%E3%81%92%E5%AE%B6%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "立ち飲み",
+        "日本酒",
+        "焼酎",
+        "大衆酒場"
+      ]
+    },
+    {
+      "id": "shop-29",
+      "name": "（株）新翔 （株）飛翔エステート",
+      "category": "service",
+      "subcategory": "サービス",
+      "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%88%E6%A0%AA%EF%BC%89%E6%96%B0%E7%BF%94%20%EF%BC%88%E6%A0%AA%EF%BC%89%E9%A3%9B%E7%BF%94%E3%82%A8%E3%82%B9%E3%83%86%E3%83%BC%E3%83%88%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "不動産",
+        "賃貸",
+        "売買",
+        "オフィス"
+      ]
+    },
+    {
+      "id": "shop-30",
+      "name": "インド家庭料理 マハラジャ",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%83%B3%E3%83%89%E5%AE%B6%E5%BA%AD%E6%96%99%E7%90%86%20%E3%83%9E%E3%83%8F%E3%83%A9%E3%82%B8%E3%83%A3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "インド料理",
+        "カレー",
+        "ナン",
+        "スパイス"
+      ]
+    },
+    {
+      "id": "shop-31-1",
+      "name": "理容 Ｃｕｔ－Ａ",
+      "category": "service",
+      "subcategory": "サービス",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E7%90%86%E5%AE%B9%20%EF%BC%A3%EF%BD%95%EF%BD%94%EF%BC%8D%EF%BC%A1%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "理容",
+        "バーバー",
+        "カット",
+        "散髪"
+      ]
+    },
+    {
+      "id": "shop-31-2",
+      "name": "吞み処 りんご屋 パート１",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%90%9E%E3%81%BF%E5%87%A6%20%E3%82%8A%E3%82%93%E3%81%94%E5%B1%8B%20%E3%83%91%E3%83%BC%E3%83%88%EF%BC%91%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "立ち飲み",
+        "居酒屋",
+        "日本酒",
+        "大衆酒場"
+      ]
+    },
+    {
+      "id": "shop-32",
+      "name": "大衆酒場 どんがめ",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E8%A1%86%E9%85%92%E5%A0%B4%20%E3%81%A9%E3%82%93%E3%81%8C%E3%82%81%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "居酒屋",
+        "大衆酒場",
+        "おでん",
+        "和食"
+      ]
+    },
+    {
+      "id": "shop-33",
+      "name": "どんがめ まっくす 大阪駅前第２ビル店",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%A9%E3%82%93%E3%81%8C%E3%82%81%20%E3%81%BE%E3%81%A3%E3%81%8F%E3%81%99%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC%EF%BC%92%E3%83%93%E3%83%AB%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "居酒屋",
+        "大衆酒場",
+        "おでん",
+        "和食"
+      ]
+    },
+    {
+      "id": "shop-35",
+      "name": "大富豪",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%AF%8C%E8%B1%AA%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "居酒屋",
+        "大衆酒場",
+        "宴会",
+        "飲み放題"
+      ]
+    },
+    {
+      "id": "shop-36-1",
+      "name": "おたからや 梅田１丁目店 （株）ＬＥＧＡＣＹ ＰＬＡＮＮＩＮＧ",
+      "category": "retail",
+      "subcategory": "物販",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E3%81%9F%E3%81%8B%E3%82%89%E3%82%84%20%E6%A2%85%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE%E5%BA%97%20%EF%BC%88%E6%A0%AA%EF%BC%89%EF%BC%AC%EF%BC%A5%EF%BC%A7%EF%BC%A1%EF%BC%A3%EF%BC%B9%20%EF%BC%B0%EF%BC%AC%EF%BC%A1%EF%BC%AE%EF%BC%AE%EF%BC%A9%EF%BC%AE%EF%BC%A7%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "買取",
+        "金・プラチナ買取",
+        "ブランド品",
+        "リサイクル"
+      ]
+    },
+    {
+      "id": "shop-36-2",
+      "name": "Ｂａｒ ＳＥＣＯＮＤ ＦＩＬＬ",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%A2%EF%BD%81%EF%BD%92%20%EF%BC%B3%EF%BC%A5%EF%BC%A3%EF%BC%AF%EF%BC%AE%EF%BC%A4%20%EF%BC%A6%EF%BC%A9%EF%BC%AC%EF%BC%AC%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "バー",
+        "カクテル",
+        "洋酒",
+        "深夜営業"
+      ]
+    },
+    {
+      "id": "shop-36-3",
+      "name": "串カツ わんさか",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%B2%E3%82%AB%E3%83%84%20%E3%82%8F%E3%82%93%E3%81%95%E3%81%8B%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "串カツ",
+        "大阪名物",
+        "揚げ物",
+        "居酒屋"
+      ]
+    },
+    {
+      "id": "shop-37-1",
+      "name": "がってん 大阪駅前第２ビル店",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%8C%E3%81%A3%E3%81%A6%E3%82%93%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC%EF%BC%92%E3%83%93%E3%83%AB%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "立ち飲み",
+        "居酒屋",
+        "大衆酒場",
+        "焼き鳥"
+      ]
+    },
+    {
+      "id": "shop-37-3",
+      "name": "まきし亭本店",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%BE%E3%81%8D%E3%81%97%E4%BA%AD%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "和食",
+        "定食",
+        "ランチ",
+        "居酒屋"
+      ]
+    },
+    {
+      "id": "shop-39",
+      "name": "がってん 大阪駅前第２ビル店",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%8C%E3%81%A3%E3%81%A6%E3%82%93%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC%EF%BC%92%E3%83%93%E3%83%AB%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "立ち飲み",
+        "居酒屋",
+        "大衆酒場",
+        "焼き鳥"
+      ]
+    },
+    {
+      "id": "shop-40",
+      "name": "まきし亭本店",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%BE%E3%81%8D%E3%81%97%E4%BA%AD%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "和食",
+        "定食",
+        "ランチ",
+        "居酒屋"
+      ]
+    },
+    {
+      "id": "shop-41",
+      "name": "まきし亭本店",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%BE%E3%81%8D%E3%81%97%E4%BA%AD%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "和食",
+        "定食",
+        "ランチ",
+        "居酒屋"
+      ]
+    },
+    {
+      "id": "shop-43-1",
+      "name": "カフェ＆スタンド エルソル",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%95%E3%82%A7%EF%BC%86%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E3%82%A8%E3%83%AB%E3%82%BD%E3%83%AB%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "カフェ",
+        "コーヒー",
+        "軽食",
+        "テイクアウト"
+      ]
+    },
+    {
+      "id": "shop-43-2",
+      "name": "ＨＹデンタルクリニック",
+      "category": "medical",
+      "subcategory": "クリニック",
+      "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%A8%EF%BC%B9%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "歯科",
+        "歯医者",
+        "虫歯治療",
+        "審美歯科"
+      ]
+    },
+    {
+      "id": "shop-45",
+      "name": "大衆焼肉・ホルモン よっとこ",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E8%A1%86%E7%84%BC%E8%82%89%E3%83%BB%E3%83%9B%E3%83%AB%E3%83%A2%E3%83%B3%20%E3%82%88%E3%81%A3%E3%81%A8%E3%81%93%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "焼肉",
+        "ホルモン",
+        "大衆食堂",
+        "牛肉"
+      ]
+    },
+    {
+      "id": "shop-46",
+      "name": "元祖 Ｍｒ．鶏っく",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%85%83%E7%A5%96%20%EF%BC%AD%EF%BD%92%EF%BC%8E%E9%B6%8F%E3%81%A3%E3%81%8F%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "鶏料理",
+        "からあげ",
+        "焼き鳥",
+        "居酒屋"
+      ]
+    },
+    {
+      "id": "shop-47",
+      "name": "すし 魚貴",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%97%20%E9%AD%9A%E8%B2%B4%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "寿司",
+        "海鮮",
+        "刺身",
+        "握り寿司"
+      ]
+    },
+    {
+      "id": "shop-48-1",
+      "name": "ＴＡＭＡＮＥ",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%B4%EF%BC%A1%EF%BC%AD%EF%BC%A1%EF%BC%AE%EF%BC%A5%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "バー",
+        "カクテル",
+        "深夜営業",
+        "洋酒"
+      ]
+    },
+    {
+      "id": "shop-48-1-2",
+      "name": "吞み処 りんご屋 パート２",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%90%9E%E3%81%BF%E5%87%A6%20%E3%82%8A%E3%82%93%E3%81%94%E5%B1%8B%20%E3%83%91%E3%83%BC%E3%83%88%EF%BC%92%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "立ち飲み",
+        "居酒屋",
+        "日本酒",
+        "大衆酒場"
+      ]
+    },
+    {
+      "id": "shop-48-2",
+      "name": "５５５ ＢＯＵＴＩＱＵＥ スリーファイブ",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%95%EF%BC%95%EF%BC%95%20%EF%BC%A2%EF%BC%AF%EF%BC%B5%EF%BC%B4%EF%BC%A9%EF%BC%B1%EF%BC%B5%EF%BC%A5%20%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "バー",
+        "深夜営業",
+        "カクテル",
+        "洋酒"
+      ]
+    },
+    {
+      "id": "shop-48-3",
+      "name": "居酒屋 味善",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%B1%85%E9%85%92%E5%B1%8B%20%E5%91%B3%E5%96%84%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "居酒屋",
+        "和食",
+        "宴会",
+        "定食"
+      ]
+    },
+    {
+      "id": "shop-48-3-2",
+      "name": "ＡｓｉａｎＢｏｄｙ リラクゼーション",
+      "category": "service",
+      "subcategory": "サービス",
+      "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%A1%EF%BD%93%EF%BD%89%EF%BD%81%EF%BD%8E%EF%BC%A2%EF%BD%8F%EF%BD%84%EF%BD%99%20%E3%83%AA%E3%83%A9%E3%82%AF%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "アジアンマッサージ",
+        "リラクゼーション",
+        "ボディケア",
+        "もみほぐし"
+      ]
+    },
+    {
+      "id": "shop-49",
+      "name": "ハンヤ印章店",
+      "category": "retail",
+      "subcategory": "物販",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%8F%E3%83%B3%E3%83%A4%E5%8D%B0%E7%AB%A0%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "はんこ",
+        "印鑑",
+        "実印",
+        "スタンプ"
+      ]
+    },
+    {
+      "id": "shop-50",
+      "name": "餃子のかっちゃん",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E9%A4%83%E5%AD%90%E3%81%AE%E3%81%8B%E3%81%A3%E3%81%A1%E3%82%83%E3%82%93%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "餃子",
+        "中華",
+        "焼き餃子",
+        "定食"
+      ]
+    },
+    {
+      "id": "shop-51-1",
+      "name": "立食焼肉 一穂 第２ビル店",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E7%AB%8B%E9%A3%9F%E7%84%BC%E8%82%89%20%E4%B8%80%E7%A9%82%20%E7%AC%AC%EF%BC%92%E3%83%93%E3%83%AB%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "焼肉",
+        "立ち食い焼肉",
+        "牛肉",
+        "ホルモン"
+      ]
+    },
+    {
+      "id": "shop-51-2",
+      "name": "大衆吞処 サカグラ",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E8%A1%86%E5%90%9E%E5%87%A6%20%E3%82%B5%E3%82%AB%E3%82%B0%E3%83%A9%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "居酒屋",
+        "日本酒",
+        "角打ち",
+        "大衆酒場"
+      ]
+    },
+    {
+      "id": "shop-52",
+      "name": "鉄板串酒場 しん家",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E9%89%84%E6%9D%BF%E4%B8%B2%E9%85%92%E5%A0%B4%20%E3%81%97%E3%82%93%E5%AE%B6%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "居酒屋",
+        "串焼き",
+        "鉄板焼き",
+        "大衆酒場"
+      ]
+    },
+    {
+      "id": "shop-53",
+      "name": "梅田大衆酒場 Ｈ",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E6%A2%85%E7%94%B0%E5%A4%A7%E8%A1%86%E9%85%92%E5%A0%B4%20%EF%BC%A8%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "居酒屋",
+        "大衆酒場",
+        "梅田",
+        "宴会"
+      ]
+    },
+    {
+      "id": "shop-54",
+      "name": "大衆酒肴スタンド さかば。",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E8%A1%86%E9%85%92%E8%82%B4%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E3%81%95%E3%81%8B%E3%81%B0%E3%80%82%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "立ち飲み",
+        "大衆酒場",
+        "酒肴",
+        "スタンドバー"
+      ]
+    },
+    {
+      "id": "shop-56",
+      "name": "大分からあげと鉄板焼き 勝男 Ｂ１応援団",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%88%86%E3%81%8B%E3%82%89%E3%81%82%E3%81%92%E3%81%A8%E9%89%84%E6%9D%BF%E7%84%BC%E3%81%8D%20%E5%8B%9D%E7%94%B7%20%EF%BC%A2%EF%BC%91%E5%BF%9C%E6%8F%B4%E5%9B%A3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "からあげ",
+        "鉄板焼き",
+        "大分料理",
+        "鶏料理"
+      ]
+    },
+    {
+      "id": "shop-57",
+      "name": "肴屋 あしか",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E8%82%B4%E5%B1%8B%20%E3%81%82%E3%81%97%E3%81%8B%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "居酒屋",
+        "肴",
+        "海鮮",
+        "日本酒"
+      ]
+    },
+    {
+      "id": "shop-58-1",
+      "name": "ＫＡＯＬＩＡ ～カオリア～",
+      "category": "service",
+      "subcategory": "サービス",
+      "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AB%EF%BC%A1%EF%BC%AF%EF%BC%AC%EF%BC%A9%EF%BC%A1%20%EF%BD%9E%E3%82%AB%E3%82%AA%E3%83%AA%E3%82%A2%EF%BD%9E%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "アロマ",
+        "リラクゼーション",
+        "エステ",
+        "ボディケア"
+      ]
+    },
+    {
+      "id": "shop-58-2",
+      "name": "トータルバランスｏｖｅｒ",
+      "category": "retail",
+      "subcategory": "物販",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%88%E3%83%BC%E3%82%BF%E3%83%AB%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%EF%BD%8F%EF%BD%96%EF%BD%85%EF%BD%92%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "健康用品",
+        "サプリメント",
+        "スポーツ用品",
+        "ダイエット"
+      ]
+    },
+    {
+      "id": "shop-60",
+      "name": "おでんとお蕎麦 居酒屋 じんべえ",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E3%81%A7%E3%82%93%E3%81%A8%E3%81%8A%E8%95%8E%E9%BA%A6%20%E5%B1%85%E9%85%92%E5%B1%8B%20%E3%81%98%E3%82%93%E3%81%B9%E3%81%88%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "おでん",
+        "そば",
+        "居酒屋",
+        "和食"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,747 @@
+{
+  "floor": "1F",
+  "shops": [
+    {
+      "id": "shop-01",
+      "name": "はるやま",
+      "category": "retail",
+      "subcategory": "ファッション",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%AF%E3%82%8B%E3%82%84%E3%81%BE%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "スーツ",
+        "紳士服",
+        "ビジネスウェア",
+        "仕立て"
+      ]
+    },
+    {
+      "id": "shop-02",
+      "name": "ドリンクステーション",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "自動販売機",
+        "ドリンク",
+        "飲料",
+        "コーヒー"
+      ]
+    },
+    {
+      "id": "shop-16",
+      "name": "はんこ屋さん２１",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%AF%E3%82%93%E3%81%93%E5%B1%8B%E3%81%95%E3%82%93%EF%BC%92%EF%BC%91%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "はんこ",
+        "印鑑",
+        "実印",
+        "ゴム印"
+      ]
+    },
+    {
+      "id": "shop-17",
+      "name": "オトコネイルbyDoctor.H大阪店",
+      "category": "medical",
+      "subcategory": "ビューティー",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%AA%E3%83%88%E3%82%B3%E3%83%8D%E3%82%A4%E3%83%ABbyDoctor.H%E5%A4%A7%E9%98%AA%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "メンズネイル",
+        "ネイルケア",
+        "フットケア",
+        "男性専用"
+      ]
+    },
+    {
+      "id": "shop-18",
+      "name": "オトコネイルbyDoctor.H大阪店",
+      "category": "medical",
+      "subcategory": "ビューティー",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%AA%E3%83%88%E3%82%B3%E3%83%8D%E3%82%A4%E3%83%ABbyDoctor.H%E5%A4%A7%E9%98%AA%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "メンズネイル",
+        "ネイルケア",
+        "フットケア",
+        "男性専用"
+      ]
+    },
+    {
+      "id": "shop-19",
+      "name": "ブライダルナビ",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%96%E3%83%A9%E3%82%A4%E3%83%80%E3%83%AB%E3%83%8A%E3%83%93%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "ブライダル",
+        "結婚式場紹介",
+        "ウェディング",
+        "婚礼相談"
+      ]
+    },
+    {
+      "id": "shop-20",
+      "name": "整体 骨盤調整サロン ボディライト",
+      "category": "medical",
+      "subcategory": "ビューティー",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E6%95%B4%E4%BD%93%20%E9%AA%A8%E7%9B%A4%E8%AA%BF%E6%95%B4%E3%82%B5%E3%83%AD%E3%83%B3%20%E3%83%9C%E3%83%87%E3%82%A3%E3%83%A9%E3%82%A4%E3%83%88%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "整体",
+        "骨盤矯正",
+        "腰痛",
+        "姿勢改善"
+      ]
+    },
+    {
+      "id": "shop-21",
+      "name": "Ｃｌｏｅ　ｕｍｅｄａ",
+      "category": "medical",
+      "subcategory": "ビューティー",
+      "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%A3%EF%BD%8C%EF%BD%8F%EF%BD%85%E3%80%80%EF%BD%95%EF%BD%8D%EF%BD%85%EF%BD%84%EF%BD%81%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "美容室",
+        "ヘアサロン",
+        "カット",
+        "カラー"
+      ]
+    },
+    {
+      "id": "shop-22-1",
+      "name": "関西トランスウェイ(株)",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E9%96%A2%E8%A5%BF%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%82%A6%E3%82%A7%E3%82%A4%28%E6%A0%AA%29%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "宅配便",
+        "運送",
+        "物流",
+        "配送"
+      ]
+    },
+    {
+      "id": "shop-22-2",
+      "name": "ＢＩＲＤＩＸ＆ＰｏｏＴａ",
+      "category": "retail",
+      "subcategory": "ファッション",
+      "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%A2%EF%BC%A9%EF%BC%B2%EF%BC%A4%EF%BC%A9%EF%BC%B8%EF%BC%86%EF%BC%B0%EF%BD%8F%EF%BD%8F%EF%BC%B4%EF%BD%81%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "アクセサリー",
+        "ファッション雑貨",
+        "セレクトショップ"
+      ]
+    },
+    {
+      "id": "shop-23",
+      "name": "フルカワ",
+      "category": "retail",
+      "subcategory": "日用雑貨",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%83%AB%E3%82%AB%E3%83%AF%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "時計修理",
+        "メガネ",
+        "アクセサリー",
+        "修理"
+      ]
+    },
+    {
+      "id": "shop-24",
+      "name": "(株)アール・エイチ・ワイ",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%28%E6%A0%AA%29%E3%82%A2%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BB%E3%83%AF%E3%82%A4%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "音楽教室",
+        "レコーディング",
+        "スタジオ",
+        "音楽制作"
+      ]
+    },
+    {
+      "id": "shop-25",
+      "name": "マルショウKM(株)",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%9E%E3%83%AB%E3%82%B7%E3%83%A7%E3%82%A6KM%28%E6%A0%AA%29%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "オフィス",
+        "建設",
+        "工事",
+        "管理"
+      ]
+    },
+    {
+      "id": "shop-26",
+      "name": "ホワイトニング脱毛ハピネス",
+      "category": "medical",
+      "subcategory": "ビューティー",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%E8%84%B1%E6%AF%9B%E3%83%8F%E3%83%94%E3%83%8D%E3%82%B9%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "脱毛",
+        "ホワイトニング",
+        "美肌",
+        "エステ"
+      ]
+    },
+    {
+      "id": "shop-27",
+      "name": "ピタットハウス　大阪駅前第3ビル店",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%94%E3%82%BF%E3%83%83%E3%83%88%E3%83%8F%E3%82%A6%E3%82%B9%E3%80%80%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "不動産",
+        "賃貸",
+        "売買",
+        "住まい探し"
+      ]
+    },
+    {
+      "id": "shop-28",
+      "name": "うるココ",
+      "category": "retail",
+      "subcategory": "日用雑貨",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%86%E3%82%8B%E3%82%B3%E3%82%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "買取",
+        "ブランド品",
+        "リサイクル",
+        "高額買取"
+      ]
+    },
+    {
+      "id": "shop-29",
+      "name": "こやし屋",
+      "category": "retail",
+      "subcategory": "日用雑貨",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%93%E3%82%84%E3%81%97%E5%B1%8B%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "古着",
+        "リサイクル",
+        "買取",
+        "セカンドハンド"
+      ]
+    },
+    {
+      "id": "shop-30",
+      "name": "空き区画",
+      "category": "empty",
+      "subcategory": "日用雑貨",
+      "url": "",
+      "tags": []
+    },
+    {
+      "id": "shop-31-11",
+      "name": "gracia clinic",
+      "category": "medical",
+      "subcategory": "クリニック",
+      "url": "https://www.google.com/maps/search/?api=1&query=gracia%20clinic%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "美容皮膚科",
+        "クリニック",
+        "レーザー",
+        "美容医療"
+      ]
+    },
+    {
+      "id": "shop-31-2",
+      "name": "ドリンクステーション",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "自動販売機",
+        "ドリンク",
+        "飲料",
+        "コーヒー"
+      ]
+    },
+    {
+      "id": "shop-32",
+      "name": "リラクゼーションサロン アロ美",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%A9%E3%82%AF%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B5%E3%83%AD%E3%83%B3%20%E3%82%A2%E3%83%AD%E7%BE%8E%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "アロマ",
+        "リラクゼーション",
+        "ボディケア",
+        "もみほぐし"
+      ]
+    },
+    {
+      "id": "shop-33",
+      "name": "盛岡眼科・盛岡眼鏡院",
+      "category": "medical",
+      "subcategory": "クリニック",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E7%9B%9B%E5%B2%A1%E7%9C%BC%E7%A7%91%E3%83%BB%E7%9B%9B%E5%B2%A1%E7%9C%BC%E9%8F%A1%E9%99%A2%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "眼科",
+        "メガネ",
+        "視力検査",
+        "コンタクトレンズ"
+      ]
+    },
+    {
+      "id": "shop-34",
+      "name": "弦楽堂",
+      "category": "retail",
+      "subcategory": "日用雑貨",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%BC%A6%E6%A5%BD%E5%A0%82%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "弦楽器",
+        "バイオリン",
+        "楽器販売",
+        "修理"
+      ]
+    },
+    {
+      "id": "shop-35-1",
+      "name": "西濃運輸(株)",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E8%A5%BF%E6%BF%83%E9%81%8B%E8%BC%B8%28%E6%A0%AA%29%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "宅配便",
+        "運送",
+        "物流",
+        "配送"
+      ]
+    },
+    {
+      "id": "shop-35-2",
+      "name": "WU　HOME’S(株)ウォルトン・ユニバース",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=WU%E3%80%80HOME%E2%80%99S%28%E6%A0%AA%29%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%88%E3%83%B3%E3%83%BB%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B9%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "不動産",
+        "賃貸",
+        "売買",
+        "住宅"
+      ]
+    },
+    {
+      "id": "shop-36",
+      "name": "SeneL by platinum doll",
+      "category": "medical",
+      "subcategory": "ビューティー",
+      "url": "https://www.google.com/maps/search/?api=1&query=SeneL%20by%20platinum%20doll%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "美容室",
+        "ヘアサロン",
+        "カット",
+        "カラー"
+      ]
+    },
+    {
+      "id": "shop-37",
+      "name": "ＪＴＢ東梅田店",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AA%EF%BC%B4%EF%BC%A2%E6%9D%B1%E6%A2%85%E7%94%B0%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "旅行代理店",
+        "ツアー",
+        "海外旅行",
+        "国内旅行"
+      ]
+    },
+    {
+      "id": "shop-38",
+      "name": "(株)リカーズアップ　Ｏｋｌａ(株)",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%28%E6%A0%AA%29%E3%83%AA%E3%82%AB%E3%83%BC%E3%82%BA%E3%82%A2%E3%83%83%E3%83%97%E3%80%80%EF%BC%AF%EF%BD%8B%EF%BD%8C%EF%BD%81%28%E6%A0%AA%29%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "酒類買取",
+        "酒類販売",
+        "ウイスキー",
+        "日本酒"
+      ]
+    },
+    {
+      "id": "shop-39",
+      "name": "ブランド買取専門店ビープライス",
+      "category": "retail",
+      "subcategory": "日用雑貨",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E8%B2%B7%E5%8F%96%E5%B0%82%E9%96%80%E5%BA%97%E3%83%93%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%82%B9%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "ブランド買取",
+        "高額買取",
+        "ブランドバッグ",
+        "時計"
+      ]
+    },
+    {
+      "id": "shop-40",
+      "name": "東洋一心堂　漢方薬局",
+      "category": "medical",
+      "subcategory": "クリニック",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E6%B4%8B%E4%B8%80%E5%BF%83%E5%A0%82%E3%80%80%E6%BC%A2%E6%96%B9%E8%96%AC%E5%B1%80%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "漢方",
+        "薬局",
+        "東洋医学",
+        "生薬"
+      ]
+    },
+    {
+      "id": "shop-41",
+      "name": "スタジオ　セルフィット",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%80%80%E3%82%BB%E3%83%AB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "フォトスタジオ",
+        "証明写真",
+        "記念写真",
+        "撮影"
+      ]
+    },
+    {
+      "id": "shop-43",
+      "name": "ヘア＆メイクアップサロン　セルフィット",
+      "category": "medical",
+      "subcategory": "ビューティー",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%98%E3%82%A2%EF%BC%86%E3%83%A1%E3%82%A4%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%82%B5%E3%83%AD%E3%83%B3%E3%80%80%E3%82%BB%E3%83%AB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "ヘアメイク",
+        "着付け",
+        "メイクアップ",
+        "ブライダル"
+      ]
+    },
+    {
+      "id": "shop-45",
+      "name": "着物レンタルサロン　セルフィット",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E7%9D%80%E7%89%A9%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B5%E3%83%AD%E3%83%B3%E3%80%80%E3%82%BB%E3%83%AB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "着物レンタル",
+        "浴衣レンタル",
+        "着付け",
+        "和装"
+      ]
+    },
+    {
+      "id": "shop-46",
+      "name": "着物レンタルサロン　セルフィット",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E7%9D%80%E7%89%A9%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B5%E3%83%AD%E3%83%B3%E3%80%80%E3%82%BB%E3%83%AB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "着物レンタル",
+        "浴衣レンタル",
+        "着付け",
+        "和装"
+      ]
+    },
+    {
+      "id": "shop-47",
+      "name": "Cils 梅田店",
+      "category": "medical",
+      "subcategory": "ビューティー",
+      "url": "https://www.google.com/maps/search/?api=1&query=Cils%20%E6%A2%85%E7%94%B0%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "まつ毛エクステ",
+        "まつ毛パーマ",
+        "アイリスト",
+        "まつ毛ケア"
+      ]
+    },
+    {
+      "id": "shop-48",
+      "name": "大阪ＩＴＲデンタルクリニック",
+      "category": "medical",
+      "subcategory": "クリニック",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%EF%BC%A9%EF%BC%B4%EF%BC%B2%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "歯科",
+        "歯医者",
+        "虫歯治療",
+        "審美歯科"
+      ]
+    },
+    {
+      "id": "shop-49",
+      "name": "大阪ＩＴＲデンタルクリニック",
+      "category": "medical",
+      "subcategory": "クリニック",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%EF%BC%A9%EF%BC%B4%EF%BC%B2%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "歯科",
+        "歯医者",
+        "虫歯治療",
+        "審美歯科"
+      ]
+    },
+    {
+      "id": "shop-50",
+      "name": "ＬＡＫＩＡ不動産　大阪梅田店",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AC%EF%BC%A1%EF%BC%AB%EF%BC%A9%EF%BC%A1%E4%B8%8D%E5%8B%95%E7%94%A3%E3%80%80%E5%A4%A7%E9%98%AA%E6%A2%85%E7%94%B0%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "不動産",
+        "賃貸",
+        "売買",
+        "住まい探し"
+      ]
+    },
+    {
+      "id": "shop-51",
+      "name": "フットルーム プラナ",
+      "category": "medical",
+      "subcategory": "ビューティー",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%83%83%E3%83%88%E3%83%AB%E3%83%BC%E3%83%A0%20%E3%83%97%E3%83%A9%E3%83%8A%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "フットケア",
+        "足つぼ",
+        "リフレクソロジー",
+        "足裏マッサージ"
+      ]
+    },
+    {
+      "id": "shop-52",
+      "name": "スタジオ　セルフィット",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%80%80%E3%82%BB%E3%83%AB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "フォトスタジオ",
+        "証明写真",
+        "記念写真",
+        "撮影"
+      ]
+    },
+    {
+      "id": "shop-53",
+      "name": "アピス薬局　梅田店",
+      "category": "medical",
+      "subcategory": "クリニック",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%94%E3%82%B9%E8%96%AC%E5%B1%80%E3%80%80%E6%A2%85%E7%94%B0%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "薬局",
+        "処方箋",
+        "調剤薬局",
+        "医薬品"
+      ]
+    },
+    {
+      "id": "shop-54",
+      "name": "アピス薬局　梅田店",
+      "category": "medical",
+      "subcategory": "クリニック",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%94%E3%82%B9%E8%96%AC%E5%B1%80%E3%80%80%E6%A2%85%E7%94%B0%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "薬局",
+        "処方箋",
+        "調剤薬局",
+        "医薬品"
+      ]
+    },
+    {
+      "id": "shop-55",
+      "name": "(株)大阪ローン　(ポテト)",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%28%E6%A0%AA%29%E5%A4%A7%E9%98%AA%E3%83%AD%E3%83%BC%E3%83%B3%E3%80%80%28%E3%83%9D%E3%83%86%E3%83%88%29%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "消費者金融",
+        "ローン",
+        "キャッシング",
+        "無担保融資"
+      ]
+    },
+    {
+      "id": "shop-56",
+      "name": "スリール　リラクゼーション",
+      "category": "medical",
+      "subcategory": "ビューティー",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%AB%E3%80%80%E3%83%AA%E3%83%A9%E3%82%AF%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "もみほぐし",
+        "リラクゼーション",
+        "ボディケア",
+        "疲労回復"
+      ]
+    },
+    {
+      "id": "shop-57",
+      "name": "Barbar the GM 梅田",
+      "category": "medical",
+      "subcategory": "ビューティー",
+      "url": "https://www.google.com/maps/search/?api=1&query=Barbar%20the%20GM%20%E6%A2%85%E7%94%B0%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "バーバー",
+        "理髪店",
+        "カット",
+        "シェービング"
+      ]
+    },
+    {
+      "id": "shop-58",
+      "name": "オノの洋服",
+      "category": "retail",
+      "subcategory": "ファッション",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%AA%E3%83%8E%E3%81%AE%E6%B4%8B%E6%9C%8D%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "洋服",
+        "ファッション",
+        "婦人服",
+        "セレクトショップ"
+      ]
+    },
+    {
+      "id": "shop-59",
+      "name": "オノの洋服",
+      "category": "retail",
+      "subcategory": "ファッション",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%AA%E3%83%8E%E3%81%AE%E6%B4%8B%E6%9C%8D%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "洋服",
+        "ファッション",
+        "婦人服",
+        "セレクトショップ"
+      ]
+    },
+    {
+      "id": "shop-60",
+      "name": "賃貸住宅サービス　大阪駅前店",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E8%B3%83%E8%B2%B8%E4%BD%8F%E5%AE%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%80%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "賃貸",
+        "不動産",
+        "マンション",
+        "一人暮らし"
+      ]
+    },
+    {
+      "id": "shop-61",
+      "name": "(株)河合楽器製作所　梅田ショップ",
+      "category": "retail",
+      "subcategory": "日用雑貨",
+      "url": "https://www.google.com/maps/search/?api=1&query=%28%E6%A0%AA%29%E6%B2%B3%E5%90%88%E6%A5%BD%E5%99%A8%E8%A3%BD%E4%BD%9C%E6%89%80%E3%80%80%E6%A2%85%E7%94%B0%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "ピアノ",
+        "楽器販売",
+        "電子ピアノ",
+        "音楽教室"
+      ]
+    },
+    {
+      "id": "shop-62",
+      "name": "(株)河合楽器製作所　梅田ショップ",
+      "category": "retail",
+      "subcategory": "日用雑貨",
+      "url": "https://www.google.com/maps/search/?api=1&query=%28%E6%A0%AA%29%E6%B2%B3%E5%90%88%E6%A5%BD%E5%99%A8%E8%A3%BD%E4%BD%9C%E6%89%80%E3%80%80%E6%A2%85%E7%94%B0%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "ピアノ",
+        "楽器販売",
+        "電子ピアノ",
+        "音楽教室"
+      ]
+    },
+    {
+      "id": "shop-63",
+      "name": "空き区画",
+      "category": "empty",
+      "subcategory": "その他",
+      "url": "",
+      "tags": []
+    },
+    {
+      "id": "shop-64",
+      "name": "お口プラス　大阪梅田院",
+      "category": "medical",
+      "subcategory": "クリニック",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E5%8F%A3%E3%83%97%E3%83%A9%E3%82%B9%E3%80%80%E5%A4%A7%E9%98%AA%E6%A2%85%E7%94%B0%E9%99%A2%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "歯科",
+        "歯のホワイトニング",
+        "審美歯科",
+        "矯正歯科"
+      ]
+    },
+    {
+      "id": "shop-65",
+      "name": "富士ホームサービス",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E5%A3%AB%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "不動産",
+        "賃貸",
+        "売買",
+        "住宅"
+      ]
+    },
+    {
+      "id": "shop-66",
+      "name": "占いサロン　道しるべ",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%A0%E3%81%84%E3%82%B5%E3%83%AD%E3%83%B3%E3%80%80%E9%81%93%E3%81%97%E3%82%8B%E3%81%B9%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "占い",
+        "タロット",
+        "霊視",
+        "人生相談"
+      ]
+    },
+    {
+      "id": "shop-67",
+      "name": "FLEUR ANTIQUE JAPAN",
+      "category": "retail",
+      "subcategory": "日用雑貨",
+      "url": "https://www.google.com/maps/search/?api=1&query=FLEUR%20ANTIQUE%20JAPAN%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "花屋",
+        "アンティーク",
+        "アレンジメント",
+        "プリザーブドフラワー"
+      ]
+    },
+    {
+      "id": "shop-68",
+      "name": "(株)アトリフ",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%28%E6%A0%AA%29%E3%82%A2%E3%83%88%E3%83%AA%E3%83%95%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "オフィス",
+        "コンサルティング",
+        "企業"
+      ]
+    },
+    {
+      "id": "shop-69",
+      "name": "ＢＥＥＴ ＢＡＲＢＥＲ ＳＨＯＰ",
+      "category": "medical",
+      "subcategory": "ビューティー",
+      "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%A2%EF%BC%A5%EF%BC%A5%EF%BC%B4%20%EF%BC%A2%EF%BC%A1%EF%BC%B2%EF%BC%A2%EF%BC%A5%EF%BC%B2%20%EF%BC%B3%EF%BC%A8%EF%BC%AF%EF%BC%B0%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "バーバー",
+        "理髪店",
+        "カット",
+        "シェービング"
+      ]
+    },
+    {
+      "id": "shop-70",
+      "name": "ＬＵＸＢＥ ＰＲＥＭＩＵＭ",
+      "category": "medical",
+      "subcategory": "ビューティー",
+      "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%AC%EF%BC%B5%EF%BC%B8%EF%BC%A2%EF%BC%A5%20%EF%BC%B0%EF%BC%B2%EF%BC%A5%EF%BC%AD%EF%BC%A9%EF%BC%B5%EF%BC%AD%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "エステ",
+        "美肌",
+        "脱毛",
+        "フェイシャル"
+      ]
+    }
+  ]
+}

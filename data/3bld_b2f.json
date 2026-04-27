@@ -224,11 +224,17 @@
     },
     {
       "id": "shop-19",
-      "name": "空き区画",
-      "category": "empty",
-      "subcategory": "その他",
-      "url": "",
-      "tags": []
+      "name": "立ち呑みのくち",
+      "category": "food",
+      "subcategory": "食事",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E7%AB%8B%E3%81%A1%E5%91%91%E3%81%BF%E3%81%AE%E3%81%8F%E3%81%A1%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "立ち飲み",
+        "大衆酒場",
+        "日本酒",
+        "焼酎",
+        "居酒屋"
+      ]
     },
     {
       "id": "shop-20",
@@ -1285,15 +1291,16 @@
     },
     {
       "id": "shop-100-1",
-      "name": "大富豪すし",
+      "name": "すし処大繁盛",
       "category": "food",
       "subcategory": "食事",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%AF%8C%E8%B1%AA%E3%81%99%E3%81%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%97%E5%87%A6%E5%A4%A7%E7%B9%81%E7%9B%9B%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
       "tags": [
         "寿司",
         "握り寿司",
         "刺身",
-        "海鮮"
+        "海鮮",
+        "立ち飲み"
       ]
     },
     {

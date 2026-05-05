@@ -113,17 +113,12 @@
       "added_at": "2025-04-30"
     },
     {
-      "id": "shop-6-2",
-      "name": "スタンド もぐ",
-      "category": "food",
-      "subcategory": "飲食",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E3%82%82%E3%81%90%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
-      "tags": [
-        "立ち食い",
-        "スタンドバー",
-        "軽食",
-        "ランチ"
-      ],
+            "id": "shop-6-2",
+      "name": "空き区画",
+      "category": "empty",
+      "subcategory": "",
+      "url": "",
+      "tags": [],
       "added_at": "2025-04-30"
     },
     {
@@ -322,17 +317,12 @@
       "added_at": "2025-04-30"
     },
     {
-      "id": "shop-15",
-      "name": "プロミス",
-      "category": "service",
-      "subcategory": "金融",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%97%E3%83%AD%E3%83%9F%E3%82%B9%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
-      "tags": [
-        "消費者金融",
-        "ローン",
-        "キャッシング",
-        "無人契約機"
-      ],
+            "id": "shop-6-2",
+      "name": "空き区画",
+      "category": "empty",
+      "subcategory": "",
+      "url": "",
+      "tags": [],
       "added_at": "2025-04-30"
     },
     {

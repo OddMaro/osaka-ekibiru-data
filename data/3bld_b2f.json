@@ -115,17 +115,16 @@
     },
     {
       "id": "shop-11",
-      "name": "長崎亭",
+      "name": "うる寅商店",
       "category": "food",
       "subcategory": "食事",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%B4%8E%E4%BA%AD%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%86%E3%82%8B%E5%AF%85%E5%95%86%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
       "tags": [
-        "中華",
-        "ちゃんぽん",
-        "長崎料理",
-        "定食"
+        "ラーメン",
+        "横浜",
+        "中華そば"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2026-05-05"
     },
     {
       "id": "shop-12",

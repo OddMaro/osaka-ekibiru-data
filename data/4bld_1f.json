@@ -13,7 +13,9 @@
         "高額買取",
         "リユース"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.5,
+      "price_range": null
     },
     {
       "id": "shop-03",
@@ -27,7 +29,9 @@
         "ファッション雑貨",
         "輸入品"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.5,
+      "price_range": null
     },
     {
       "id": "shop-05",
@@ -41,7 +45,9 @@
         "ファッション雑貨",
         "輸入品"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.5,
+      "price_range": null
     },
     {
       "id": "shop-06",
@@ -55,7 +61,9 @@
         "ファッション雑貨",
         "輸入品"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.5,
+      "price_range": null
     },
     {
       "id": "shop-07",
@@ -69,7 +77,9 @@
         "医療用品",
         "福祉用具"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": null
     },
     {
       "id": "shop-08",
@@ -83,7 +93,9 @@
         "ブランド品",
         "中古品"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.5,
+      "price_range": null
     },
     {
       "id": "shop-10",
@@ -97,7 +109,9 @@
         "システム開発",
         "DX支援"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null
     },
     {
       "id": "shop-11",
@@ -111,7 +125,9 @@
         "医療用品",
         "福祉用具"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": null
     },
     {
       "id": "shop-12",
@@ -125,7 +141,9 @@
         "東洋医学",
         "生薬"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": null
     },
     {
       "id": "shop-14",
@@ -139,7 +157,9 @@
         "建物管理",
         "管理会社"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null
     },
     {
       "id": "shop-15",
@@ -153,7 +173,9 @@
         "高齢者支援",
         "終活相談"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 5,
+      "price_range": null
     },
     {
       "id": "shop-15-2",
@@ -167,7 +189,9 @@
         "ジュエリー",
         "買取"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.9,
+      "price_range": null
     },
     {
       "id": "shop-16",
@@ -181,7 +205,9 @@
         "時計",
         "高額買取"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.7,
+      "price_range": null
     },
     {
       "id": "shop-17",
@@ -195,7 +221,9 @@
         "虫歯治療",
         "審美歯科"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-18",
@@ -209,7 +237,9 @@
         "時計",
         "高額買取"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.7,
+      "price_range": null
     },
     {
       "id": "shop-19",
@@ -223,7 +253,9 @@
         "骨盤矯正",
         "腰痛治療"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.1,
+      "price_range": null
     },
     {
       "id": "shop-20",
@@ -237,7 +269,9 @@
         "虫歯治療",
         "インプラント"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-21",
@@ -251,7 +285,9 @@
         "虫歯治療",
         "インプラント"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-22",
@@ -265,7 +301,9 @@
         "虫歯治療",
         "インプラント"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-23",
@@ -279,7 +317,9 @@
         "配送",
         "佐川急便"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.3,
+      "price_range": null
     },
     {
       "id": "shop-24",
@@ -293,7 +333,9 @@
         "絵画展示",
         "アート鑑賞"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": null
     },
     {
       "id": "shop-25",
@@ -307,7 +349,9 @@
         "虫歯治療",
         "インプラント"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-26",
@@ -321,7 +365,9 @@
         "ゲーム",
         "娯楽"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.4,
+      "price_range": null
     },
     {
       "id": "shop-27",
@@ -335,7 +381,9 @@
         "振込",
         "金融サービス"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.6,
+      "price_range": null
     },
     {
       "id": "shop-28",
@@ -349,7 +397,9 @@
         "時計",
         "ジュエリー"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.8,
+      "price_range": null
     },
     {
       "id": "shop-29",
@@ -363,7 +413,9 @@
         "貴金属",
         "ダイヤ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.9,
+      "price_range": null
     },
     {
       "id": "shop-30",
@@ -377,7 +429,9 @@
         "au",
         "契約手続き"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": null
     },
     {
       "id": "shop-31",
@@ -391,7 +445,9 @@
         "au",
         "契約手続き"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": null
     },
     {
       "id": "shop-32",
@@ -405,7 +461,9 @@
         "ヴィンテージ",
         "アメカジ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null
     },
     {
       "id": "shop-33",
@@ -419,7 +477,9 @@
         "飲料",
         "コーヒー"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null
     },
     {
       "id": "shop-34",
@@ -433,7 +493,9 @@
         "ブランドバッグ",
         "時計買取"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.7,
+      "price_range": null
     },
     {
       "id": "shop-35",
@@ -447,7 +509,9 @@
         "カット",
         "カラー"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.4,
+      "price_range": null
     },
     {
       "id": "shop-35-2",
@@ -461,7 +525,9 @@
         "売買",
         "不動産仲介"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 5,
+      "price_range": null
     },
     {
       "id": "shop-36",
@@ -475,7 +541,9 @@
         "矯正歯科",
         "審美歯科"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-37",
@@ -489,7 +557,9 @@
         "矯正歯科",
         "審美歯科"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-38",
@@ -503,7 +573,9 @@
         "セレクトショップ",
         "ワンピース"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 5,
+      "price_range": null
     },
     {
       "id": "shop-39",
@@ -517,7 +589,9 @@
         "セレクトショップ",
         "ワンピース"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 5,
+      "price_range": null
     },
     {
       "id": "shop-41",
@@ -531,7 +605,9 @@
         "ロボット教室",
         "STEM教育"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null
     },
     {
       "id": "shop-43",
@@ -545,7 +621,9 @@
         "コンサルタント",
         "オフィス"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-45",
@@ -559,7 +637,9 @@
         "飲料",
         "コーヒー"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null
     },
     {
       "id": "shop-46",
@@ -573,7 +653,9 @@
         "楽器販売",
         "楽器修理"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.8,
+      "price_range": null
     },
     {
       "id": "shop-48",
@@ -587,7 +669,9 @@
         "難聴",
         "医療機器"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null
     },
     {
       "id": "shop-51",
@@ -601,7 +685,9 @@
         "荷物発送",
         "配送"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.3,
+      "price_range": null
     },
     {
       "id": "shop-52",
@@ -615,7 +701,9 @@
         "マンション",
         "不動産仲介"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": null
     }
   ]
 }

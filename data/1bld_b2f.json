@@ -22,7 +22,10 @@
         "日本酒",
         "和食"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.1,
+      "price_range": "~1000円",
+      "description": "大衆料理と日本酒が揃う居酒屋。地元の雰囲気で気軽に晩酌できる。"
     },
     {
       "id": "shop-3",
@@ -36,7 +39,10 @@
         "もつ鍋",
         "焼酎"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": "~1000円",
+      "description": "九州料理の居酒屋。もつ鍋と焼酎の組み合わせが人気で、地元の味が楽しめる。"
     },
     {
       "id": "shop-4",
@@ -50,7 +56,10 @@
         "鶏料理",
         "酒場"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null,
+      "description": "焼き鳥と鶏料理が中心の酒場。新鮮な鶏を使った逸品が揃っている。"
     },
     {
       "id": "shop-5",
@@ -64,7 +73,10 @@
         "日本酒",
         "大衆酒場"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.7,
+      "price_range": null,
+      "description": "日本酒専門の立ち呑み処。角打ちで気軽に日本酒の美味しさを体験できる。"
     },
     {
       "id": "shop-6",
@@ -78,7 +90,7 @@
     {
       "id": "shop-7",
       "name": "リラクゼーション　ファイン",
-      "category": "service",
+      "category": "medical",
       "subcategory": "クリニック・ヘルスケア",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%A9%E3%82%AF%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%80%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -87,7 +99,9 @@
         "疲労回復",
         "ボディケア"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.5,
+      "price_range": null
     },
     {
       "id": "shop-8",
@@ -101,12 +115,14 @@
         "商品券",
         "金券ショップ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.1,
+      "price_range": null
     },
     {
       "id": "shop-9",
       "name": "ファミリーマート＋コクミンドラッグ",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC%E3%83%88%EF%BC%8B%E3%82%B3%E3%82%AF%E3%83%9F%E3%83%B3%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -115,7 +131,9 @@
         "医薬品",
         "日用品"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.4,
+      "price_range": null
     },
     {
       "id": "shop-10",
@@ -138,12 +156,15 @@
         "ナン",
         "タンドール"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.1,
+      "price_range": null,
+      "description": "本格インド料理の店。タンドール焼きのナンとスパイシーなカレーが味わえる。"
     },
     {
       "id": "shop-11",
       "name": "（株）FIVE CRYSTAL",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%88%E6%A0%AA%EF%BC%89FIVE%20CRYSTAL%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -152,7 +173,9 @@
         "アクセサリー",
         "ジュエリー"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.7,
+      "price_range": null
     },
     {
       "id": "shop-12",
@@ -175,12 +198,14 @@
         "商品券",
         "金券ショップ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.7,
+      "price_range": null
     },
     {
       "id": "shop-15",
       "name": "からだ接骨院",
-      "category": "service",
+      "category": "medical",
       "subcategory": "クリニック・ヘルスケア",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%8B%E3%82%89%E3%81%A0%E6%8E%A5%E9%AA%A8%E9%99%A2%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -189,12 +214,14 @@
         "ほねつぎ",
         "鍼灸"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.7,
+      "price_range": null
     },
     {
       "id": "shop-16",
       "name": "スマイルコンタクト",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E3%82%B3%E3%83%B3%E3%82%BF%E3%82%AF%E3%83%88%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -203,12 +230,14 @@
         "アイケア",
         "視力"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.6,
+      "price_range": null
     },
     {
       "id": "shop-17",
       "name": "買取本舗ドットコム　梅田買取センター",
-      "category": "service",
+      "category": "retail",
       "subcategory": "買取",
       "url": "https://www.google.com/maps/search/?api=1&query=%E8%B2%B7%E5%8F%96%E6%9C%AC%E8%88%97%E3%83%89%E3%83%83%E3%83%88%E3%82%B3%E3%83%A0%E3%80%80%E6%A2%85%E7%94%B0%E8%B2%B7%E5%8F%96%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -217,7 +246,9 @@
         "ブランド買取",
         "リサイクル"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": null
     },
     {
       "id": "shop-18",
@@ -231,7 +262,9 @@
         "ヘルスケア",
         "リラクゼーション"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 5,
+      "price_range": null
     },
     {
       "id": "shop-19",
@@ -245,12 +278,15 @@
         "紅茶",
         "軽食"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.4,
+      "price_range": "~2000円",
+      "description": "紅茶専門のティールーム。こだわりの紅茶と軽食でゆったりとした時間が過ごせる。"
     },
     {
       "id": "shop-20",
       "name": "SHB東洋医学総合センター",
-      "category": "service",
+      "category": "medical",
       "subcategory": "健康",
       "url": "https://www.google.com/maps/search/?api=1&query=SHB%E6%9D%B1%E6%B4%8B%E5%8C%BB%E5%AD%A6%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -259,7 +295,9 @@
         "漢方",
         "健康管理"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 5,
+      "price_range": null
     },
     {
       "id": "shop-21",
@@ -282,7 +320,10 @@
         "居酒屋",
         "季節料理"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.5,
+      "price_range": "~2000円",
+      "description": "炉端焼きの和食居酒屋。季節の食材を使った料理が目の前で焼き上げられる。"
     },
     {
       "id": "shop-23",
@@ -295,7 +336,9 @@
         "警備",
         "公共施設"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null
     },
     {
       "id": "shop-24",
@@ -308,7 +351,9 @@
         "宅配",
         "受取窓口"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null
     },
     {
       "id": "shop-25",
@@ -322,7 +367,10 @@
         "ビール",
         "立ち飲み"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": "~2000円",
+      "description": "クラフトビール専門の立ち飲みバー。世界中から厳選されたビールが豊富に揃っている。"
     },
     {
       "id": "shop-26",
@@ -336,7 +384,10 @@
         "スペイン料理",
         "立ち飲み"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.6,
+      "price_range": null,
+      "description": "スペイン料理とワインが楽しめるバル。ワインのセレクションが充実している。"
     },
     {
       "id": "shop-28",
@@ -350,7 +401,10 @@
         "立ち飲み",
         "酒類販売"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.1,
+      "price_range": null,
+      "description": "酒屋の角打ち。良質な日本酒を少量から試飲できる。リーズナブルな価格が魅力。"
     },
     {
       "id": "shop-28-2",
@@ -373,12 +427,15 @@
         "居酒屋",
         "海鮮"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": null,
+      "description": "干物と海鮮が中心の居酒屋。新鮮な魚を塩焼きやお造りで提供する。"
     },
     {
       "id": "shop-28-4",
       "name": "LULUAS ルルアス（リラクゼーション）",
-      "category": "service",
+      "category": "medical",
       "subcategory": "クリニック・ヘルスケア",
       "url": "https://www.google.com/maps/search/?api=1&query=LULUAS%20%E3%83%AB%E3%83%AB%E3%82%A2%E3%82%B9%EF%BC%88%E3%83%AA%E3%83%A9%E3%82%AF%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -387,7 +444,9 @@
         "癒し",
         "ボディケア"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 5,
+      "price_range": null
     },
     {
       "id": "shop-28-5",
@@ -401,7 +460,10 @@
         "点心",
         "ランチ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null,
+      "description": "本格中華料理の店。点心が豊富で、ランチに人気。リーズナブルな価格設定。"
     },
     {
       "id": "shop-28-6",
@@ -415,7 +477,10 @@
         "カフェバー",
         "夜の店"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null,
+      "description": "洋酒が豊富なカフェバー。昼と夜で異なる雰囲気が楽しめる。"
     },
     {
       "id": "shop-29",
@@ -429,7 +494,9 @@
         "ネイル",
         "ボディケア"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.4,
+      "price_range": null
     },
     {
       "id": "shop-30",
@@ -443,12 +510,15 @@
         "スパイス料理",
         "ランチ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null,
+      "description": "スパイス専門のカレー店。ランチに人気のボリューミーなスパイスカレー。"
     },
     {
       "id": "shop-31",
       "name": "鞄ヤ　絆商事（株）",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E9%9E%84%E3%83%A4%E3%80%80%E7%B5%86%E5%95%86%E4%BA%8B%EF%BC%88%E6%A0%AA%EF%BC%89%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -457,7 +527,9 @@
         "レザー",
         "修理"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.6,
+      "price_range": null
     },
     {
       "id": "shop-32",
@@ -471,7 +543,10 @@
         "大衆酒場",
         "晩酌"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null,
+      "description": "大衆的な雰囲気の呑み処。気軽に晩酌できる地元の酒場。"
     },
     {
       "id": "shop-33",
@@ -485,7 +560,10 @@
         "角打ち",
         "大衆酒場"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": "~1000円",
+      "description": "日本酒中心の立ち飲み処。角打ちで旨い日本酒が手頃な価格で楽しめる。"
     },
     {
       "id": "shop-34",
@@ -499,7 +577,10 @@
         "居酒屋",
         "角打ち"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": "~1000円",
+      "description": "気軽に立ち飲みできる居酒屋。アットホームな雰囲気で常連客が多い。"
     },
     {
       "id": "shop-35",
@@ -513,7 +594,10 @@
         "定食",
         "麺類"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": "~1000円",
+      "description": "本格手打ちうどんの店。ランチに人気で、定食との組み合わせもできる。"
     },
     {
       "id": "shop-36",
@@ -527,7 +611,10 @@
         "和食",
         "酒場"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null,
+      "description": "日本酒と和食の居酒屋。丁寧に選ばれた銘柄の日本酒が揃う。"
     },
     {
       "id": "shop-37",
@@ -540,12 +627,14 @@
         "ドリンク",
         "飲料"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": null
     },
     {
       "id": "shop-38",
       "name": "商品券　梅田スタンプ",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E5%95%86%E5%93%81%E5%88%B8%E3%80%80%E6%A2%85%E7%94%B0%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -554,7 +643,9 @@
         "スタンプ",
         "チケット"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.5,
+      "price_range": null
     },
     {
       "id": "shop-39",
@@ -568,7 +659,10 @@
         "大阪名物",
         "立ち飲み"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.7,
+      "price_range": null,
+      "description": "たこ焼きとワインが楽しめるユニークなバー。大阪名物を洋酒と組み合わせたコンセプト。"
     },
     {
       "id": "shop-39-2",
@@ -582,7 +676,10 @@
         "ウイスキー",
         "角打ち"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": "~1000円",
+      "description": "日本酒とウイスキーの品揃え豊富な立ち飲み処。角打ちで手頃な価格で楽しめる。"
     },
     {
       "id": "shop-40",
@@ -596,7 +693,10 @@
         "大衆酒場",
         "酒場"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": "~1000円",
+      "description": "気軽な立ち飲み居酒屋。リーズナブルな価格で酒と肴が楽しめる。"
     },
     {
       "id": "shop-41",
@@ -610,7 +710,10 @@
         "ランチ",
         "定食"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": null,
+      "description": "本格カレーのランチが人気。リーズナブルな価格でボリューミーな定食が食べられる。"
     },
     {
       "id": "shop-42",
@@ -624,7 +727,7 @@
     {
       "id": "shop-43",
       "name": "一二三堂（マッサージ）／梅田整骨院（ほねつぎ・鍼・灸）",
-      "category": "service",
+      "category": "medical",
       "subcategory": "クリニック・ヘルスケア",
       "url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E4%BA%8C%E4%B8%89%E5%A0%82%EF%BC%88%E3%83%9E%E3%83%83%E3%82%B5%E3%83%BC%E3%82%B8%EF%BC%89%EF%BC%8F%E6%A2%85%E7%94%B0%E6%95%B4%E9%AA%A8%E9%99%A2%EF%BC%88%E3%81%BB%E3%81%AD%E3%81%A4%E3%81%8E%E3%83%BB%E9%8D%BC%E3%83%BB%E7%81%B8%EF%BC%89%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -633,7 +736,9 @@
         "鍼灸",
         "ほねつぎ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.5,
+      "price_range": null
     },
     {
       "id": "shop-44",
@@ -647,7 +752,10 @@
         "麺類",
         "ランチ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": "~1000円",
+      "description": "蕎麦とうどんが揃う麺処。手打ち麺とコシのある食感が人気。"
     },
     {
       "id": "shop-45",
@@ -661,7 +769,10 @@
         "和食",
         "魚介"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.7,
+      "price_range": null,
+      "description": "握り寿司専門店。新鮮な魚介を使った上質な寿司が味わえる。"
     },
     {
       "id": "shop-46",
@@ -675,7 +786,10 @@
         "立ち食い",
         "日本料理"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.1,
+      "price_range": null,
+      "description": "割烹の技法を用いた立ち食いスタイルの店。上質な和食が手軽に楽しめる。"
     },
     {
       "id": "shop-47",
@@ -689,7 +803,10 @@
         "握り寿司",
         "海鮮"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.6,
+      "price_range": null,
+      "description": "まぐろにこだわる寿司店。新鮮で上質なまぐろが堪能できる。"
     },
     {
       "id": "shop-48",
@@ -703,7 +820,10 @@
         "ランチ",
         "定食"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.1,
+      "price_range": null,
+      "description": "本格中華のランチが人気。リーズナブルな価格で定食が楽しめる。"
     },
     {
       "id": "shop-49",
@@ -717,7 +837,10 @@
         "麺類",
         "ランチ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": null,
+      "description": "豚骨ラーメンの専門店。濃厚なスープと麺のコシが秀逸。ランチに人気。"
     },
     {
       "id": "shop-50",
@@ -731,7 +854,10 @@
         "小料理",
         "家庭料理"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": "~2000円",
+      "description": "家庭的なおばんざいと和食。素朴で温かみのある料理が特徴。"
     },
     {
       "id": "shop-51",
@@ -745,7 +871,10 @@
         "ランチ",
         "ディナー"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": "~2000円",
+      "description": "洋食専門のレストラン。ランチからディナーまで様々なシーンで利用できる。"
     },
     {
       "id": "shop-52",
@@ -759,7 +888,10 @@
         "大衆酒場",
         "定食"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": "~1000円",
+      "description": "和食と定食が充実した大衆酒場。リーズナブルな価格で利用しやすい。"
     },
     {
       "id": "shop-53",
@@ -773,7 +905,10 @@
         "酒房",
         "晩酌"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.4,
+      "price_range": "~1000円",
+      "description": "晩酌向けの大衆酒場。気軽に立ち寄れて手頃な価格が魅力。"
     },
     {
       "id": "shop-54",
@@ -787,12 +922,15 @@
         "コーヒー",
         "モーニング"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.1,
+      "price_range": null,
+      "description": "喫茶と軽食の店。朝のモーニングからコーヒーブレイクまで利用できる。"
     },
     {
       "id": "shop-55",
       "name": "花と緑　フラワーガーデン",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E3%81%A8%E7%B7%91%E3%80%80%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -801,12 +939,14 @@
         "フラワーアレンジ",
         "観葉植物"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": null
     },
     {
       "id": "shop-56",
       "name": "花と緑　フラワーガーデン",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E3%81%A8%E7%B7%91%E3%80%80%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -815,12 +955,14 @@
         "フラワーアレンジ",
         "観葉植物"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": null
     },
     {
       "id": "shop-57",
       "name": "チケット販売　第一ギフト",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%81%E3%82%B1%E3%83%83%E3%83%88%E8%B2%A9%E5%A3%B2%E3%80%80%E7%AC%AC%E4%B8%80%E3%82%AE%E3%83%95%E3%83%88%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -829,7 +971,9 @@
         "商品券",
         "ギフト"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.4,
+      "price_range": null
     },
     {
       "id": "shop-58",
@@ -843,7 +987,10 @@
         "大衆酒場",
         "晩酌"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.3,
+      "price_range": null,
+      "description": "アットホームな大衆酒場。気軽に立ち寄れて晩酌に最適。"
     },
     {
       "id": "shop-59",
@@ -866,7 +1013,10 @@
         "ダーツ",
         "夜の店"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": "~1000円",
+      "description": "ダーツとドリンクが楽しめるバー。若い世代に人気のナイトスポット。"
     },
     {
       "id": "shop-61",
@@ -880,7 +1030,10 @@
         "立ち飲み",
         "酒類販売"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": "~1000円",
+      "description": "酒屋の角打ち。厳選された日本酒をリーズナブルな価格で試飲できる。"
     },
     {
       "id": "shop-62",
@@ -894,7 +1047,10 @@
         "日本酒",
         "和食"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": "~2000円",
+      "description": "日本酒と酒菜の居酒屋。丁寧に選ばれた日本酒と料理の相性が秀逸。"
     },
     {
       "id": "shop-63",
@@ -908,7 +1064,10 @@
         "麺類",
         "ランチ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": "~1000円",
+      "description": "手打ちうどんにこだわる店。コシのある麺とスープの味わいが秀逸。"
     },
     {
       "id": "shop-64",
@@ -921,7 +1080,10 @@
         "タバコ販売",
         "喫煙具"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": "~1000円",
+      "description": "喫煙具とたばこ製品の専門店。豊富な品揃えが魅力。"
     },
     {
       "id": "shop-65",
@@ -934,7 +1096,9 @@
         "パチンコ",
         "ゲームセンター"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.6,
+      "price_range": null
     },
     {
       "id": "shop-66",
@@ -948,12 +1112,15 @@
         "屋台",
         "テイクアウト"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.4,
+      "price_range": null,
+      "description": "屋台風の餃子専門店。焼きたての餃子をテイクアウトできる。"
     },
     {
       "id": "shop-67",
       "name": "中国気功整体院（春風堂）",
-      "category": "service",
+      "category": "medical",
       "subcategory": "クリニック・ヘルスケア",
       "url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%9B%BD%E6%B0%97%E5%8A%9F%E6%95%B4%E4%BD%93%E9%99%A2%EF%BC%88%E6%98%A5%E9%A2%A8%E5%A0%82%EF%BC%89%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -962,7 +1129,9 @@
         "中国医術",
         "リラクゼーション"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.8,
+      "price_range": null
     },
     {
       "id": "shop-68",
@@ -976,7 +1145,10 @@
         "角打ち",
         "大衆酒場"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.8,
+      "price_range": null,
+      "description": "高評価の立ち飲み酒屋。選りすぐりの日本酒が楽しめる。"
     },
     {
       "id": "shop-69",
@@ -990,12 +1162,15 @@
         "立ち飲み",
         "晩酌"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.8,
+      "price_range": null,
+      "description": "地元の常連が集う大衆酒場。気軽で温かみのある雰囲気が魅力。"
     },
     {
       "id": "shop-70",
       "name": "CRAFTROOM",
-      "category": "service",
+      "category": "food",
       "subcategory": "BAR",
       "url": "https://www.google.com/maps/search/?api=1&query=CRAFTROOM%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -1004,7 +1179,9 @@
         "ビール",
         "立ち飲み"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.5,
+      "price_range": null
     },
     {
       "id": "shop-71",
@@ -1018,7 +1195,10 @@
         "海鮮",
         "刺身"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.7,
+      "price_range": null,
+      "description": "まぐろ刺身専門店。新鮮で良質なまぐろが味わえる。"
     },
     {
       "id": "shop-72",
@@ -1032,7 +1212,10 @@
         "日本酒",
         "和食"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": "~2000円",
+      "description": "日本酒と酒菜が充実した居酒屋。上質な日本酒の品揃え豊富。"
     },
     {
       "id": "shop-73",
@@ -1046,7 +1229,10 @@
         "日本酒",
         "角打ち"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": "~1000円",
+      "description": "庶民的な立ち飲み処。手頃な価格で日本酒が楽しめる。"
     },
     {
       "id": "shop-74",
@@ -1060,7 +1246,10 @@
         "鉄板焼き",
         "ランチ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.1,
+      "price_range": "~2000円",
+      "description": "大阪名物のお好み焼き。鉄板で焼きたてが食べられる。ランチに人気。"
     },
     {
       "id": "shop-75",
@@ -1074,12 +1263,15 @@
         "大阪名物",
         "揚げ物"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": "~2000円",
+      "description": "新世界の串カツ文化を代表する店。サクサクの串カツが堪能できる。"
     },
     {
       "id": "shop-76",
       "name": "青空リラクゼーション",
-      "category": "service",
+      "category": "medical",
       "subcategory": "クリニック・ヘルスケア",
       "url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%92%E7%A9%BA%E3%83%AA%E3%83%A9%E3%82%AF%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -1088,7 +1280,9 @@
         "疲労回復",
         "ボディケア"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3,
+      "price_range": null
     },
     {
       "id": "shop-77",
@@ -1111,7 +1305,10 @@
         "晩酌",
         "酒場"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": "~1000円",
+      "description": "楽しい雰囲気の大衆酒場。晩酌に最適なリーズナブルな価格。"
     },
     {
       "id": "shop-78",
@@ -1125,12 +1322,15 @@
         "晩酌",
         "酒場"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": "~1000円",
+      "description": "楽しい雰囲気の大衆酒場。友人と気軽に飲める環境。"
     },
     {
       "id": "shop-79",
       "name": "ゴルフ用品販売　GOLF　SHOP　ティーアップ",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B4%E3%83%AB%E3%83%95%E7%94%A8%E5%93%81%E8%B2%A9%E5%A3%B2%E3%80%80GOLF%E3%80%80SHOP%E3%80%80%E3%83%86%E3%82%A3%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -1139,7 +1339,9 @@
         "クラブ販売",
         "ゴルフ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.8,
+      "price_range": null
     },
     {
       "id": "shop-79-2",
@@ -1153,7 +1355,9 @@
         "リフォーム",
         "物件紹介"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null
     },
     {
       "id": "shop-79-3",
@@ -1167,7 +1371,10 @@
         "日本酒",
         "和食"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": "~2000円",
+      "description": "日本酒と酒菜の居酒屋。こだわりの日本酒と料理が堪能できる。"
     },
     {
       "id": "shop-80",
@@ -1181,12 +1388,15 @@
         "洋食",
         "ランチ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.6,
+      "price_range": null,
+      "description": "ワインと洋食のバル。ランチからディナーまで幅広く利用できる。"
     },
     {
       "id": "shop-81",
       "name": "DVD・ビデオ販売　エース",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=DVD%E3%83%BB%E3%83%93%E3%83%87%E3%82%AA%E8%B2%A9%E5%A3%B2%E3%80%80%E3%82%A8%E3%83%BC%E3%82%B9%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -1195,7 +1405,9 @@
         "中古ソフト",
         "映像ソフト"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.6,
+      "price_range": null
     },
     {
       "id": "shop-82",
@@ -1209,7 +1421,10 @@
         "揚げ物",
         "大阪名物"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": "~1000円",
+      "description": "串揚げにこだわる大阪名物の店。サクサクの食感が人気。"
     },
     {
       "id": "shop-83",
@@ -1223,7 +1438,10 @@
         "ナン",
         "スパイス"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": "~1000円",
+      "description": "本格インド料理の店。スパイシーなカレーとナンが堪能できる。"
     },
     {
       "id": "shop-83-2",
@@ -1246,7 +1464,10 @@
         "バー",
         "ナチュラルワイン"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": "~1000円",
+      "description": "ナチュラルワイン専門の立ち飲み店。ワイン好きにはたまらない品揃え。"
     }
   ]
 }

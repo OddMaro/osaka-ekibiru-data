@@ -12,7 +12,9 @@
         "パチンコ",
         "ゲームセンター"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.6,
+      "price_range": null
     },
     {
       "id": "shop-2",
@@ -26,7 +28,9 @@
         "メンズカット",
         "散髪"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.5,
+      "price_range": null
     },
     {
       "id": "shop-3",
@@ -40,7 +44,10 @@
         "日本料理",
         "懐石"
       ],
-      "added_at": "2025-04-30"
+      "description": "割烹で日本料理の懐石が楽しめる。季節の食材を使った上質な和食。",
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-4",
@@ -54,7 +61,10 @@
         "定食",
         "ランチ"
       ],
-      "added_at": "2025-04-30"
+      "description": "うどん・そば専門の食事処。ランチに人気の定食も揃っている。",
+      "added_at": "2025-04-30",
+      "google_rating": 3.8,
+      "price_range": null
     },
     {
       "id": "shop-5",
@@ -77,12 +87,14 @@
         "ヘアメイク",
         "スタイリング"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.8,
+      "price_range": null
     },
     {
       "id": "shop-5-3",
       "name": "ダイワンテレコム梅田店",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%80%E3%82%A4%E3%83%AF%E3%83%B3%E3%83%86%E3%83%AC%E3%82%B3%E3%83%A0%E6%A2%85%E7%94%B0%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -91,7 +103,9 @@
         "スマートフォン",
         "中古販売"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.8,
+      "price_range": null
     },
     {
       "id": "shop-6",
@@ -105,7 +119,7 @@
     {
       "id": "shop-6-2",
       "name": "ツキテラス薬局",
-      "category": "service",
+      "category": "medical",
       "subcategory": "薬局",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%84%E3%82%AD%E3%83%86%E3%83%A9%E3%82%B9%E8%96%AC%E5%B1%80%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -114,12 +128,14 @@
         "ドラッグストア",
         "処方薬"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.7,
+      "price_range": null
     },
     {
       "id": "shop-7",
       "name": "コリ研究所",
-      "category": "service",
+      "category": "medical",
       "subcategory": "マッサージ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%83%AA%E7%A0%94%E7%A9%B6%E6%89%80%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -128,7 +144,9 @@
         "肩こり",
         "リラクゼーション"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-7-2",
@@ -142,7 +160,10 @@
         "ランチ",
         "本格カレー"
       ],
-      "added_at": "2025-04-30"
+      "description": "本格スパイスカレーの専門店。ランチに最適なボリューミーなカレー。",
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-8",
@@ -156,12 +177,15 @@
         "立ち飲み",
         "酒場"
       ],
-      "added_at": "2025-04-30"
+      "description": "立ち飲み酒場。大衆的な雰囲気で、気軽に飲める。",
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-9",
       "name": "リラクゼーション癒憩　第一ビル店",
-      "category": "service",
+      "category": "medical",
       "subcategory": "マッサージ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%A9%E3%82%AF%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E7%99%92%E6%86%A9%E3%80%80%E7%AC%AC%E4%B8%80%E3%83%93%E3%83%AB%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -170,12 +194,14 @@
         "疲労回復",
         "ボディケア"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-10",
       "name": "シャンス　chance",
-      "category": "service",
+      "category": "medical",
       "subcategory": "マッサージ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%B9%E3%80%80chance%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -184,7 +210,9 @@
         "もみほぐし",
         "ボディケア"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null
     },
     {
       "id": "shop-11",
@@ -198,7 +226,9 @@
         "診療所",
         "外来"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.1,
+      "price_range": null
     },
     {
       "id": "shop-11-2",
@@ -212,7 +242,10 @@
         "ナン",
         "タンドール"
       ],
-      "added_at": "2025-04-30"
+      "description": "本格インド料理レストラン。ナンやタンドール料理が楽しめる。",
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": null
     },
     {
       "id": "shop-12",
@@ -235,7 +268,10 @@
         "軽食",
         "テイクアウト"
       ],
-      "added_at": "2025-04-30"
+      "description": "カフェでコーヒーと軽食。テイクアウトも可能。",
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": "~1000円"
     },
     {
       "id": "shop-14",
@@ -258,7 +294,10 @@
         "居酒屋",
         "魚料理"
       ],
-      "added_at": "2025-04-30"
+      "description": "海鮮串焼きの居酒屋。新鮮な魚介料理が味わえる。",
+      "added_at": "2025-04-30",
+      "google_rating": 4.6,
+      "price_range": null
     },
     {
       "id": "shop-16",
@@ -272,7 +311,10 @@
         "和食",
         "おでん"
       ],
-      "added_at": "2025-04-30"
+      "description": "大衆的な居酒屋。おでんと和食がリーズナブルに楽しめる。",
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": null
     },
     {
       "id": "shop-17",
@@ -295,7 +337,9 @@
         "管理会社",
         "オフィス"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 1,
+      "price_range": null
     },
     {
       "id": "shop-19",
@@ -309,12 +353,14 @@
         "管理会社",
         "オフィス"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 1,
+      "price_range": null
     },
     {
       "id": "shop-20",
       "name": "Party Space Bar OPEN DOOR",
-      "category": "service",
+      "category": "food",
       "subcategory": "BAR",
       "url": "https://www.google.com/maps/search/?api=1&query=Party%20Space%20Bar%20OPEN%20DOOR%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -323,12 +369,14 @@
         "貸切",
         "イベントスペース"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.8,
+      "price_range": null
     },
     {
       "id": "shop-21",
       "name": "TREVOR DERTISAN",
-      "category": "service",
+      "category": "medical",
       "subcategory": "美容室",
       "url": "https://www.google.com/maps/search/?api=1&query=TREVOR%20DERTISAN%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -337,12 +385,14 @@
         "カット",
         "カラー"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.8,
+      "price_range": null
     },
     {
       "id": "shop-22",
       "name": "あすなろ書店",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%81%99%E3%81%AA%E3%82%8D%E6%9B%B8%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -351,7 +401,9 @@
         "雑誌",
         "文庫"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.2,
+      "price_range": null
     },
     {
       "id": "shop-23",
@@ -365,7 +417,9 @@
         "ケータリング",
         "調理"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null
     },
     {
       "id": "shop-24",
@@ -379,12 +433,14 @@
         "疲労回復",
         "ボディケア"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.5,
+      "price_range": null
     },
     {
       "id": "shop-24-2",
       "name": "飯田鍼灸整骨院　リラクゼーションサロン　シュシュ",
-      "category": "service",
+      "category": "medical",
       "subcategory": "健康",
       "url": "https://www.google.com/maps/search/?api=1&query=%E9%A3%AF%E7%94%B0%E9%8D%BC%E7%81%B8%E6%95%B4%E9%AA%A8%E9%99%A2%E3%80%80%E3%83%AA%E3%83%A9%E3%82%AF%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B5%E3%83%AD%E3%83%B3%E3%80%80%E3%82%B7%E3%83%A5%E3%82%B7%E3%83%A5%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -393,7 +449,9 @@
         "リラクゼーション",
         "ほねつぎ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 5,
+      "price_range": null
     },
     {
       "id": "shop-25",
@@ -407,12 +465,15 @@
         "和食",
         "大衆酒場"
       ],
-      "added_at": "2025-04-30"
+      "description": "魚介を中心とした大衆酒場。和食と海の幸が揃う。",
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": null
     },
     {
       "id": "shop-26",
       "name": "もみほぐし堂",
-      "category": "service",
+      "category": "medical",
       "subcategory": "整体処",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%82%E3%81%BF%E3%81%BB%E3%81%90%E3%81%97%E5%A0%82%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -421,12 +482,14 @@
         "整体",
         "肩こり"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.7,
+      "price_range": null
     },
     {
       "id": "shop-27",
       "name": "癒しの空間　整体マッサージ　華",
-      "category": "service",
+      "category": "medical",
       "subcategory": "マッサージ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E7%99%92%E3%81%97%E3%81%AE%E7%A9%BA%E9%96%93%E3%80%80%E6%95%B4%E4%BD%93%E3%83%9E%E3%83%83%E3%82%B5%E3%83%BC%E3%82%B8%E3%80%80%E8%8F%AF%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -435,12 +498,14 @@
         "リラクゼーション",
         "癒し"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.8,
+      "price_range": null
     },
     {
       "id": "shop-28",
       "name": "TREVOR",
-      "category": "service",
+      "category": "medical",
       "subcategory": "ヘアーサロン",
       "url": "https://www.google.com/maps/search/?api=1&query=TREVOR%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -449,12 +514,14 @@
         "カット",
         "カラー"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.8,
+      "price_range": null
     },
     {
       "id": "shop-29",
       "name": "「Peace／ピース」リラクゼーション",
-      "category": "service",
+      "category": "medical",
       "subcategory": "整体処",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%80%8CPeace%EF%BC%8F%E3%83%94%E3%83%BC%E3%82%B9%E3%80%8D%E3%83%AA%E3%83%A9%E3%82%AF%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -463,12 +530,14 @@
         "整体",
         "ボディケア"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.9,
+      "price_range": null
     },
     {
       "id": "shop-30",
       "name": "オリエンタル鍼灸整骨院",
-      "category": "service",
+      "category": "medical",
       "subcategory": "整骨院",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%AB%E9%8D%BC%E7%81%B8%E6%95%B4%E9%AA%A8%E9%99%A2%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -477,7 +546,9 @@
         "ほねつぎ",
         "接骨院"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.7,
+      "price_range": null
     },
     {
       "id": "shop-31",
@@ -491,12 +562,15 @@
         "ホルモン",
         "定食"
       ],
-      "added_at": "2025-04-30"
+      "description": "焼肉と韓国料理の店。ホルモン定食もあり手軽に楽しめる。",
+      "added_at": "2025-04-30",
+      "google_rating": 4.1,
+      "price_range": "~1000円"
     },
     {
       "id": "shop-32",
       "name": "RAPUR　（ラピュール）",
-      "category": "service",
+      "category": "medical",
       "subcategory": "マッサージ",
       "url": "https://www.google.com/maps/search/?api=1&query=RAPUR%E3%80%80%EF%BC%88%E3%83%A9%E3%83%94%E3%83%A5%E3%83%BC%E3%83%AB%EF%BC%89%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -505,7 +579,9 @@
         "もみほぐし",
         "ボディケア"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3,
+      "price_range": null
     },
     {
       "id": "shop-33",
@@ -519,7 +595,10 @@
         "おでん",
         "定食"
       ],
-      "added_at": "2025-04-30"
+      "description": "和食とおでんの居酒屋。リーズナブルな定食メニューも豊富。",
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": "~1000円"
     },
     {
       "id": "shop-34",
@@ -533,7 +612,10 @@
         "立ち食い",
         "ランチ"
       ],
-      "added_at": "2025-04-30"
+      "description": "立ち食いカレーの店。ランチに最適な手軽で美味しいカレー。",
+      "added_at": "2025-04-30",
+      "google_rating": 4.1,
+      "price_range": null
     },
     {
       "id": "shop-35",
@@ -547,7 +629,10 @@
         "軽食",
         "テイクアウト"
       ],
-      "added_at": "2025-04-30"
+      "description": "カフェチェーン。コーヒーと軽食がリーズナブルに楽しめる。テイクアウト可。",
+      "added_at": "2025-04-30",
+      "google_rating": 3.7,
+      "price_range": "~1000円"
     },
     {
       "id": "shop-36",
@@ -579,12 +664,15 @@
         "洋食",
         "レストラン"
       ],
-      "added_at": "2025-04-30"
+      "description": "東欧・ロシア料理のレストラン。珍しい洋食が堪能できる。",
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": "~2000円"
     },
     {
       "id": "shop-39",
       "name": "リラクゼーション 憩 〜IKOI〜",
-      "category": "service",
+      "category": "medical",
       "subcategory": "マッサージ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%A9%E3%82%AF%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E6%86%A9%20%E3%80%9CIKOI%E3%80%9C%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -593,7 +681,9 @@
         "癒し",
         "疲労回復"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.4,
+      "price_range": null
     },
     {
       "id": "shop-40",
@@ -607,7 +697,10 @@
         "ウイスキー",
         "喫茶"
       ],
-      "added_at": "2025-04-30"
+      "description": "ウイスキーと洋酒が充実したバー。喫茶としても利用できる。",
+      "added_at": "2025-04-30",
+      "google_rating": 4.1,
+      "price_range": "~1000円"
     },
     {
       "id": "shop-41",
@@ -621,12 +714,15 @@
         "コーヒー",
         "レトロ"
       ],
-      "added_at": "2025-04-30"
+      "description": "純喫茶でレトロな雰囲気。コーヒーをのんびり楽しめる。",
+      "added_at": "2025-04-30",
+      "google_rating": 4.1,
+      "price_range": "~1000円"
     },
     {
       "id": "shop-42",
       "name": "シャーロックホームズ 大阪ダーツ協会",
-      "category": "service",
+      "category": "food",
       "subcategory": "洋酒・喫茶・英国パブ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BA%20%E5%A4%A7%E9%98%AA%E3%83%80%E3%83%BC%E3%83%84%E5%8D%94%E4%BC%9A%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -635,12 +731,14 @@
         "洋酒",
         "バー"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.4,
+      "price_range": "~2000円"
     },
     {
       "id": "shop-43",
       "name": "買取本舗ドットコム梅田1号店",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E8%B2%B7%E5%8F%96%E6%9C%AC%E8%88%97%E3%83%89%E3%83%83%E3%83%88%E3%82%B3%E3%83%A0%E6%A2%85%E7%94%B01%E5%8F%B7%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -649,7 +747,9 @@
         "ブランド買取",
         "リサイクル"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": null
     },
     {
       "id": "shop-44",
@@ -663,7 +763,10 @@
         "スナック",
         "夜の店"
       ],
-      "added_at": "2025-04-30"
+      "description": "バーとスナック。夜の雰囲気の中、洋酒が楽しめる。",
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": null
     },
     {
       "id": "shop-45",
@@ -677,7 +780,9 @@
         "工芸品",
         "アート"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null
     },
     {
       "id": "shop-46",
@@ -691,7 +796,10 @@
         "定食",
         "晩酌"
       ],
-      "added_at": "2025-04-30"
+      "description": "和食の居酒屋。定食から晩酌メニューまで豊富。",
+      "added_at": "2025-04-30",
+      "google_rating": 3.8,
+      "price_range": null
     },
     {
       "id": "shop-47",
@@ -705,7 +813,9 @@
         "視力検査",
         "コンタクト"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.5,
+      "price_range": null
     },
     {
       "id": "shop-48",
@@ -719,7 +829,9 @@
         "対局",
         "ゲーム"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": null
     },
     {
       "id": "shop-49",
@@ -732,7 +844,9 @@
         "オフィス",
         "企業"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null
     },
     {
       "id": "shop-50",
@@ -746,7 +860,10 @@
         "カラオケ",
         "夜の店"
       ],
-      "added_at": "2025-04-30"
+      "description": "スナックバー。カラオケも楽しめる夜の店。",
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null
     },
     {
       "id": "shop-51",
@@ -759,7 +876,9 @@
         "パチンコ",
         "ゲームセンター"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.6,
+      "price_range": null
     }
   ]
 }

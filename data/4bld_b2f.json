@@ -13,7 +13,9 @@
         "チケット販売",
         "換金"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.8,
+      "price_range": null
     },
     {
       "id": "shop-02",
@@ -27,7 +29,10 @@
         "居酒屋",
         "揚げ物"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": "~1000円",
+      "description": "大阪名物の串カツが味わえる居酒屋。揚げたての串をソースにつけてほおばる庶民の味が楽しめる。"
     },
     {
       "id": "shop-03",
@@ -41,21 +46,27 @@
         "軽食",
         "昭和レトロ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": null,
+      "description": "昭和レトロな雰囲気の純喫茶。コーヒーと軽食でのんびりくつろげる懐かしい空間。"
     },
     {
       "id": "shop-05",
       "name": "特製鯵フライと沖縄SOBAR　がんじゅー",
       "category": "food",
       "subcategory": "飲食",
-      "url": "",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E7%89%B9%E8%A3%BD%E9%AF%B5%E3%83%95%E3%83%A9%E3%82%A4%E3%81%A8%E6%B2%96%E7%B8%84SOBAR%E3%80%80%E3%81%8C%E3%82%93%E3%81%98%E3%82%85%E3%83%BC%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC4%E3%83%93%E3%83%AB",
       "tags": [
         "沖縄料理",
         "アジフライ",
         "定食",
         "ランチ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": null,
+      "description": "特製アジフライと沖縄そばが楽しめるユニークな定食店。個性的な組み合わせのランチが揃う。"
     },
     {
       "id": "shop-05-2",
@@ -69,7 +80,10 @@
         "居酒屋",
         "揚げ物"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.7,
+      "price_range": "~1000円",
+      "description": "大阪の味・串カツを手頃な価格で提供する居酒屋。揚げ物とお酒を気軽に楽しめる。"
     },
     {
       "id": "shop-06",
@@ -83,7 +97,10 @@
         "角打ち",
         "酒屋"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.8,
+      "price_range": "~1000円",
+      "description": "酒屋直営の角打ちができる立ち飲み処。仕入れた酒をそのまま一杯楽しめる下町の風情。"
     },
     {
       "id": "shop-07",
@@ -97,7 +114,10 @@
         "角打ち",
         "酒屋"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.8,
+      "price_range": "~1000円",
+      "description": "酒屋直営の角打ちができる立ち飲み処。仕入れた酒をそのまま一杯楽しめる下町の風情。"
     },
     {
       "id": "shop-08-1",
@@ -111,7 +131,10 @@
         "焼肉",
         "居酒屋"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.4,
+      "price_range": "~2000円",
+      "description": "チゲや焼肉が楽しめる韓国料理店。本場の辛さと旨みで居酒屋感覚に気軽に使える。"
     },
     {
       "id": "shop-08-2",
@@ -124,7 +147,9 @@
         "消費者金融",
         "カードローン"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null
     },
     {
       "id": "shop-10",
@@ -138,7 +163,10 @@
         "ランチ",
         "カレー"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": "~2000円",
+      "description": "洋食とカレーが揃うランチスポット。家庭的な味の欧風料理が手頃な価格で楽しめる。"
     },
     {
       "id": "shop-11-1",
@@ -152,7 +180,9 @@
         "チケット販売",
         "換金"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.8,
+      "price_range": null
     },
     {
       "id": "shop-11-2",
@@ -166,7 +196,10 @@
         "醤油ラーメン",
         "中華"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.8,
+      "price_range": "~2000円",
+      "description": "煮干しが効いた醤油ラーメン専門店。あっさりながら深みのあるスープが特徴の一杯。"
     },
     {
       "id": "shop-12",
@@ -180,7 +213,10 @@
         "飲み会",
         "おつまみ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null,
+      "description": "飲み会やちょい飲みに使いやすい大衆居酒屋。おつまみが豊富で気軽に楽しめる雰囲気。"
     },
     {
       "id": "shop-14-1",
@@ -193,7 +229,9 @@
         "ドリンク",
         "飲み物"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-14-2",
@@ -207,7 +245,9 @@
         "整体",
         "癒し"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null
     },
     {
       "id": "shop-16",
@@ -220,7 +260,9 @@
         "消費者金融",
         "カードローン"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null
     },
     {
       "id": "shop-17",
@@ -233,7 +275,9 @@
         "リラクゼーション",
         "癒し"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": null
     },
     {
       "id": "shop-18-1",
@@ -247,7 +291,9 @@
         "デンタルケア",
         "審美歯科"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.4,
+      "price_range": null
     },
     {
       "id": "shop-18-2",
@@ -261,7 +307,9 @@
         "ジュエリー",
         "ファッション雑貨"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-19",
@@ -275,7 +323,9 @@
         "日用品",
         "ATM"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2,
+      "price_range": null
     },
     {
       "id": "shop-19-2",
@@ -289,7 +339,9 @@
         "スピリチュアル",
         "運勢"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.4,
+      "price_range": null
     },
     {
       "id": "shop-20",
@@ -303,7 +355,9 @@
         "日用品",
         "ATM"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2,
+      "price_range": null
     },
     {
       "id": "shop-21",
@@ -317,7 +371,10 @@
         "スムージー",
         "デザート"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.2,
+      "price_range": null,
+      "description": "フルーツを使ったスムージーやデザートが揃う店。ヘルシーなひと息タイムに立ち寄れる。"
     },
     {
       "id": "shop-22",
@@ -331,7 +388,10 @@
         "定食",
         "惣菜"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.7,
+      "price_range": "~1000円",
+      "description": "和食の定食と惣菜が揃うランチ向きの食堂。手頃な価格で家庭的な味が楽しめる。"
     },
     {
       "id": "shop-23",
@@ -345,7 +405,9 @@
         "ぜんざい",
         "甘味"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.7,
+      "price_range": null
     },
     {
       "id": "shop-24",
@@ -359,7 +421,10 @@
         "エスニック",
         "アジア料理"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": "~2000円",
+      "description": "本場タイ料理が楽しめるエスニック料理店。スパイスの効いたアジア料理でランチやディナーを。"
     },
     {
       "id": "shop-25-1",
@@ -373,7 +438,9 @@
         "リラクゼーション",
         "癒し"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.5,
+      "price_range": null
     },
     {
       "id": "shop-25-2",
@@ -387,7 +454,9 @@
         "美容",
         "脱毛"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": null
     },
     {
       "id": "shop-26",
@@ -400,7 +469,9 @@
         "リラクゼーション",
         "中国式マッサージ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.8,
+      "price_range": null
     },
     {
       "id": "shop-27",
@@ -414,7 +485,9 @@
         "整体",
         "癒し"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.7,
+      "price_range": null
     },
     {
       "id": "shop-28",
@@ -428,7 +501,9 @@
         "整体",
         "中国式マッサージ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.8,
+      "price_range": null
     },
     {
       "id": "shop-29",
@@ -442,7 +517,10 @@
         "大衆酒場",
         "おつまみ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.6,
+      "price_range": null,
+      "description": "B1の七津屋から独立した別室の立ち飲み処。おつまみとお酒を気軽に楽しめる姉妹店。"
     },
     {
       "id": "shop-29-2",
@@ -455,7 +533,9 @@
         "金券ショップ",
         "換金"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.4,
+      "price_range": null
     },
     {
       "id": "shop-30",
@@ -468,7 +548,9 @@
         "金券ショップ",
         "換金"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.4,
+      "price_range": null
     },
     {
       "id": "shop-31",
@@ -481,7 +563,9 @@
         "金券ショップ",
         "換金"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.4,
+      "price_range": null
     },
     {
       "id": "shop-32-1",
@@ -495,7 +579,9 @@
         "インテリア",
         "ギャラリー"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.7,
+      "price_range": null
     },
     {
       "id": "shop-32-2",
@@ -509,7 +595,10 @@
         "ドイツ料理",
         "ビール"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": "~2000円",
+      "description": "キリンビールとドイツ料理が楽しめるビアホール。本格的なビールと料理のペアリングを堪能できる。"
     },
     {
       "id": "shop-33",
@@ -523,7 +612,9 @@
         "ビューティ",
         "リラクゼーション"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 5,
+      "price_range": null
     },
     {
       "id": "shop-34",
@@ -537,7 +628,10 @@
         "居酒屋",
         "揚げ物"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.7,
+      "price_range": "~1000円",
+      "description": "大阪の味・串カツを手頃な価格で提供する居酒屋。揚げ物とお酒を気軽に楽しめる。"
     },
     {
       "id": "shop-35",
@@ -550,7 +644,9 @@
         "サロン",
         "スピリチュアル"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 5,
+      "price_range": null
     },
     {
       "id": "shop-36",
@@ -564,7 +660,10 @@
         "飲み会",
         "おつまみ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": null,
+      "description": "飲み会や仲間との一杯に気軽に使える大衆居酒屋。おつまみと酒でにぎやかに過ごせる。"
     },
     {
       "id": "shop-37",
@@ -577,7 +676,9 @@
         "金券ショップ",
         "換金"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.4,
+      "price_range": null
     },
     {
       "id": "shop-38",
@@ -591,7 +692,9 @@
         "美容院",
         "カット専門"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.7,
+      "price_range": null
     },
     {
       "id": "shop-39",
@@ -605,7 +708,10 @@
         "大衆酒場",
         "おつまみ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null,
+      "description": "和食のおつまみが揃う落ち着いた大衆居酒屋。ゆっくりと一杯楽しみたいときに立ち寄れる。"
     },
     {
       "id": "shop-40",
@@ -619,7 +725,10 @@
         "大衆酒場",
         "おつまみ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null,
+      "description": "和食のおつまみが揃う落ち着いた大衆居酒屋。ゆっくりと一杯楽しみたいときに立ち寄れる。"
     },
     {
       "id": "shop-41-1",
@@ -632,7 +741,9 @@
         "ドリンク",
         "キリン飲料"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null
     },
     {
       "id": "shop-41-2",
@@ -645,7 +756,9 @@
         "リラクゼーション",
         "癒し"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null
     },
     {
       "id": "shop-43",
@@ -659,7 +772,9 @@
         "惣菜",
         "和食材"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": null
     },
     {
       "id": "shop-45-2",
@@ -673,7 +788,9 @@
         "日用品",
         "化粧品"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.1,
+      "price_range": null
     },
     {
       "id": "shop-47",
@@ -687,7 +804,10 @@
         "飲み会",
         "おつまみ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": null,
+      "description": "飲み会や仲間との一杯に気軽に使える大衆居酒屋。おつまみと酒でにぎやかに過ごせる。"
     },
     {
       "id": "shop-48",
@@ -701,7 +821,10 @@
         "飲み会",
         "おつまみ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": null,
+      "description": "和食と豊富なおつまみで飲み会にも対応できる居酒屋。にぎやかな雰囲気で仲間と楽しめる。"
     },
     {
       "id": "shop-50",
@@ -715,7 +838,9 @@
         "着物",
         "インテリア"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.5,
+      "price_range": null
     },
     {
       "id": "shop-51",
@@ -729,7 +854,9 @@
         "整体",
         "中国式マッサージ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.8,
+      "price_range": null
     },
     {
       "id": "shop-52",
@@ -743,7 +870,9 @@
         "日用品",
         "ATM"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.5,
+      "price_range": null
     },
     {
       "id": "shop-53",
@@ -757,7 +886,9 @@
         "日用品",
         "ATM"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.5,
+      "price_range": null
     },
     {
       "id": "shop-54",
@@ -771,7 +902,9 @@
         "日用品",
         "ATM"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.5,
+      "price_range": null
     },
     {
       "id": "shop-70",
@@ -785,7 +918,10 @@
         "海鮮",
         "居酒屋"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null,
+      "description": "新鮮な魚料理と海鮮が楽しめる居酒屋。魚好きには外せない、旬の一品が揃う一軒。"
     },
     {
       "id": "shop-71",
@@ -799,7 +935,10 @@
         "和食",
         "居酒屋"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": "~2000円",
+      "description": "干物を看板メニューにした和食居酒屋。じっくり焼いた干物を肴に一杯どうぞ。"
     },
     {
       "id": "shop-72",
@@ -813,7 +952,10 @@
         "和食",
         "居酒屋"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": "~2000円",
+      "description": "干物を看板メニューにした和食居酒屋。じっくり焼いた干物を肴に一杯どうぞ。"
     },
     {
       "id": "shop-73-1",
@@ -827,7 +969,9 @@
         "カードローン",
         "ATM"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 5,
+      "price_range": null
     },
     {
       "id": "shop-73-2",
@@ -841,7 +985,9 @@
         "ブランド品買取",
         "換金"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.6,
+      "price_range": null
     },
     {
       "id": "shop-74",
@@ -855,7 +1001,9 @@
         "ブランド品買取",
         "換金"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.6,
+      "price_range": null
     },
     {
       "id": "shop-75",
@@ -869,7 +1017,9 @@
         "日用品",
         "化粧品"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.2,
+      "price_range": null
     },
     {
       "id": "shop-76",
@@ -883,7 +1033,9 @@
         "日用品",
         "化粧品"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.2,
+      "price_range": null
     },
     {
       "id": "shop-77",
@@ -897,7 +1049,9 @@
         "日用品",
         "化粧品"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.2,
+      "price_range": null
     }
   ]
 }

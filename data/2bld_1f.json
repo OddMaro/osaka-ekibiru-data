@@ -22,7 +22,9 @@
         "プラスサイズ",
         "レディース"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.7,
+      "price_range": null
     },
     {
       "id": "shop-2",
@@ -36,7 +38,9 @@
         "レーザー",
         "美容医療"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.4,
+      "price_range": null
     },
     {
       "id": "shop-4",
@@ -50,7 +54,9 @@
         "ローン",
         "金融"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2,
+      "price_range": null
     },
     {
       "id": "shop-5",
@@ -64,7 +70,9 @@
         "賃貸",
         "物件"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.3,
+      "price_range": null
     },
     {
       "id": "shop-6",
@@ -78,7 +86,9 @@
         "ルアー",
         "釣り用品"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.1,
+      "price_range": null
     },
     {
       "id": "shop-7",
@@ -92,7 +102,9 @@
         "外来",
         "診療所"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 5,
+      "price_range": null
     },
     {
       "id": "shop-8-1",
@@ -115,7 +127,9 @@
         "ショールーム",
         "インテリア"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null
     },
     {
       "id": "shop-8-1-3",
@@ -129,7 +143,9 @@
         "管楽器",
         "音楽用品"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-8-2",
@@ -142,7 +158,9 @@
         "遊技場",
         "ホール"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.2,
+      "price_range": null
     },
     {
       "id": "shop-8-3",
@@ -155,7 +173,9 @@
         "パチスロ",
         "遊技場"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.2,
+      "price_range": null
     },
     {
       "id": "shop-9",
@@ -169,7 +189,9 @@
         "電子タバコ",
         "ニコチンパッチ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-10-1",
@@ -192,7 +214,9 @@
         "スピリチュアル",
         "カウンセリング"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": null
     },
     {
       "id": "shop-10-3",
@@ -206,7 +230,9 @@
         "語学教室",
         "外国語"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 5,
+      "price_range": null
     },
     {
       "id": "shop-11-1",
@@ -220,30 +246,34 @@
         "ビル管理",
         "物件"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": null
     },
     {
       "id": "shop-11-2",
-      "name": "空き区画",
-      "category": "empty",
-      "subcategory": "",
-      "url": "",
+      "name": "J－LED　VISION",
+      "category": "service",
+      "subcategory": "サービス",
+      "url": "https://www.google.com/maps/search/?api=1&query=J%EF%BC%8DLED%E3%80%80VISION%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
       "tags": [],
       "added_at": "2025-04-30"
     },
     {
       "id": "shop-12",
-      "name": "（株）プラスワン 大阪北店",
+      "name": "SHIRO不動産",
       "category": "service",
       "subcategory": "サービス",
-      "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%97%E3%83%A9%E3%82%B9%E3%83%AF%E3%83%B3%20%E5%A4%A7%E9%98%AA%E5%8C%97%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "url": "https://www.google.com/maps/search/?api=1&query=SHIRO%E4%B8%8D%E5%8B%95%E7%94%A3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
       "tags": [
         "靴修理",
         "カギ",
         "合鍵",
         "リペア"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.6,
+      "price_range": null
     },
     {
       "id": "shop-13-1",
@@ -257,14 +287,16 @@
         "ネイルケア",
         "足トラブル"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.9,
+      "price_range": null
     },
     {
       "id": "shop-13-2",
-      "name": "空き区画",
-      "category": "empty",
-      "subcategory": "",
-      "url": "",
+      "name": "Nia　nail　salon",
+      "category": "service",
+      "subcategory": "サービス",
+      "url": "https://www.google.com/maps/search/?api=1&query=Nia%E3%80%80nail%E3%80%80salon%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
       "tags": [],
       "added_at": "2025-04-30"
     },
@@ -280,7 +312,9 @@
         "食料品",
         "雑貨"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null
     },
     {
       "id": "shop-15",
@@ -294,7 +328,9 @@
         "カット",
         "カラー"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.9,
+      "price_range": null
     },
     {
       "id": "shop-16",
@@ -308,7 +344,9 @@
         "お菓子",
         "手作り料理"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": null
     },
     {
       "id": "shop-17",
@@ -340,7 +378,9 @@
         "アパート",
         "物件探し"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.6,
+      "price_range": null
     },
     {
       "id": "shop-20",
@@ -354,7 +394,9 @@
         "アクセサリー",
         "ギャラリー"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null
     },
     {
       "id": "shop-21",
@@ -368,7 +410,9 @@
         "部屋探し",
         "物件"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.8,
+      "price_range": null
     },
     {
       "id": "shop-22",
@@ -382,7 +426,9 @@
         "賃貸",
         "物件"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.6,
+      "price_range": null
     },
     {
       "id": "shop-23",
@@ -405,7 +451,9 @@
         "修理",
         "リペア"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.8,
+      "price_range": null
     },
     {
       "id": "shop-25",
@@ -419,7 +467,9 @@
         "キャッシング",
         "金融"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 5,
+      "price_range": null
     },
     {
       "id": "shop-26",
@@ -433,7 +483,9 @@
         "ローン",
         "ATM"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null
     },
     {
       "id": "shop-27",
@@ -447,7 +499,9 @@
         "ハウスメーカー",
         "住宅建設"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.5,
+      "price_range": null
     },
     {
       "id": "shop-28",
@@ -461,7 +515,9 @@
         "クリニック",
         "医療"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.9,
+      "price_range": null
     }
   ]
 }

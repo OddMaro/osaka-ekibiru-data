@@ -13,7 +13,9 @@
         "理髪店",
         "カット"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.9,
+      "price_range": null
     },
     {
       "id": "shop-02",
@@ -27,7 +29,9 @@
         "アイリスト",
         "美容サロン"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.8,
+      "price_range": null
     },
     {
       "id": "shop-03",
@@ -41,7 +45,9 @@
         "ボディケア",
         "整体"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 5,
+      "price_range": null
     },
     {
       "id": "shop-05",
@@ -55,7 +61,9 @@
         "ボディケア",
         "疲労回復"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.1,
+      "price_range": null
     },
     {
       "id": "shop-06",
@@ -69,7 +77,10 @@
         "スペシャルティコーヒー",
         "カフェ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": null,
+      "description": "スペシャルティコーヒーにこだわった喫茶店。豆の個性を丁寧に引き出した一杯が楽しめる。"
     },
     {
       "id": "shop-07-1",
@@ -83,7 +94,9 @@
         "肩こり",
         "ボディケア"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null
     },
     {
       "id": "shop-07-2",
@@ -97,7 +110,9 @@
         "ボディケア",
         "疲労回復"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.8,
+      "price_range": null
     },
     {
       "id": "shop-08",
@@ -111,7 +126,10 @@
         "焼き鳥",
         "日本酒"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.1,
+      "price_range": null,
+      "description": "焼き鳥と日本酒が自慢の和風居酒屋。落ち着いた雰囲気でゆっくりと杯を傾けられる。"
     },
     {
       "id": "shop-10",
@@ -125,7 +143,9 @@
         "カット",
         "シェービング"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.7,
+      "price_range": null
     },
     {
       "id": "shop-11",
@@ -139,7 +159,9 @@
         "ボディケア",
         "肩こり"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": null
     },
     {
       "id": "shop-12-1",
@@ -153,7 +175,10 @@
         "ランチ",
         "ディナー"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null,
+      "description": "昼はランチカフェ、夜はバーとして利用できる複合店。幅広いシーンに対応している。"
     },
     {
       "id": "shop-12-2",
@@ -167,7 +192,9 @@
         "ボディケア",
         "疲労回復"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null
     },
     {
       "id": "shop-14",
@@ -181,7 +208,10 @@
         "ランチ",
         "スイーツ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null,
+      "description": "コーヒーとスイーツが揃うくつろぎのカフェ。ランチ利用にも立ち寄りやすい雰囲気。"
     },
     {
       "id": "shop-15",
@@ -195,7 +225,9 @@
         "展示スペース",
         "イベント会場"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.4,
+      "price_range": null
     },
     {
       "id": "shop-16",
@@ -209,7 +241,9 @@
         "カット",
         "カラー"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.6,
+      "price_range": null
     },
     {
       "id": "shop-17",
@@ -223,7 +257,10 @@
         "麺料理",
         "辛い"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": null,
+      "description": "汁なし担担麺に特化した専門店。痺れる辛さとコク深いタレが麺に絡む一杯が自慢。"
     },
     {
       "id": "shop-18",
@@ -237,7 +274,9 @@
         "遊戯王",
         "カードゲーム"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": null
     },
     {
       "id": "shop-19",
@@ -251,7 +290,9 @@
         "リフレクソロジー",
         "足裏マッサージ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.9,
+      "price_range": null
     },
     {
       "id": "shop-20-1",
@@ -265,7 +306,10 @@
         "大衆酒場",
         "日本酒"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.7,
+      "price_range": null,
+      "description": "個性的な店名が目を引く立ち飲み居酒屋。リーズナブルな価格で日本酒をゆっくり楽しめる。"
     },
     {
       "id": "shop-20-2",
@@ -279,7 +323,9 @@
         "美肌ケア",
         "エステ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null
     },
     {
       "id": "shop-21",
@@ -293,7 +339,9 @@
         "海外旅行",
         "国内旅行"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.5,
+      "price_range": null
     },
     {
       "id": "shop-22",
@@ -307,7 +355,10 @@
         "ワイン",
         "居酒屋"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.1,
+      "price_range": "~2000円",
+      "description": "アジア料理とワインが楽しめるバルスタイルの居酒屋。エスニックな雰囲気で異国気分が味わえる。"
     },
     {
       "id": "shop-23",
@@ -321,7 +372,9 @@
         "霊視",
         "人生相談"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.4,
+      "price_range": null
     },
     {
       "id": "shop-24",
@@ -335,7 +388,10 @@
         "イタリアン",
         "ランチ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.5,
+      "price_range": null,
+      "description": "ペペロンチーノ一本に特化した専門店。シンプルながら素材の風味が際立つランチにおすすめ。"
     },
     {
       "id": "shop-25",
@@ -349,7 +405,9 @@
         "エステ",
         "ボディケア"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null
     },
     {
       "id": "shop-26",
@@ -363,7 +421,9 @@
         "振込",
         "金融サービス"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null
     },
     {
       "id": "shop-27",
@@ -377,7 +437,10 @@
         "ハイボール",
         "おつまみ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.3,
+      "price_range": "~1000円",
+      "description": "ハイボールとおつまみが手頃な価格で楽しめる気軽な大衆酒場。仕事帰りに気軽に立ち寄れる。"
     },
     {
       "id": "shop-28",
@@ -391,7 +454,10 @@
         "日本酒",
         "焼酎"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.6,
+      "price_range": null,
+      "description": "日本酒・焼酎が揃う昔ながらの立ち飲み処。仕事帰りにふらりと一杯できる庶民的な酒場。"
     },
     {
       "id": "shop-29",
@@ -405,7 +471,10 @@
         "ワイン",
         "洋食"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.6,
+      "price_range": null,
+      "description": "ワインと洋食が楽しめる居酒屋スタイルのバー。ディナーから深夜まで幅広く対応している。"
     },
     {
       "id": "shop-30",
@@ -419,7 +488,9 @@
         "スカルプケア",
         "リラクゼーション"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.7,
+      "price_range": null
     },
     {
       "id": "shop-31",
@@ -433,7 +504,10 @@
         "大衆酒場",
         "ビール"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.9,
+      "price_range": null,
+      "description": "クラフトビールにこだわった酒場。バラエティ豊かな銘柄から好みの一杯が選べる。"
     },
     {
       "id": "shop-32",
@@ -447,7 +521,9 @@
         "セレクトショップ",
         "ユーズド"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3,
+      "price_range": null
     },
     {
       "id": "shop-33-1",
@@ -461,7 +537,10 @@
         "おつまみ",
         "大衆酒場"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.1,
+      "price_range": "~2000円",
+      "description": "和食のおつまみと酒が楽しめる大衆居酒屋。地元客に愛されるアットホームな雰囲気。"
     },
     {
       "id": "shop-33-2",
@@ -475,7 +554,10 @@
         "ワイン",
         "カフェ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.4,
+      "price_range": null,
+      "description": "イタリアンバールスタイルの店。ワインに合うつまみからカフェ利用まで気軽に立ち寄れる。"
     },
     {
       "id": "shop-34",
@@ -489,7 +571,10 @@
         "居酒屋",
         "ハイボール"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.1,
+      "price_range": "~1000円",
+      "description": "昭和レトロな雰囲気が漂う大衆酒場。ハイボール片手に懐かしい空気感の中で一杯楽しめる。"
     },
     {
       "id": "shop-35",
@@ -503,7 +588,9 @@
         "飲料",
         "コーヒー"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-36",
@@ -517,7 +604,9 @@
         "ナンバーズ",
         "当選"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": null
     },
     {
       "id": "shop-37",
@@ -531,7 +620,10 @@
         "麺料理",
         "ランチ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null,
+      "description": "ビル地下のフードコートに入るラーメン店。手軽にランチやサクッと一杯食べたいときに便利。"
     },
     {
       "id": "shop-38",
@@ -545,7 +637,9 @@
         "商品券",
         "回数券"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.1,
+      "price_range": null
     },
     {
       "id": "shop-39",
@@ -559,7 +653,10 @@
         "ワイン",
         "パスタ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.1,
+      "price_range": "~2000円",
+      "description": "本格イタリアンのオステリア。パスタとワインのペアリングが楽しめる大人の食空間。"
     },
     {
       "id": "shop-40",
@@ -573,7 +670,10 @@
         "ハイボール",
         "和食"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.7,
+      "price_range": "~1000円",
+      "description": "酒場と大衆食堂が一体となった店。リーズナブルなハイボールと和食で気軽に飲んで食べられる。"
     },
     {
       "id": "shop-41",
@@ -587,7 +687,10 @@
         "居酒屋",
         "和食"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": null,
+      "description": "鉄板焼きとおでんが一度に楽しめる居酒屋。どちらも素材の旨みを活かしたシンプルな仕上がり。"
     },
     {
       "id": "shop-43",
@@ -601,7 +704,9 @@
         "画面修理",
         "即日修理"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.8,
+      "price_range": null
     },
     {
       "id": "shop-45",
@@ -615,7 +720,9 @@
         "ボディケア",
         "もみほぐし"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.8,
+      "price_range": null
     },
     {
       "id": "shop-46",
@@ -629,7 +736,10 @@
         "宴会",
         "和食"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": "~1000円",
+      "description": "宴会にも対応する和食居酒屋。グループ利用から一人飲みまで気軽に使える大衆酒場スタイル。"
     },
     {
       "id": "shop-47",
@@ -643,7 +753,10 @@
         "おつまみ",
         "日本酒"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.8,
+      "price_range": null,
+      "description": "日本酒と和食のおつまみが揃う居酒屋。おしゃれな雰囲気で一人飲みにも利用しやすい。"
     },
     {
       "id": "shop-48",
@@ -657,7 +770,10 @@
         "日本酒",
         "焼酎"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": "~1000円",
+      "description": "日本酒・焼酎が気軽に楽しめる立ち飲み処。庶民的な価格でふらりと一杯立ち寄れる。"
     },
     {
       "id": "shop-50",
@@ -671,7 +787,10 @@
         "大阪名物",
         "大衆酒場"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": "~1000円",
+      "description": "たこ焼きを肴に飲める大阪らしい居酒屋。大阪名物グルメをつまみながら気軽に一杯楽しめる。"
     },
     {
       "id": "shop-51",
@@ -685,7 +804,10 @@
         "ワイン",
         "洋食"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.6,
+      "price_range": null,
+      "description": "ワインと洋食が楽しめる居酒屋バー。明るい雰囲気で一人飲みからグループ利用まで幅広く対応。"
     },
     {
       "id": "shop-52",
@@ -699,7 +821,10 @@
         "日本酒",
         "焼き鳥"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": "~1000円",
+      "description": "焼き鳥と日本酒・焼酎が揃う立ち飲み処。仕事帰りにサッと立ち寄って一杯楽しめる。"
     },
     {
       "id": "shop-53",
@@ -713,7 +838,10 @@
         "麺料理",
         "ランチ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": "~2000円",
+      "description": "鶏白湯スープのラーメン専門店。濃厚でまろやかなスープが麺によく絡む一杯が自慢。"
     },
     {
       "id": "shop-70-3",
@@ -727,7 +855,9 @@
         "PC修理",
         "周辺機器"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.8,
+      "price_range": null
     },
     {
       "id": "shop-70-4",
@@ -741,7 +871,9 @@
         "PC修理",
         "周辺機器"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.8,
+      "price_range": null
     },
     {
       "id": "shop-70-5",
@@ -755,7 +887,9 @@
         "マッサージ",
         "ボディケア"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": null
     },
     {
       "id": "shop-70-6",
@@ -769,7 +903,9 @@
         "休憩",
         "ボディケア"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": null
     },
     {
       "id": "shop-70-7",
@@ -783,7 +919,10 @@
         "天ぷら",
         "ランチ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.5,
+      "price_range": "~1000円",
+      "description": "注文ごとに打ちたての讃岐うどんが楽しめるチェーン店。天ぷらと合わせてリーズナブルなランチが揃う。"
     },
     {
       "id": "shop-71",
@@ -797,7 +936,9 @@
         "クレーンゲーム",
         "アーケードゲーム"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.2,
+      "price_range": null
     }
   ]
 }

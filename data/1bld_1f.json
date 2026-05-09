@@ -13,12 +13,15 @@
         "酒屋",
         "食料品"
       ],
-      "added_at": "2025-04-30"
+      "description": "酒屋兼立ち呑み処。日本酒や焼酎の品揃え豊富で、角打ちで気軽に楽しめる。食料品も充実している。",
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": null
     },
     {
       "id": "shop-2",
       "name": "カメラ・材料販売　（株）大林",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%A1%E3%83%A9%E3%83%BB%E6%9D%90%E6%96%99%E8%B2%A9%E5%A3%B2%E3%80%80%EF%BC%88%E6%A0%AA%EF%BC%89%E5%A4%A7%E6%9E%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -26,12 +29,14 @@
         "写真材料",
         "カメラ用品"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-3",
       "name": "カメラ・材料販売　（株）大林",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%A1%E3%83%A9%E3%83%BB%E6%9D%90%E6%96%99%E8%B2%A9%E5%A3%B2%E3%80%80%EF%BC%88%E6%A0%AA%EF%BC%89%E5%A4%A7%E6%9E%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -39,12 +44,14 @@
         "写真材料",
         "カメラ用品"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-4",
       "name": "カメラ・材料販売　（株）大林",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%A1%E3%83%A9%E3%83%BB%E6%9D%90%E6%96%99%E8%B2%A9%E5%A3%B2%E3%80%80%EF%BC%88%E6%A0%AA%EF%BC%89%E5%A4%A7%E6%9E%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -52,7 +59,9 @@
         "写真材料",
         "カメラ用品"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-5",
@@ -66,12 +75,15 @@
         "バー",
         "イベント"
       ],
-      "added_at": "2025-04-30"
+      "description": "パーティーやイベント向けの貸切スペース。バー機能も備え、グループや企業利用に最適。",
+      "added_at": "2025-04-30",
+      "google_rating": 3.8,
+      "price_range": null
     },
     {
       "id": "shop-6",
       "name": "BARBERSHOP cloud9",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=BARBERSHOP%20cloud9%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -79,7 +91,9 @@
         "メンズカット",
         "理髪店"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.9,
+      "price_range": null
     },
     {
       "id": "shop-7",
@@ -92,7 +106,9 @@
         "運送",
         "荷物配送"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 1,
+      "price_range": null
     },
     {
       "id": "shop-8",
@@ -106,7 +122,7 @@
     {
       "id": "shop-9",
       "name": "道明たばこ店",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E9%81%93%E6%98%8E%E3%81%9F%E3%81%B0%E3%81%93%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -114,12 +130,14 @@
         "タバコ販売",
         "喫煙具"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": null
     },
     {
       "id": "shop-10",
       "name": "稲葉眼科",
-      "category": "service",
+      "category": "medical",
       "subcategory": "クリニック・ヘルスケア",
       "url": "https://www.google.com/maps/search/?api=1&query=%E7%A8%B2%E8%91%89%E7%9C%BC%E7%A7%91%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -127,7 +145,9 @@
         "クリニック",
         "視力検査"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-11",
@@ -140,12 +160,15 @@
         "居酒屋",
         "泡盛"
       ],
-      "added_at": "2025-04-30"
+      "description": "沖縄料理と泡盛が楽しめる居酒屋。沖縄の雰囲気を感じながら、地元の味を堪能できる。",
+      "added_at": "2025-04-30",
+      "google_rating": 4.7,
+      "price_range": "~2000円"
     },
     {
       "id": "shop-11-2",
       "name": "スマホ買取専門　スマバイ",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%9E%E3%83%9B%E8%B2%B7%E5%8F%96%E5%B0%82%E9%96%80%E3%80%80%E3%82%B9%E3%83%9E%E3%83%90%E3%82%A4%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -153,12 +176,14 @@
         "携帯買取",
         "中古スマホ"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.8,
+      "price_range": null
     },
     {
       "id": "shop-12",
       "name": "湖崎オプティカル　眼鏡部",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E6%B9%96%E5%B4%8E%E3%82%AA%E3%83%97%E3%83%86%E3%82%A3%E3%82%AB%E3%83%AB%E3%80%80%E7%9C%BC%E9%8F%A1%E9%83%A8%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -166,12 +191,14 @@
         "メガネ",
         "コンタクト"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 5,
+      "price_range": null
     },
     {
       "id": "shop-13",
       "name": "時計買取・修理・販売　Watch-Colle　ウォッチコレ",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E6%99%82%E8%A8%88%E8%B2%B7%E5%8F%96%E3%83%BB%E4%BF%AE%E7%90%86%E3%83%BB%E8%B2%A9%E5%A3%B2%E3%80%80Watch-Colle%E3%80%80%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%82%B3%E3%83%AC%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -179,7 +206,9 @@
         "時計修理",
         "ブランド時計"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": null
     },
     {
       "id": "shop-14",
@@ -192,7 +221,9 @@
         "ヤマト運輸",
         "荷物発送"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4,
+      "price_range": null
     },
     {
       "id": "shop-15",
@@ -204,12 +235,14 @@
         "消防署",
         "公共機関"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.8,
+      "price_range": null
     },
     {
       "id": "shop-16",
       "name": "ウインザーラケットショップ梅田店",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%B6%E3%83%BC%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E6%A2%85%E7%94%B0%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -217,12 +250,14 @@
         "ラケット",
         "スポーツ用品"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-17",
       "name": "ラケットワールド梅田",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%82%B1%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E6%A2%85%E7%94%B0%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -230,7 +265,9 @@
         "ラケット",
         "スポーツ用品"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.7,
+      "price_range": null
     },
     {
       "id": "shop-18",
@@ -243,7 +280,9 @@
         "銀行",
         "ATM"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.4,
+      "price_range": null
     },
     {
       "id": "shop-19",
@@ -256,12 +295,15 @@
         "和食",
         "定食"
       ],
-      "added_at": "2025-04-30"
+      "description": "和食の居酒屋。定食もあり、リーズナブルな価格で和の味わいが楽しめる。",
+      "added_at": "2025-04-30",
+      "google_rating": 3.9,
+      "price_range": "~1000円"
     },
     {
       "id": "shop-20",
       "name": "ラブトイズ　コスチューム　信長書店",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%83%96%E3%83%88%E3%82%A4%E3%82%BA%E3%80%80%E3%82%B3%E3%82%B9%E3%83%81%E3%83%A5%E3%83%BC%E3%83%A0%E3%80%80%E4%BF%A1%E9%95%B7%E6%9B%B8%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -269,12 +311,14 @@
         "コスチューム",
         "成人向け"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.8,
+      "price_range": null
     },
     {
       "id": "shop-21",
       "name": "ラブトイズ　コスチューム　信長書店",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%83%96%E3%83%88%E3%82%A4%E3%82%BA%E3%80%80%E3%82%B3%E3%82%B9%E3%83%81%E3%83%A5%E3%83%BC%E3%83%A0%E3%80%80%E4%BF%A1%E9%95%B7%E6%9B%B8%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -282,7 +326,9 @@
         "コスチューム",
         "成人向け"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.8,
+      "price_range": null
     },
     {
       "id": "shop-22",
@@ -295,7 +341,9 @@
         "低価格カット",
         "散髪"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.5,
+      "price_range": null
     },
     {
       "id": "shop-23",
@@ -308,12 +356,15 @@
         "ダイニングバー",
         "洋食"
       ],
-      "added_at": "2025-04-30"
+      "description": "ダイニングバー。洋食とお酒が楽しめる落ち着いた雰囲気のお店。",
+      "added_at": "2025-04-30",
+      "google_rating": 5,
+      "price_range": null
     },
     {
       "id": "shop-24",
       "name": "口コミ占い.com　ジャンヌダルク",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%A3%E3%82%B3%E3%83%9F%E5%8D%A0%E3%81%84.com%E3%80%80%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%8C%E3%83%80%E3%83%AB%E3%82%AF%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -321,7 +372,9 @@
         "タロット",
         "スピリチュアル"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.7,
+      "price_range": null
     },
     {
       "id": "shop-25",
@@ -334,7 +387,10 @@
         "中華",
         "スープ"
       ],
-      "added_at": "2025-04-30"
+      "description": "麻辣湯（マーラータン）専門店。中華スープを自分好みにカスタマイズできる人気店。",
+      "added_at": "2025-04-30",
+      "google_rating": 5,
+      "price_range": null
     },
     {
       "id": "shop-26",
@@ -348,7 +404,10 @@
         "健康食",
         "定食"
       ],
-      "added_at": "2025-04-30"
+      "description": "玄米と野菜を使った健康的な料理が揃う食堂。定食メニューも充実している。",
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": "~2000円"
     },
     {
       "id": "shop-27",
@@ -361,12 +420,15 @@
         "フランス料理",
         "レストラン"
       ],
-      "added_at": "2025-04-30"
+      "description": "本格フレンチの落ち着きあるレストラン。特別な日のディナーにも最適。",
+      "added_at": "2025-04-30",
+      "google_rating": 4.1,
+      "price_range": null
     },
     {
       "id": "shop-28",
       "name": "てもみん",
-      "category": "service",
+      "category": "medical",
       "subcategory": "クリニック・ヘルスケア",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%A6%E3%82%82%E3%81%BF%E3%82%93%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -374,7 +436,9 @@
         "もみほぐし",
         "リラクゼーション"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.4,
+      "price_range": null
     },
     {
       "id": "shop-29",
@@ -387,7 +451,10 @@
         "大衆酒場",
         "和食"
       ],
-      "added_at": "2025-04-30"
+      "description": "大衆的な居酒屋。和食を中心に、旨い肴とお酒が楽しめる。",
+      "added_at": "2025-04-30",
+      "google_rating": 4.3,
+      "price_range": null
     },
     {
       "id": "shop-30",
@@ -400,12 +467,15 @@
         "テイクアウト",
         "惣菜"
       ],
-      "added_at": "2025-04-30"
+      "description": "テイクアウト専門の弁当・惣菜店。リーズナブルで毎日の食事に便利。",
+      "added_at": "2025-04-30",
+      "google_rating": 3.4,
+      "price_range": "~1000円"
     },
     {
       "id": "shop-31",
       "name": "ダイコクドラッグ　第1ビル店",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%80%E3%82%A4%E3%82%B3%E3%82%AF%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0%E3%80%80%E7%AC%AC1%E3%83%93%E3%83%AB%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -413,12 +483,14 @@
         "薬局",
         "日用品"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 2.9,
+      "price_range": null
     },
     {
       "id": "shop-32",
       "name": "ミニミニFc　大阪駅前支店",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%9F%E3%83%8B%E3%83%9F%E3%83%8BFc%E3%80%80%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E6%94%AF%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -426,33 +498,39 @@
         "賃貸",
         "物件紹介"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.9,
+      "price_range": null
     },
     {
       "id": "shop-33",
       "name": "買取専門店　バイセル　梅田第1ビル店",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E8%B2%B7%E5%8F%96%E5%B0%82%E9%96%80%E5%BA%97%E3%80%80FUKUCHAN%E3%80%80%E6%A2%85%E7%94%B0%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E8%B2%B7%E5%8F%96%E5%B0%82%E9%96%80%E5%BA%97%E3%80%80%E3%83%90%E3%82%A4%E3%82%BB%E3%83%AB%E3%80%80%E6%A2%85%E7%94%B0%E7%AC%AC1%E3%83%93%E3%83%AB%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
         "買取",
         "リサイクル",
         "ブランド品"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.8,
+      "price_range": null
     },
     {
       "id": "shop-34",
       "name": "（株）梅田フォトサービス",
-      "category": "service",
+      "category": "retail",
       "subcategory": "ショップ",
-      "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%88%E6%A0%AA%EF%BC%89%E6%A2%85%E7%94%B0%E3%83%95%E3%82%A9%E3%83%88%E3%82%B5%E3%83%BC%E3%83%93%E2%80%A6",
+      "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%88%E6%A0%AA%EF%BC%89%E6%A2%85%E7%94%B0%E3%83%95%E3%82%A9%E3%83%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
         "写真現像",
         "フォトサービス",
         "プリント"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.2,
+      "price_range": null
     },
     {
       "id": "shop-35",
@@ -465,12 +543,14 @@
         "ビル管理",
         "賃貸"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 3.3,
+      "price_range": null
     },
     {
       "id": "shop-36",
       "name": "レオンデンタルオフィス大阪梅田院",
-      "category": "service",
+      "category": "medical",
       "subcategory": "クリニック・ヘルスケア",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%AC%E3%82%AA%E3%83%B3%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E5%A4%A7%E9%98%AA%E6%A2%85%E7%94%B0%E9%99%A2%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
@@ -478,7 +558,9 @@
         "デンタルクリニック",
         "審美歯科"
       ],
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": 4.6,
+      "price_range": null
     }
   ]
 }

@@ -1845,18 +1845,18 @@
     },
     {
       "id": "shop-111",
-      "name": "ブライダルコンシェルジュ アンソワ",
+      "name": "ほしよみ堂　大阪梅田店",
       "category": "service",
       "subcategory": "その他",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%96%E3%83%A9%E3%82%A4%E3%83%80%E3%83%AB%E3%82%B3%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%A5%20%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AF%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%BB%E3%81%97%E3%82%88%E3%81%BF%E5%A0%82%E3%80%80%E5%A4%A7%E9%98%AA%E6%A2%85%E7%94%B0%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
       "tags": [
-        "ブライダル",
-        "結婚式場紹介",
-        "ウェディング",
-        "婚礼相談"
+        "鑑定",
+        "運勢",
+        "手相",
+        "占い"
       ],
       "added_at": "2025-04-30",
-      "google_rating": 4.4,
+      "google_rating": null,
       "price_range": null
     },
     {

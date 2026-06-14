@@ -13,6 +13,7 @@
         "酒屋",
         "食料品"
       ],
+      "open": "",
       "description": "酒屋兼立ち呑み処。日本酒や焼酎の品揃え豊富で、角打ちで気軽に楽しめる。食料品も充実している。",
       "added_at": "2025-04-30",
       "google_rating": 4.2,
@@ -29,6 +30,7 @@
         "写真材料",
         "カメラ用品"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
       "price_range": null
@@ -44,6 +46,7 @@
         "写真材料",
         "カメラ用品"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
       "price_range": null
@@ -59,6 +62,7 @@
         "写真材料",
         "カメラ用品"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
       "price_range": null
@@ -75,6 +79,7 @@
         "バー",
         "イベント"
       ],
+      "open": "",
       "description": "パーティーやイベント向けの貸切スペース。バー機能も備え、グループや企業利用に最適。",
       "added_at": "2025-04-30",
       "google_rating": 3.8,
@@ -91,6 +96,7 @@
         "メンズカット",
         "理髪店"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.9,
       "price_range": null
@@ -106,6 +112,7 @@
         "運送",
         "荷物配送"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 1,
       "price_range": null
@@ -117,6 +124,7 @@
       "subcategory": "",
       "url": "",
       "tags": [],
+      "open": "",
       "added_at": "2025-04-30"
     },
     {
@@ -130,6 +138,7 @@
         "タバコ販売",
         "喫煙具"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.2,
       "price_range": null
@@ -145,6 +154,7 @@
         "クリニック",
         "視力検査"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
       "price_range": null
@@ -160,6 +170,7 @@
         "居酒屋",
         "泡盛"
       ],
+      "open": "",
       "description": "沖縄料理と泡盛が楽しめる居酒屋。沖縄の雰囲気を感じながら、地元の味を堪能できる。",
       "added_at": "2025-04-30",
       "google_rating": 4.7,
@@ -176,6 +187,7 @@
         "携帯買取",
         "中古スマホ"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.8,
       "price_range": null
@@ -191,6 +203,7 @@
         "メガネ",
         "コンタクト"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 5,
       "price_range": null
@@ -206,6 +219,7 @@
         "時計修理",
         "ブランド時計"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.9,
       "price_range": null
@@ -221,6 +235,7 @@
         "ヤマト運輸",
         "荷物発送"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4,
       "price_range": null
@@ -235,6 +250,7 @@
         "消防署",
         "公共機関"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 2.8,
       "price_range": null
@@ -250,6 +266,7 @@
         "ラケット",
         "スポーツ用品"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
       "price_range": null
@@ -265,6 +282,7 @@
         "ラケット",
         "スポーツ用品"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.7,
       "price_range": null
@@ -280,6 +298,7 @@
         "銀行",
         "ATM"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.4,
       "price_range": null
@@ -295,6 +314,7 @@
         "和食",
         "定食"
       ],
+      "open": "",
       "description": "和食の居酒屋。定食もあり、リーズナブルな価格で和の味わいが楽しめる。",
       "added_at": "2025-04-30",
       "google_rating": 3.9,
@@ -311,6 +331,7 @@
         "コスチューム",
         "成人向け"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.8,
       "price_range": null
@@ -326,6 +347,7 @@
         "コスチューム",
         "成人向け"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.8,
       "price_range": null
@@ -341,6 +363,7 @@
         "低価格カット",
         "散髪"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.5,
       "price_range": null
@@ -356,6 +379,7 @@
         "ダイニングバー",
         "洋食"
       ],
+      "open": "",
       "description": "ダイニングバー。洋食とお酒が楽しめる落ち着いた雰囲気のお店。",
       "added_at": "2025-04-30",
       "google_rating": 5,
@@ -372,6 +396,7 @@
         "タロット",
         "スピリチュアル"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.7,
       "price_range": null
@@ -387,6 +412,7 @@
         "中華",
         "スープ"
       ],
+      "open": "",
       "description": "麻辣湯（マーラータン）専門店。中華スープを自分好みにカスタマイズできる人気店。",
       "added_at": "2025-04-30",
       "google_rating": 5,
@@ -404,6 +430,7 @@
         "健康食",
         "定食"
       ],
+      "open": "",
       "description": "玄米と野菜を使った健康的な料理が揃う食堂。定食メニューも充実している。",
       "added_at": "2025-04-30",
       "google_rating": 4.2,
@@ -420,6 +447,7 @@
         "フランス料理",
         "レストラン"
       ],
+      "open": "",
       "description": "本格フレンチの落ち着きあるレストラン。特別な日のディナーにも最適。",
       "added_at": "2025-04-30",
       "google_rating": 4.1,
@@ -436,6 +464,7 @@
         "もみほぐし",
         "リラクゼーション"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.4,
       "price_range": null
@@ -451,6 +480,7 @@
         "大衆酒場",
         "和食"
       ],
+      "open": "",
       "description": "大衆的な居酒屋。和食を中心に、旨い肴とお酒が楽しめる。",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
@@ -467,6 +497,7 @@
         "テイクアウト",
         "惣菜"
       ],
+      "open": "",
       "description": "テイクアウト専門の弁当・惣菜店。リーズナブルで毎日の食事に便利。",
       "added_at": "2025-04-30",
       "google_rating": 3.4,
@@ -483,6 +514,7 @@
         "薬局",
         "日用品"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 2.9,
       "price_range": null
@@ -498,6 +530,7 @@
         "賃貸",
         "物件紹介"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.9,
       "price_range": null
@@ -513,6 +546,7 @@
         "リサイクル",
         "ブランド品"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.8,
       "price_range": null
@@ -528,6 +562,7 @@
         "フォトサービス",
         "プリント"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.2,
       "price_range": null
@@ -543,6 +578,7 @@
         "ビル管理",
         "賃貸"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.3,
       "price_range": null
@@ -558,6 +594,7 @@
         "デンタルクリニック",
         "審美歯科"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.6,
       "price_range": null

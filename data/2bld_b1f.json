@@ -13,6 +13,7 @@
         "広東料理",
         "宴会"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.7,
       "price_range": null,
@@ -29,6 +30,7 @@
         "チケット交換",
         "商品券"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.6,
       "price_range": null
@@ -45,6 +47,7 @@
         "ボディケア",
         "もみほぐし"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 5,
       "price_range": null
@@ -61,6 +64,7 @@
         "大衆酒場",
         "焼肉"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4,
       "price_range": null,
@@ -78,6 +82,7 @@
         "ボディケア",
         "肩こり"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.4,
       "price_range": null
@@ -94,6 +99,7 @@
         "家庭料理",
         "定食"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.4,
       "price_range": null,
@@ -111,6 +117,7 @@
         "全身リラクゼーション",
         "疲労回復"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.1,
       "price_range": null
@@ -127,6 +134,7 @@
         "ランチ",
         "定食"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4,
       "price_range": "~1000円",
@@ -139,6 +147,7 @@
       "subcategory": "飲食",
       "url": "https://www.google.com/maps/search/?api=1&query=%E5%A0%82%E5%B1%B1%E9%A3%9F%E5%A0%82%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
       "tags": [],
+      "open": "",
       "added_at": "2025-04-30"
     },
     {
@@ -153,6 +162,7 @@
         "揚げ物",
         "大衆食堂"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.4,
       "price_range": null,
@@ -169,6 +179,7 @@
         "リラクゼーション",
         "ボディケア"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.9,
       "price_range": null
@@ -185,6 +196,7 @@
         "中華",
         "居酒屋"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.8,
       "price_range": null,
@@ -202,6 +214,7 @@
         "立ち飲み",
         "居酒屋"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.5,
       "price_range": null,
@@ -219,6 +232,7 @@
         "餃子",
         "定食"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4,
       "price_range": "~2000円",
@@ -236,6 +250,7 @@
         "刺身",
         "鮮魚"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.9,
       "price_range": null,
@@ -253,6 +268,7 @@
         "ストレッチ",
         "ボディケア"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.9,
       "price_range": null
@@ -269,6 +285,7 @@
         "カギ",
         "リペア"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
       "price_range": null
@@ -285,6 +302,7 @@
         "飲み会",
         "おつまみ"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4,
       "price_range": null,
@@ -302,6 +320,7 @@
         "骨盤矯正",
         "腰痛"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.8,
       "price_range": null
@@ -318,6 +337,7 @@
         "日本酒",
         "焼酎"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4,
       "price_range": "~1000円",
@@ -335,6 +355,7 @@
         "家庭料理",
         "定食"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.8,
       "price_range": "~2000円",
@@ -352,6 +373,7 @@
         "日本酒",
         "大衆酒場"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.2,
       "price_range": "~1000円",
@@ -369,6 +391,7 @@
         "肩こり",
         "腰痛"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.6,
       "price_range": null
@@ -379,7 +402,8 @@
       "category": "empty",
       "subcategory": "",
       "url": "",
-      "tags": []
+      "tags": [],
+      "open": ""
     },
     {
       "id": "shop-16",
@@ -393,6 +417,7 @@
         "足つぼ",
         "疲労回復"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.3,
       "price_range": null
@@ -409,6 +434,7 @@
         "定食",
         "ランチ"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.1,
       "price_range": "~1000円",
@@ -426,6 +452,7 @@
         "喫茶",
         "ランチ"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.5,
       "price_range": "~2000円",
@@ -443,6 +470,7 @@
         "海鮮",
         "洋食"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.2,
       "price_range": null,
@@ -460,6 +488,7 @@
         "ランチ",
         "居酒屋"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4,
       "price_range": "~1000円",
@@ -477,6 +506,7 @@
         "ランチ",
         "居酒屋"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4,
       "price_range": "~1000円",
@@ -494,6 +524,7 @@
         "日用品",
         "弁当"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.7,
       "price_range": null
@@ -510,6 +541,7 @@
         "日用品",
         "弁当"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.7,
       "price_range": null
@@ -525,6 +557,7 @@
         "遊技場",
         "ゲーム"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 2.3,
       "price_range": null
@@ -540,6 +573,7 @@
         "パチスロ",
         "遊技場"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 2.3,
       "price_range": null
@@ -556,6 +590,7 @@
         "焼酎",
         "大衆酒場"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.6,
       "price_range": null,
@@ -573,6 +608,7 @@
         "売買",
         "オフィス"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": null,
       "price_range": null
@@ -589,6 +625,7 @@
         "ナン",
         "スパイス"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.6,
       "price_range": "~2000円",
@@ -606,6 +643,7 @@
         "カット",
         "散髪"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.7,
       "price_range": null
@@ -622,6 +660,7 @@
         "日本酒",
         "大衆酒場"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.3,
       "price_range": null,
@@ -639,6 +678,7 @@
         "おでん",
         "和食"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.8,
       "price_range": "~1000円",
@@ -656,6 +696,7 @@
         "おでん",
         "和食"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 2.1,
       "price_range": null,
@@ -673,6 +714,7 @@
         "宴会",
         "飲み放題"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.1,
       "price_range": "~1000円",
@@ -690,6 +732,7 @@
         "ブランド品",
         "リサイクル"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.8,
       "price_range": null
@@ -706,6 +749,7 @@
         "洋酒",
         "深夜営業"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
       "price_range": null,
@@ -723,6 +767,7 @@
         "揚げ物",
         "居酒屋"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.8,
       "price_range": null,
@@ -740,6 +785,7 @@
         "大衆酒場",
         "焼き鳥"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.1,
       "price_range": "~1000円",
@@ -757,6 +803,7 @@
         "ランチ",
         "居酒屋"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.2,
       "price_range": "~1000円",
@@ -774,6 +821,7 @@
         "大衆酒場",
         "焼き鳥"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.1,
       "price_range": "~1000円",
@@ -791,6 +839,7 @@
         "ランチ",
         "居酒屋"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.2,
       "price_range": "~1000円",
@@ -808,6 +857,7 @@
         "ランチ",
         "居酒屋"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.2,
       "price_range": "~1000円",
@@ -825,6 +875,7 @@
         "軽食",
         "テイクアウト"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.4,
       "price_range": null,
@@ -842,6 +893,7 @@
         "虫歯治療",
         "審美歯科"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 5,
       "price_range": null
@@ -858,6 +910,7 @@
         "大衆食堂",
         "牛肉"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
       "price_range": null,
@@ -875,6 +928,7 @@
         "焼き鳥",
         "居酒屋"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.2,
       "price_range": null,
@@ -892,6 +946,7 @@
         "刺身",
         "握り寿司"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.2,
       "price_range": "~2000円",
@@ -909,6 +964,7 @@
         "深夜営業",
         "洋酒"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3,
       "price_range": null,
@@ -926,6 +982,7 @@
         "日本酒",
         "大衆酒場"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.3,
       "price_range": null,
@@ -943,6 +1000,7 @@
         "カクテル",
         "洋酒"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.2,
       "price_range": null,
@@ -960,6 +1018,7 @@
         "宴会",
         "定食"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.2,
       "price_range": null,
@@ -977,6 +1036,7 @@
         "ボディケア",
         "もみほぐし"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 1.3,
       "price_range": null
@@ -993,6 +1053,7 @@
         "実印",
         "スタンプ"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.6,
       "price_range": null
@@ -1009,6 +1070,7 @@
         "焼き餃子",
         "定食"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.6,
       "price_range": "~1000円",
@@ -1026,6 +1088,7 @@
         "牛肉",
         "ホルモン"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4,
       "price_range": null,
@@ -1043,6 +1106,7 @@
         "角打ち",
         "大衆酒場"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.4,
       "price_range": "~1000円",
@@ -1060,6 +1124,7 @@
         "鉄板焼き",
         "大衆酒場"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.2,
       "price_range": null,
@@ -1077,6 +1142,7 @@
         "梅田",
         "宴会"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.5,
       "price_range": null,
@@ -1094,6 +1160,7 @@
         "酒肴",
         "スタンドバー"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.9,
       "price_range": "~1000円",
@@ -1111,6 +1178,7 @@
         "大分料理",
         "鶏料理"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4,
       "price_range": null,
@@ -1128,6 +1196,7 @@
         "海鮮",
         "日本酒"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.5,
       "price_range": null,
@@ -1145,6 +1214,7 @@
         "エステ",
         "ボディケア"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.8,
       "price_range": null
@@ -1161,6 +1231,7 @@
         "スポーツ用品",
         "ダイエット"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.4,
       "price_range": null
@@ -1177,6 +1248,7 @@
         "居酒屋",
         "和食"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.1,
       "price_range": null,

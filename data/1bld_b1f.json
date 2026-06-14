@@ -12,6 +12,7 @@
         "パチンコ",
         "ゲームセンター"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 2.6,
       "price_range": null
@@ -28,6 +29,7 @@
         "メンズカット",
         "散髪"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.5,
       "price_range": null
@@ -44,6 +46,7 @@
         "日本料理",
         "懐石"
       ],
+      "open": "",
       "description": "割烹で日本料理の懐石が楽しめる。季節の食材を使った上質な和食。",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
@@ -61,6 +64,7 @@
         "定食",
         "ランチ"
       ],
+      "open": "",
       "description": "うどん・そば専門の食事処。ランチに人気の定食も揃っている。",
       "added_at": "2025-04-30",
       "google_rating": 3.8,
@@ -73,6 +77,7 @@
       "subcategory": "",
       "url": "",
       "tags": [],
+      "open": "",
       "added_at": "2025-04-30"
     },
     {
@@ -87,6 +92,7 @@
         "ヘアメイク",
         "スタイリング"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.8,
       "price_range": null
@@ -103,6 +109,7 @@
         "スマートフォン",
         "中古販売"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.8,
       "price_range": null
@@ -114,6 +121,7 @@
       "subcategory": "",
       "url": "",
       "tags": [],
+      "open": "",
       "added_at": "2025-04-30"
     },
     {
@@ -128,6 +136,7 @@
         "ドラッグストア",
         "処方薬"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.7,
       "price_range": null
@@ -144,6 +153,7 @@
         "肩こり",
         "リラクゼーション"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
       "price_range": null
@@ -160,6 +170,7 @@
         "ランチ",
         "本格カレー"
       ],
+      "open": "",
       "description": "本格スパイスカレーの専門店。ランチに最適なボリューミーなカレー。",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
@@ -177,6 +188,7 @@
         "立ち飲み",
         "酒場"
       ],
+      "open": "",
       "description": "立ち飲み酒場。大衆的な雰囲気で、気軽に飲める。",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
@@ -194,6 +206,7 @@
         "疲労回復",
         "ボディケア"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
       "price_range": null
@@ -210,6 +223,7 @@
         "もみほぐし",
         "ボディケア"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": null,
       "price_range": null
@@ -226,6 +240,7 @@
         "診療所",
         "外来"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.1,
       "price_range": null
@@ -242,6 +257,7 @@
         "ナン",
         "タンドール"
       ],
+      "open": "",
       "description": "本格インド料理レストラン。ナンやタンドール料理が楽しめる。",
       "added_at": "2025-04-30",
       "google_rating": 3.9,
@@ -254,6 +270,7 @@
       "subcategory": "",
       "url": "",
       "tags": [],
+      "open": "",
       "added_at": "2025-04-30"
     },
     {
@@ -268,6 +285,7 @@
         "軽食",
         "テイクアウト"
       ],
+      "open": "",
       "description": "カフェでコーヒーと軽食。テイクアウトも可能。",
       "added_at": "2025-04-30",
       "google_rating": 3.6,
@@ -280,6 +298,7 @@
       "subcategory": "",
       "url": "",
       "tags": [],
+      "open": "",
       "added_at": "2025-04-30"
     },
     {
@@ -294,6 +313,7 @@
         "居酒屋",
         "魚料理"
       ],
+      "open": "",
       "description": "海鮮串焼きの居酒屋。新鮮な魚介料理が味わえる。",
       "added_at": "2025-04-30",
       "google_rating": 4.6,
@@ -311,6 +331,7 @@
         "和食",
         "おでん"
       ],
+      "open": "",
       "description": "大衆的な居酒屋。おでんと和食がリーズナブルに楽しめる。",
       "added_at": "2025-04-30",
       "google_rating": 4,
@@ -323,6 +344,7 @@
       "subcategory": "",
       "url": "",
       "tags": [],
+      "open": "",
       "added_at": "2025-04-30"
     },
     {
@@ -337,6 +359,7 @@
         "管理会社",
         "オフィス"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 1,
       "price_range": null
@@ -353,6 +376,7 @@
         "管理会社",
         "オフィス"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 1,
       "price_range": null
@@ -369,6 +393,7 @@
         "貸切",
         "イベントスペース"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.8,
       "price_range": null
@@ -385,6 +410,7 @@
         "カット",
         "カラー"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.8,
       "price_range": null
@@ -401,6 +427,7 @@
         "雑誌",
         "文庫"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 2.2,
       "price_range": null
@@ -417,6 +444,7 @@
         "ケータリング",
         "調理"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.6,
       "price_range": null
@@ -433,6 +461,7 @@
         "疲労回復",
         "ボディケア"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.5,
       "price_range": null
@@ -449,6 +478,7 @@
         "リラクゼーション",
         "ほねつぎ"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 5,
       "price_range": null
@@ -465,6 +495,7 @@
         "和食",
         "大衆酒場"
       ],
+      "open": "",
       "description": "魚介を中心とした大衆酒場。和食と海の幸が揃う。",
       "added_at": "2025-04-30",
       "google_rating": 4.2,
@@ -482,6 +513,7 @@
         "整体",
         "肩こり"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.7,
       "price_range": null
@@ -498,6 +530,7 @@
         "リラクゼーション",
         "癒し"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.8,
       "price_range": null
@@ -514,6 +547,7 @@
         "カット",
         "カラー"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.8,
       "price_range": null
@@ -530,6 +564,7 @@
         "整体",
         "ボディケア"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.9,
       "price_range": null
@@ -546,6 +581,7 @@
         "ほねつぎ",
         "接骨院"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.7,
       "price_range": null
@@ -562,6 +598,7 @@
         "ホルモン",
         "定食"
       ],
+      "open": "",
       "description": "焼肉と韓国料理の店。ホルモン定食もあり手軽に楽しめる。",
       "added_at": "2025-04-30",
       "google_rating": 4.1,
@@ -579,6 +616,7 @@
         "もみほぐし",
         "ボディケア"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3,
       "price_range": null
@@ -595,6 +633,7 @@
         "おでん",
         "定食"
       ],
+      "open": "",
       "description": "和食とおでんの居酒屋。リーズナブルな定食メニューも豊富。",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
@@ -612,6 +651,7 @@
         "立ち食い",
         "ランチ"
       ],
+      "open": "",
       "description": "立ち食いカレーの店。ランチに最適な手軽で美味しいカレー。",
       "added_at": "2025-04-30",
       "google_rating": 4.1,
@@ -629,6 +669,7 @@
         "軽食",
         "テイクアウト"
       ],
+      "open": "",
       "description": "カフェチェーン。コーヒーと軽食がリーズナブルに楽しめる。テイクアウト可。",
       "added_at": "2025-04-30",
       "google_rating": 3.7,
@@ -641,6 +682,7 @@
       "subcategory": "",
       "url": "",
       "tags": [],
+      "open": "",
       "added_at": "2025-04-30"
     },
     {
@@ -650,6 +692,7 @@
       "subcategory": "",
       "url": "",
       "tags": [],
+      "open": "",
       "added_at": "2025-04-30"
     },
     {
@@ -664,6 +707,7 @@
         "洋食",
         "レストラン"
       ],
+      "open": "",
       "description": "東欧・ロシア料理のレストラン。珍しい洋食が堪能できる。",
       "added_at": "2025-04-30",
       "google_rating": 4.2,
@@ -681,6 +725,7 @@
         "癒し",
         "疲労回復"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.4,
       "price_range": null
@@ -697,6 +742,7 @@
         "ウイスキー",
         "喫茶"
       ],
+      "open": "",
       "description": "ウイスキーと洋酒が充実したバー。喫茶としても利用できる。",
       "added_at": "2025-04-30",
       "google_rating": 4.1,
@@ -714,6 +760,7 @@
         "コーヒー",
         "レトロ"
       ],
+      "open": "",
       "description": "純喫茶でレトロな雰囲気。コーヒーをのんびり楽しめる。",
       "added_at": "2025-04-30",
       "google_rating": 4.1,
@@ -731,6 +778,7 @@
         "洋酒",
         "バー"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.4,
       "price_range": "~2000円"
@@ -747,6 +795,7 @@
         "ブランド買取",
         "リサイクル"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.9,
       "price_range": null
@@ -763,6 +812,7 @@
         "スナック",
         "夜の店"
       ],
+      "open": "",
       "description": "バーとスナック。夜の雰囲気の中、洋酒が楽しめる。",
       "added_at": "2025-04-30",
       "google_rating": 3.9,
@@ -780,6 +830,7 @@
         "工芸品",
         "アート"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": null,
       "price_range": null
@@ -796,6 +847,7 @@
         "定食",
         "晩酌"
       ],
+      "open": "",
       "description": "和食の居酒屋。定食から晩酌メニューまで豊富。",
       "added_at": "2025-04-30",
       "google_rating": 3.8,
@@ -813,6 +865,7 @@
         "視力検査",
         "コンタクト"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 2.5,
       "price_range": null
@@ -829,6 +882,7 @@
         "対局",
         "ゲーム"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4,
       "price_range": null
@@ -844,6 +898,7 @@
         "オフィス",
         "企業"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.6,
       "price_range": null
@@ -860,6 +915,7 @@
         "カラオケ",
         "夜の店"
       ],
+      "open": "",
       "description": "スナックバー。カラオケも楽しめる夜の店。",
       "added_at": "2025-04-30",
       "google_rating": 3.6,
@@ -876,6 +932,7 @@
         "パチンコ",
         "ゲームセンター"
       ],
+      "open": "",
       "added_at": "2025-04-30",
       "google_rating": 2.6,
       "price_range": null

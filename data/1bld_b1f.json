@@ -72,29 +72,29 @@
     },
     {
       "id": "shop-5",
-      "name": "空き区画",
-      "category": "empty",
-      "subcategory": "",
-      "url": "",
+      "name": "（株）ジョナサン",
+      "category": "service",
+      "subcategory": "事務所",
+      "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%88%E6%A0%AA%EF%BC%89%E3%82%B8%E3%83%A7%E3%83%8A%E3%82%B5%E3%83%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [],
       "open": "",
       "added_at": "2025-04-30"
     },
     {
       "id": "shop-5-2",
-      "name": "hair＆make　GALLET",
-      "category": "medical",
-      "subcategory": "ビューティー",
-      "url": "https://www.google.com/maps/search/?api=1&query=hair%EF%BC%86make%E3%80%80GALLET%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
+      "name": "ダイワンテレコム梅田店",
+      "category": "retail",
+      "subcategory": "ショップ",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%80%E3%82%A4%E3%83%AF%E3%83%B3%E3%83%86%E3%83%AC%E3%82%B3%E3%83%A0%E6%A2%85%E7%94%B0%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
-        "美容室",
-        "ヘアサロン",
-        "ヘアメイク",
-        "スタイリング"
+        "中古スマホ",
+        "携帯買取",
+        "スマートフォン",
+        "中古販売"
       ],
       "open": "",
       "added_at": "2025-04-30",
-      "google_rating": 3.8,
+      "google_rating": 4.8,
       "price_range": null
     },
     {
@@ -116,46 +116,35 @@
     },
     {
       "id": "shop-6",
-      "name": "空き区画",
-      "category": "empty",
-      "subcategory": "",
-      "url": "",
-      "tags": [],
+      "name": "ここにいた",
+      "category": "service",
+      "subcategory": "占い",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%81%9F%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
+      "tags": [
+      "占い",
+      "手相",
+      "運勢",
+      "人生相談",
+      ],
       "open": "",
       "added_at": "2025-04-30"
     },
-    {
-      "id": "shop-6-2",
-      "name": "ツキテラス薬局",
-      "category": "medical",
-      "subcategory": "薬局",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%84%E3%82%AD%E3%83%86%E3%83%A9%E3%82%B9%E8%96%AC%E5%B1%80%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
-      "tags": [
-        "薬局",
-        "調剤薬局",
-        "ドラッグストア",
-        "処方薬"
-      ],
-      "open": "",
-      "added_at": "2025-04-30",
-      "google_rating": 3.7,
-      "price_range": null
-    },
+
     {
       "id": "shop-7",
-      "name": "コリ研究所",
-      "category": "medical",
-      "subcategory": "マッサージ",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%83%AA%E7%A0%94%E7%A9%B6%E6%89%80%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
+      "name": "塩ラーメン専門店　汐〇 -shiomaru-",
+      "category": "food",
+      "subcategory": "グルメ",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%A1%A9%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E5%B0%82%E9%96%80%E5%BA%97%E3%80%80%E6%B1%90%E3%80%87%20-shiomaru-%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
-        "マッサージ",
-        "もみほぐし",
-        "肩こり",
-        "リラクゼーション"
+        "ラーメン",
+        "塩ラーメン",
+        "専門",
+        "ランチ"
       ],
       "open": "",
       "added_at": "2025-04-30",
-      "google_rating": 4.3,
+      "google_rating": 3.1,
       "price_range": null
     },
     {
@@ -213,18 +202,13 @@
     },
     {
       "id": "shop-10",
-      "name": "シャンス　chance",
-      "category": "medical",
-      "subcategory": "マッサージ",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%B9%E3%80%80chance%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
-      "tags": [
-        "マッサージ",
-        "リラクゼーション",
-        "もみほぐし",
-        "ボディケア"
-      ],
+      "name": "空き区画",
+      "category": "empty",
+      "subcategory": "",
+      "url": "",
+      "tags": [],
       "open": "",
-      "added_at": "2025-04-30",
+      "added_at": "",
       "google_rating": null,
       "price_range": null
     },
@@ -293,13 +277,33 @@
     },
     {
       "id": "shop-14",
-      "name": "空き区画",
-      "category": "empty",
-      "subcategory": "",
-      "url": "",
-      "tags": [],
+      "name": "良心的大衆酒場　鶴亀八番",
+      "category": "food",
+      "subcategory": "グルメ",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E8%89%AF%E5%BF%83%E7%9A%84%E5%A4%A7%E8%A1%86%E9%85%92%E5%A0%B4%E3%80%80%E9%B6%B4%E4%BA%80%E5%85%AB%E7%95%AA%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
+      "tags": [
+        "日本酒",
+        "居酒屋",
+      ],
       "open": "",
-      "added_at": "2025-04-30"
+      "added_at": "2026-06-22"
+    },
+    {
+      "id": "shop-14-2",
+      "name": "ルーズベルトBeer　食堂",
+      "category": "food",
+      "subcategory": "グルメ",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%AB%E3%83%BC%E3%82%BA%E3%83%99%E3%83%AB%E3%83%88Beer%E3%80%80%E9%A3%9F%E5%A0%82%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
+      "tags": [
+        "ビール",
+        "安い",
+        "居酒屋",
+      ]
+      "open": "",
+      "description": "激安で旨いビールとつまみを楽しめる、行列必至の大衆ビール食堂",
+      "added_at": "2026-06-22",
+      "google_rating": 3.4,
+      "price_range": null
     },
     {
       "id": "shop-15",
@@ -321,20 +325,15 @@
     },
     {
       "id": "shop-16",
-      "name": "どんがめ",
-      "category": "food",
-      "subcategory": "グルメ",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%A9%E3%82%93%E3%81%8C%E3%82%81%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
-      "tags": [
-        "居酒屋",
-        "大衆酒場",
-        "和食",
-        "おでん"
-      ],
+      "name": "空き区画",
+      "category": "empty",
+      "subcategory": "",
+      "url": "",
+      "tags": [],
       "open": "",
-      "description": "大衆的な居酒屋。おでんと和食がリーズナブルに楽しめる。",
-      "added_at": "2025-04-30",
-      "google_rating": 4,
+      "description": "",
+      "added_at": "",
+      "google_rating": null,
       "price_range": null
     },
     {
@@ -687,13 +686,13 @@
     },
     {
       "id": "shop-37",
-      "name": "空き区画",
-      "category": "empty",
-      "subcategory": "",
-      "url": "",
+      "name": "衣料お直し屋さん 彩縫館",
+      "category": "service",
+      "subcategory": "お直し",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E8%A1%A3%E6%96%99%E3%81%8A%E7%9B%B4%E3%81%97%E5%B1%8B%E3%81%95%E3%82%93%20%E5%BD%A9%E7%B8%AB%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [],
       "open": "",
-      "added_at": "2025-04-30"
+      "added_at": "2026-06-22"
     },
     {
       "id": "shop-38",

@@ -455,19 +455,15 @@
     },
     {
       "id": "shop-28",
-      "name": "てもみん",
+      "name": "㈱グローバルスポーツ医学研究所",
       "category": "medical",
       "subcategory": "クリニック・ヘルスケア",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%A6%E3%82%82%E3%81%BF%E3%82%93%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%88%B1%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E5%8C%BB%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
         "マッサージ",
         "もみほぐし",
-        "リラクゼーション"
-      ],
-      "open": "",
-      "added_at": "2025-04-30",
-      "google_rating": 4.4,
-      "price_range": null
+        "リラクゼーション"],
+      "open": ""
     },
     {
       "id": "shop-29",

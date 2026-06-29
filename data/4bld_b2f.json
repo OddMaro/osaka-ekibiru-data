@@ -2,23 +2,6 @@
   "floor": "B2F",
   "shops": [
     {
-      "id": "shop-01",
-      "name": "チケットジャパン　4ビル西店",
-      "category": "retail",
-      "subcategory": "チケット",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%81%E3%82%B1%E3%83%83%E3%83%88%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%80%804%E3%83%93%E3%83%AB%E8%A5%BF%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC4%E3%83%93%E3%83%AB",
-      "tags": [
-        "チケット・金券",
-        "金券ショップ",
-        "チケット販売",
-        "換金"
-      ],
-      "open": "",
-      "added_at": "2025-04-30",
-      "google_rating": 3.8,
-      "price_range": null
-    },
-    {
       "id": "shop-02",
       "name": "串カツ七福神",
       "category": "food",

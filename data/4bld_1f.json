@@ -699,23 +699,6 @@
       "price_range": null
     },
     {
-      "id": "shop-48",
-      "name": "パナソニック補聴器㈱プラザ大阪",
-      "category": "retail",
-      "subcategory": "物販",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E8%A3%9C%E8%81%B4%E5%99%A8%E3%88%B1%E3%83%97%E3%83%A9%E3%82%B6%E5%A4%A7%E9%98%AA%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC4%E3%83%93%E3%83%AB",
-      "tags": [
-        "補聴器",
-        "聴覚サポート",
-        "難聴",
-        "医療機器"
-      ],
-      "open": "",
-      "added_at": "2025-04-30",
-      "google_rating": 3.6,
-      "price_range": null
-    },
-    {
       "id": "shop-51",
       "name": "ヤマト運輸㈱",
       "category": "service",

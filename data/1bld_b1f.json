@@ -98,38 +98,20 @@
       "price_range": null
     },
     {
-      "id": "shop-5-3",
-      "name": "ダイワンテレコム梅田店",
-      "category": "retail",
-      "subcategory": "ショップ",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%80%E3%82%A4%E3%83%AF%E3%83%B3%E3%83%86%E3%83%AC%E3%82%B3%E3%83%A0%E6%A2%85%E7%94%B0%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
-      "tags": [
-        "中古スマホ",
-        "携帯買取",
-        "スマートフォン",
-        "中古販売"
-      ],
-      "open": "",
-      "added_at": "2025-04-30",
-      "google_rating": 4.8,
-      "price_range": null
-    },
-    {
       "id": "shop-6",
       "name": "ここにいた",
       "category": "service",
       "subcategory": "占い",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%81%9F%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
-      "占い",
-      "手相",
-      "運勢",
-      "人生相談"
+        "占い",
+        "手相",
+        "運勢",
+        "人生相談"
       ],
       "open": "",
       "added_at": "2025-04-30"
     },
-
     {
       "id": "shop-7",
       "name": "塩ラーメン専門店　汐〇 -shiomaru-",

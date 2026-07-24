@@ -33,7 +33,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.6,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-3-1",
@@ -50,7 +51,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 5,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-3-2",
@@ -85,7 +87,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.4,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-4",
@@ -120,7 +123,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.1,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-6-1",
@@ -148,7 +152,10 @@
       "url": "https://www.google.com/maps/search/?api=1&query=%E5%A0%82%E5%B1%B1%E9%A3%9F%E5%A0%82%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
       "tags": [],
       "open": "",
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null,
+      "description": "気軽に利用できる食堂。日常使いの食事に適している。"
     },
     {
       "id": "shop-7-1",
@@ -182,7 +189,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.9,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-8-1",
@@ -271,7 +279,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.9,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-10",
@@ -288,7 +297,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-11",
@@ -323,7 +333,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.8,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-12-2",
@@ -394,16 +405,23 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.6,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-15",
-      "name": "空き区画",
-      "category": "empty",
-      "subcategory": "",
-      "url": "",
-      "tags": [],
-      "open": ""
+      "name": "大衆居酒屋黒たぬき大阪駅前第2ビルB1店",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E8%A1%86%E5%B1%85%E9%85%92%E5%B1%8B%E9%BB%92%E3%81%9F%E3%81%AC%E3%81%8D%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%ABB1%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "tags": [
+        "居酒屋"
+      ],
+      "open": "",
+      "added_at": "2026-07-24",
+      "google_rating": null,
+      "price_range": null,
+      "description": "大阪駅前第2ビルB1階の大衆居酒屋。気軽に飲食を楽しめる。"
     },
     {
       "id": "shop-16",
@@ -420,7 +438,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.3,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-17-1",
@@ -527,7 +546,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.7,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-22",
@@ -544,7 +564,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.7,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-23",
@@ -560,7 +581,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 2.3,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-27",
@@ -576,7 +598,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 2.3,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-28",
@@ -611,7 +634,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": null,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-30",
@@ -646,7 +670,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.7,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-31-2",
@@ -735,7 +760,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.8,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-36-2",
@@ -896,7 +922,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 5,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-45",
@@ -1039,7 +1066,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 1.3,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-49",
@@ -1056,7 +1084,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.6,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-50",
@@ -1217,7 +1246,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.8,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-58-2",
@@ -1234,7 +1264,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.4,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-60",

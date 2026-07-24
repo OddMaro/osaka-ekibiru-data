@@ -15,7 +15,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 2.6,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-2",
@@ -32,7 +33,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.5,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-3",
@@ -47,10 +49,10 @@
         "懐石"
       ],
       "open": "",
-      "description": "割烹で日本料理の懐石が楽しめる。季節の食材を使った上質な和食。",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
-      "price_range": null
+      "price_range": null,
+      "description": "割烹で日本料理の懐石が楽しめる。季節の食材を使った上質な和食。"
     },
     {
       "id": "shop-4",
@@ -65,10 +67,10 @@
         "ランチ"
       ],
       "open": "",
-      "description": "うどん・そば専門の食事処。ランチに人気の定食も揃っている。",
       "added_at": "2025-04-30",
       "google_rating": 3.8,
-      "price_range": null
+      "price_range": null,
+      "description": "うどん・そば専門の食事処。ランチに人気の定食も揃っている。"
     },
     {
       "id": "shop-5",
@@ -78,7 +80,10 @@
       "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%88%E6%A0%AA%EF%BC%89%E3%82%B8%E3%83%A7%E3%83%8A%E3%82%B5%E3%83%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [],
       "open": "",
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-5-2",
@@ -95,7 +100,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.8,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-6",
@@ -110,27 +116,13 @@
         "人生相談"
       ],
       "open": "",
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-7",
-      "name": "塩ラーメン専門店　汐〇 -shiomaru-",
-      "category": "food",
-      "subcategory": "グルメ",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E5%A1%A9%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E5%B0%82%E9%96%80%E5%BA%97%E3%80%80%E6%B1%90%E3%80%87%20-shiomaru-%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
-      "tags": [
-        "ラーメン",
-        "塩ラーメン",
-        "専門",
-        "ランチ"
-      ],
-      "open": "",
-      "added_at": "2025-04-30",
-      "google_rating": 3.1,
-      "price_range": null
-    },
-    {
-      "id": "shop-7-2",
       "name": "スパイスカレー Roche（ロシュ）",
       "category": "food",
       "subcategory": "グルメ",
@@ -142,10 +134,10 @@
         "本格カレー"
       ],
       "open": "",
-      "description": "本格スパイスカレーの専門店。ランチに最適なボリューミーなカレー。",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
-      "price_range": null
+      "price_range": null,
+      "description": "本格スパイスカレーの専門店。ランチに最適なボリューミーなカレー。"
     },
     {
       "id": "shop-8",
@@ -160,10 +152,10 @@
         "酒場"
       ],
       "open": "",
-      "description": "立ち飲み酒場。大衆的な雰囲気で、気軽に飲める。",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
-      "price_range": null
+      "price_range": null,
+      "description": "立ち飲み酒場。大衆的な雰囲気で、気軽に飲める。"
     },
     {
       "id": "shop-9",
@@ -180,7 +172,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-10",
@@ -209,7 +202,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.1,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-11-2",
@@ -224,10 +218,10 @@
         "タンドール"
       ],
       "open": "",
-      "description": "本格インド料理レストラン。ナンやタンドール料理が楽しめる。",
       "added_at": "2025-04-30",
       "google_rating": 3.9,
-      "price_range": null
+      "price_range": null,
+      "description": "本格インド料理レストラン。ナンやタンドール料理が楽しめる。"
     },
     {
       "id": "shop-12",
@@ -252,10 +246,10 @@
         "テイクアウト"
       ],
       "open": "",
-      "description": "カフェでコーヒーと軽食。テイクアウトも可能。",
       "added_at": "2025-04-30",
       "google_rating": 3.6,
-      "price_range": "~1000円"
+      "price_range": "~1000円",
+      "description": "カフェでコーヒーと軽食。テイクアウトも可能。"
     },
     {
       "id": "shop-14",
@@ -268,7 +262,10 @@
         "居酒屋"
       ],
       "open": "",
-      "added_at": "2026-06-22"
+      "added_at": "2026-06-22",
+      "google_rating": null,
+      "price_range": null,
+      "description": "日本酒が揃う大衆酒場。リーズナブルな価格で気軽に一杯楽しめる。"
     },
     {
       "id": "shop-14-2",
@@ -282,10 +279,10 @@
         "居酒屋"
       ],
       "open": "",
-      "description": "激安で旨いビールとつまみを楽しめる、行列必至の大衆ビール食堂",
       "added_at": "2026-06-22",
       "google_rating": 3.4,
-      "price_range": null
+      "price_range": null,
+      "description": "激安で旨いビールとつまみを楽しめる、行列必至の大衆ビール食堂"
     },
     {
       "id": "shop-15",
@@ -300,10 +297,10 @@
         "魚料理"
       ],
       "open": "",
-      "description": "海鮮串焼きの居酒屋。新鮮な魚介料理が味わえる。",
       "added_at": "2025-04-30",
       "google_rating": 4.6,
-      "price_range": null
+      "price_range": null,
+      "description": "海鮮串焼きの居酒屋。新鮮な魚介料理が味わえる。"
     },
     {
       "id": "shop-16",
@@ -313,10 +310,10 @@
       "url": "",
       "tags": [],
       "open": "",
-      "description": "",
       "added_at": "",
       "google_rating": null,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-17",
@@ -343,7 +340,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 1,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-19",
@@ -360,7 +358,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 1,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-20",
@@ -377,7 +376,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.8,
-      "price_range": null
+      "price_range": null,
+      "description": "貸切対応のパーティースペースを備えたバー。イベントやグループ利用に適している。"
     },
     {
       "id": "shop-21",
@@ -394,7 +394,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.8,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-22",
@@ -411,7 +412,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 2.2,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-23",
@@ -428,7 +430,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.6,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-24",
@@ -445,7 +448,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.5,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-24-2",
@@ -462,7 +466,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 5,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-25",
@@ -477,10 +482,10 @@
         "大衆酒場"
       ],
       "open": "",
-      "description": "魚介を中心とした大衆酒場。和食と海の幸が揃う。",
       "added_at": "2025-04-30",
       "google_rating": 4.2,
-      "price_range": null
+      "price_range": null,
+      "description": "魚介を中心とした大衆酒場。和食と海の幸が揃う。"
     },
     {
       "id": "shop-26",
@@ -497,7 +502,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.7,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-27",
@@ -514,7 +520,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.8,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-28",
@@ -531,7 +538,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.8,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-29",
@@ -548,7 +556,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.9,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-30",
@@ -565,7 +574,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.7,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-31",
@@ -580,10 +590,10 @@
         "定食"
       ],
       "open": "",
-      "description": "焼肉と韓国料理の店。ホルモン定食もあり手軽に楽しめる。",
       "added_at": "2025-04-30",
       "google_rating": 4.1,
-      "price_range": "~1000円"
+      "price_range": "~1000円",
+      "description": "焼肉と韓国料理の店。ホルモン定食もあり手軽に楽しめる。"
     },
     {
       "id": "shop-32",
@@ -600,7 +610,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-33",
@@ -615,10 +626,10 @@
         "定食"
       ],
       "open": "",
-      "description": "和食とおでんの居酒屋。リーズナブルな定食メニューも豊富。",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
-      "price_range": "~1000円"
+      "price_range": "~1000円",
+      "description": "和食とおでんの居酒屋。リーズナブルな定食メニューも豊富。"
     },
     {
       "id": "shop-34",
@@ -633,10 +644,10 @@
         "ランチ"
       ],
       "open": "",
-      "description": "立ち食いカレーの店。ランチに最適な手軽で美味しいカレー。",
       "added_at": "2025-04-30",
       "google_rating": 4.1,
-      "price_range": null
+      "price_range": null,
+      "description": "立ち食いカレーの店。ランチに最適な手軽で美味しいカレー。"
     },
     {
       "id": "shop-35",
@@ -651,10 +662,10 @@
         "テイクアウト"
       ],
       "open": "",
-      "description": "カフェチェーン。コーヒーと軽食がリーズナブルに楽しめる。テイクアウト可。",
       "added_at": "2025-04-30",
       "google_rating": 3.7,
-      "price_range": "~1000円"
+      "price_range": "~1000円",
+      "description": "カフェチェーン。コーヒーと軽食がリーズナブルに楽しめる。テイクアウト可。"
     },
     {
       "id": "shop-36",
@@ -665,16 +676,6 @@
       "tags": [],
       "open": "",
       "added_at": "2025-04-30"
-    },
-    {
-      "id": "shop-37",
-      "name": "衣料お直し屋さん 彩縫館",
-      "category": "service",
-      "subcategory": "お直し",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E8%A1%A3%E6%96%99%E3%81%8A%E7%9B%B4%E3%81%97%E5%B1%8B%E3%81%95%E3%82%93%20%E5%BD%A9%E7%B8%AB%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
-      "tags": [],
-      "open": "",
-      "added_at": "2026-06-22"
     },
     {
       "id": "shop-38",
@@ -689,10 +690,10 @@
         "レストラン"
       ],
       "open": "",
-      "description": "東欧・ロシア料理のレストラン。珍しい洋食が堪能できる。",
       "added_at": "2025-04-30",
       "google_rating": 4.2,
-      "price_range": "~2000円"
+      "price_range": "~2000円",
+      "description": "東欧・ロシア料理のレストラン。珍しい洋食が堪能できる。"
     },
     {
       "id": "shop-39",
@@ -709,7 +710,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.4,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-40",
@@ -724,10 +726,10 @@
         "喫茶"
       ],
       "open": "",
-      "description": "ウイスキーと洋酒が充実したバー。喫茶としても利用できる。",
       "added_at": "2025-04-30",
       "google_rating": 4.1,
-      "price_range": "~1000円"
+      "price_range": "~1000円",
+      "description": "ウイスキーと洋酒が充実したバー。喫茶としても利用できる。"
     },
     {
       "id": "shop-41",
@@ -742,10 +744,10 @@
         "レトロ"
       ],
       "open": "",
-      "description": "純喫茶でレトロな雰囲気。コーヒーをのんびり楽しめる。",
       "added_at": "2025-04-30",
       "google_rating": 4.1,
-      "price_range": "~1000円"
+      "price_range": "~1000円",
+      "description": "純喫茶でレトロな雰囲気。コーヒーをのんびり楽しめる。"
     },
     {
       "id": "shop-42",
@@ -762,7 +764,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.4,
-      "price_range": "~2000円"
+      "price_range": "~2000円",
+      "description": "英国パブスタイルのバー。ダーツを楽しみながら洋酒が味わえる。"
     },
     {
       "id": "shop-43",
@@ -779,7 +782,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.9,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-44",
@@ -794,10 +798,10 @@
         "夜の店"
       ],
       "open": "",
-      "description": "バーとスナック。夜の雰囲気の中、洋酒が楽しめる。",
       "added_at": "2025-04-30",
       "google_rating": 3.9,
-      "price_range": null
+      "price_range": null,
+      "description": "バーとスナック。夜の雰囲気の中、洋酒が楽しめる。"
     },
     {
       "id": "shop-45",
@@ -814,7 +818,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": null,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-46",
@@ -829,10 +834,10 @@
         "晩酌"
       ],
       "open": "",
-      "description": "和食の居酒屋。定食から晩酌メニューまで豊富。",
       "added_at": "2025-04-30",
       "google_rating": 3.8,
-      "price_range": null
+      "price_range": null,
+      "description": "和食の居酒屋。定食から晩酌メニューまで豊富。"
     },
     {
       "id": "shop-47",
@@ -849,7 +854,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 2.5,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-48",
@@ -866,7 +872,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-49",
@@ -882,7 +889,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.6,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-50",
@@ -897,10 +905,10 @@
         "夜の店"
       ],
       "open": "",
-      "description": "スナックバー。カラオケも楽しめる夜の店。",
       "added_at": "2025-04-30",
       "google_rating": 3.6,
-      "price_range": null
+      "price_range": null,
+      "description": "スナックバー。カラオケも楽しめる夜の店。"
     },
     {
       "id": "shop-51",
@@ -916,7 +924,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 2.6,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     }
   ]
 }

@@ -16,7 +16,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.5,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-03",
@@ -33,7 +34,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.5,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-05",
@@ -50,7 +52,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.5,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-06",
@@ -67,7 +70,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.5,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-07",
@@ -84,7 +88,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-08",
@@ -101,7 +106,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.5,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-10",
@@ -118,7 +124,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.6,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-11",
@@ -135,7 +142,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-12",
@@ -152,7 +160,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-14",
@@ -169,7 +178,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": null,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-15",
@@ -186,7 +196,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 5,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-15-2",
@@ -203,7 +214,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.9,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-16",
@@ -220,7 +232,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 2.7,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-17",
@@ -237,7 +250,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-18",
@@ -254,7 +268,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 2.7,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-19",
@@ -271,7 +286,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.1,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-20",
@@ -288,7 +304,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-21",
@@ -305,7 +322,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-22",
@@ -322,7 +340,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-23",
@@ -339,7 +358,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 2.3,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-24",
@@ -356,7 +376,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-25",
@@ -373,7 +394,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-26",
@@ -390,7 +412,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.4,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-27",
@@ -407,7 +430,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 2.6,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-28",
@@ -424,7 +448,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.8,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-29",
@@ -441,7 +466,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.9,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-30",
@@ -458,7 +484,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.2,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-31",
@@ -475,7 +502,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.2,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-32",
@@ -492,7 +520,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.6,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-33",
@@ -509,7 +538,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": null,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-34",
@@ -526,7 +556,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.7,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-35",
@@ -543,7 +574,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.4,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-35-2",
@@ -560,7 +592,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 5,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-36",
@@ -577,7 +610,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-37",
@@ -594,7 +628,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-38",
@@ -611,7 +646,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 5,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-39",
@@ -628,7 +664,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 5,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-41",
@@ -645,7 +682,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": null,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-43",
@@ -662,7 +700,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.3,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-45",
@@ -679,7 +718,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": null,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-46",
@@ -696,7 +736,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.8,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-51",
@@ -713,7 +754,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 3.3,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-52",
@@ -730,7 +772,8 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     }
   ]
 }

@@ -20,6 +20,19 @@
       "description": ""
     },
     {
+      "id": "shop-02",
+      "name": "ENAレディースクリニック梅田院",
+      "category": "medical",
+      "subcategory": "クリニック",
+      "url": "https://www.google.com/maps/search/?api=1&query=ENA%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF%E6%A2%85%E7%94%B0%E9%99%A2%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC4%E3%83%93%E3%83%AB",
+      "tags": [
+        "産婦人科",
+        "婦人科"
+      ],
+      "open": "",
+      "added_at": "2026-08-03"
+    },
+    {
       "id": "shop-03",
       "name": "サウスアンドノース",
       "category": "retail",

@@ -253,20 +253,16 @@
     },
     {
       "id": "shop-16",
-      "name": "アイフル㈱",
+      "name": "㈱セントラル",
       "category": "service",
       "subcategory": "金融",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%A4%E3%83%95%E3%83%AB%E3%88%B1%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC4%E3%83%93%E3%83%AB",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%88%B1%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC4%E3%83%93%E3%83%AB",
       "tags": [
-        "金融",
         "消費者金融",
         "カードローン"
       ],
       "open": "",
-      "added_at": "2025-04-30",
-      "google_rating": null,
-      "price_range": null,
-      "description": ""
+      "added_at": "2026-08-03"
     },
     {
       "id": "shop-17",

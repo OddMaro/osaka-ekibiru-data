@@ -304,16 +304,21 @@
     },
     {
       "id": "shop-16",
-      "name": "空き区画",
-      "category": "empty",
-      "subcategory": "",
-      "url": "",
-      "tags": [],
+      "name": "どんがめ",
+      "category": "food",
+      "subcategory": "グルメ",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%A9%E3%82%93%E3%81%8C%E3%82%81%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
+      "tags": [
+        "居酒屋",
+        "大衆酒場",
+        "おでん",
+        "和食"
+      ],
       "open": "",
-      "added_at": "",
-      "google_rating": null,
-      "price_range": null,
-      "description": ""
+      "added_at": "2025-04-30",
+      "google_rating": 4.0,
+      "price_range": "~1000円",
+      "description": "おでんや和食系つまみが揃う昭和情緒漂う大衆居酒屋。1,000円以内で温かい一品と一杯を楽しめる。"
     },
     {
       "id": "shop-17",

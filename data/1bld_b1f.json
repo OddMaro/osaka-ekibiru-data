@@ -78,7 +78,10 @@
       "category": "service",
       "subcategory": "事務所",
       "url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%88%E6%A0%AA%EF%BC%89%E3%82%B8%E3%83%A7%E3%83%8A%E3%82%B5%E3%83%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
-      "tags": [],
+      "tags": [
+        "事務所",
+        "オフィス"
+      ],
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": null,
@@ -100,24 +103,6 @@
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": 4.8,
-      "price_range": null,
-      "description": ""
-    },
-    {
-      "id": "shop-6",
-      "name": "ここにいた",
-      "category": "service",
-      "subcategory": "占い",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%93%E3%81%93%E3%81%AB%E3%81%84%E3%81%9F%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
-      "tags": [
-        "占い",
-        "手相",
-        "運勢",
-        "人生相談"
-      ],
-      "open": "",
-      "added_at": "2025-04-30",
-      "google_rating": null,
       "price_range": null,
       "description": ""
     },
@@ -185,7 +170,8 @@
       "open": "",
       "added_at": "",
       "google_rating": null,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-11",
@@ -231,7 +217,10 @@
       "url": "",
       "tags": [],
       "open": "",
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-13",
@@ -328,7 +317,10 @@
       "url": "",
       "tags": [],
       "open": "",
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-18",
@@ -680,7 +672,10 @@
       "url": "",
       "tags": [],
       "open": "",
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-38",

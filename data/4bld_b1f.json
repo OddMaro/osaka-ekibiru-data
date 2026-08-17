@@ -543,16 +543,21 @@
     },
     {
       "id": "shop-31",
-      "name": "㈱イデアコーポレーション",
+      "name": "鶴亀八番",
       "category": "food",
       "subcategory": "飲食",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E3%88%B1%E3%82%A4%E3%83%87%E3%82%A2%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC4%E3%83%93%E3%83%AB",
-      "tags": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=%E9%B6%B4%E4%BA%80%E5%85%AB%E7%95%AA%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC4%E3%83%93%E3%83%AB",
+      "tags": [
+        "立ち飲み",
+        "大衆酒場",
+        "日本酒",
+        "居酒屋"
+      ],
       "open": "",
-      "added_at": "2026-07-24",
+      "added_at": "2026-08-10",
       "google_rating": null,
-      "price_range": null,
-      "description": ""
+      "price_range": "~1000円",
+      "description": "日本酒約50種を揃える良心的な大衆酒場。ハイボールやサワーも安く、立ち呑みで気軽に一杯楽しめる。"
     },
     {
       "id": "shop-32",

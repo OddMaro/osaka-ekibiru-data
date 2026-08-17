@@ -2,6 +2,24 @@
   "floor": "B2F",
   "shops": [
     {
+      "id": "shop-01",
+      "name": "四川のくち",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%9B%9B%E5%B7%9D%E3%81%AE%E3%81%8F%E3%81%A1%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC4%E3%83%93%E3%83%AB",
+      "tags": [
+        "四川料理",
+        "麻婆豆腐",
+        "中華",
+        "大衆酒場"
+      ],
+      "open": "",
+      "added_at": "2026-08-10",
+      "google_rating": null,
+      "price_range": "~1000円",
+      "description": "4種の麻婆豆腐が名物の四川大衆酒場。ビール170円台の安さで、痺れる麻辣を気軽に楽しめる。"
+    },
+    {
       "id": "shop-02",
       "name": "串カツ七福神",
       "category": "food",
@@ -262,7 +280,10 @@
         "カードローン"
       ],
       "open": "",
-      "added_at": "2026-08-03"
+      "added_at": "2026-08-03",
+      "google_rating": null,
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-17",

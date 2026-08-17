@@ -9,7 +9,10 @@
       "url": "",
       "tags": [],
       "open": "",
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-1-2",
@@ -127,7 +130,10 @@
       "url": "",
       "tags": [],
       "open": "",
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-8-1-2",
@@ -225,7 +231,10 @@
       "url": "",
       "tags": [],
       "open": "",
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-10-2",
@@ -287,7 +296,11 @@
       "category": "service",
       "subcategory": "サービス",
       "url": "https://www.google.com/maps/search/?api=1&query=J%EF%BC%8DLED%E3%80%80VISION%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
-      "tags": [],
+      "tags": [
+        "LEDビジョン",
+        "デジタルサイネージ",
+        "広告"
+      ],
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": null,
@@ -336,7 +349,12 @@
       "category": "service",
       "subcategory": "サービス",
       "url": "https://www.google.com/maps/search/?api=1&query=Nia%E3%80%80nail%E3%80%80salon%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
-      "tags": [],
+      "tags": [
+        "ネイルサロン",
+        "ジェルネイル",
+        "ネイルアート",
+        "美容"
+      ],
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": null,
@@ -405,7 +423,10 @@
       "url": "",
       "tags": [],
       "open": "",
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-18",
@@ -415,7 +436,10 @@
       "url": "",
       "tags": [],
       "open": "",
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-19",
@@ -473,9 +497,9 @@
     },
     {
       "id": "shop-22",
-      "name": "スタンダード不動産",
-      "category": "service",
-      "subcategory": "サービス",
+      "name": "空き区画",
+      "category": "empty",
+      "subcategory": "",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E4%B8%8D%E5%8B%95%E7%94%A3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
       "tags": [
         "不動産",
@@ -497,7 +521,10 @@
       "url": "",
       "tags": [],
       "open": "",
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-24",
@@ -545,7 +572,8 @@
       "open": "",
       "added_at": "",
       "google_rating": null,
-      "price_range": null
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-27",

@@ -153,7 +153,10 @@
       "url": "",
       "tags": [],
       "open": "",
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-11",
@@ -773,8 +776,9 @@
       ],
       "open": "",
       "added_at": "2026-08-03",
-      "google_rating": 3.07,
-      "price_range": "¥1,000〜1,999"
+      "google_rating": null,
+      "price_range": "~2000円",
+      "description": "座りの居酒屋で立ち飲み価格の串揚げ店。手頃な価格で揚げたての串と一杯を楽しめる。"
     },
     {
       "id": "shop-43",
@@ -1059,7 +1063,8 @@
       ],
       "open": "",
       "added_at": "2026-08-03",
-      "google_rating": 3.03,
+      "google_rating": null,
+      "price_range": "~1000円",
       "description": "大阪駅前第1ビルB2Fの立ち飲み居酒屋「呑み処りんご屋西梅田店」。日本酒・焼酎・カクテルなどを揃える隠れ家的な一軒。"
     },
     {
@@ -1075,7 +1080,8 @@
       ],
       "open": "",
       "added_at": "2026-08-03",
-      "google_rating": 3.03,
+      "google_rating": null,
+      "price_range": "~1000円",
       "description": "大阪駅前第1ビルB2Fの立ち飲み居酒屋「呑み処りんご屋西梅田店」。日本酒・焼酎・カクテルなどを揃える隠れ家的な一軒。"
     },
     {
@@ -1520,7 +1526,7 @@
       ],
       "open": "",
       "added_at": "2026-08-03",
-      "google_rating": 4.28,
+      "google_rating": null,
       "price_range": "~1000円",
       "description": "大阪駅前第1ビルB2Fの串揚げ専門店。2022年7月に「串揚げ起世」から店名変更。1本100〜150円の串揚げと990円の得々セットが人気。"
     },

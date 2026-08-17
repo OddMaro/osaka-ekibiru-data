@@ -150,11 +150,16 @@
       "category": "food",
       "subcategory": "飲食",
       "url": "https://www.google.com/maps/search/?api=1&query=%E5%A0%82%E5%B1%B1%E9%A3%9F%E5%A0%82%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
-      "tags": [],
+      "tags": [
+        "大衆酒場",
+        "立ち飲み",
+        "居酒屋",
+        "定食"
+      ],
       "open": "",
       "added_at": "2025-04-30",
       "google_rating": null,
-      "price_range": null,
+      "price_range": "~1000円",
       "description": "気軽に利用できる食堂。日常使いの食事に適している。"
     },
     {

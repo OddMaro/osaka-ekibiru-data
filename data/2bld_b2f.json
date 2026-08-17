@@ -129,9 +129,9 @@
     },
     {
       "id": "shop-6-1",
-      "name": "さぬきうどん 四国屋",
-      "category": "food",
-      "subcategory": "飲食",
+      "name": "空き区画",
+      "category": "empty",
+      "subcategory": "",
       "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%AC%E3%81%8D%E3%81%86%E3%81%A9%E3%82%93%20%E5%9B%9B%E5%9B%BD%E5%B1%8B%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
       "tags": [
         "うどん",
@@ -243,7 +243,10 @@
       "url": "",
       "tags": [],
       "open": "",
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-11",
@@ -613,7 +616,10 @@
       "url": "",
       "tags": [],
       "open": "",
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-25-1",
@@ -1397,7 +1403,10 @@
       "url": "",
       "tags": [],
       "open": "",
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-57-3-2",
@@ -1641,7 +1650,10 @@
       "url": "",
       "tags": [],
       "open": "",
-      "added_at": "2025-04-30"
+      "added_at": "2025-04-30",
+      "google_rating": null,
+      "price_range": null,
+      "description": ""
     },
     {
       "id": "shop-68",

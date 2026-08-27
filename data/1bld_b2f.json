@@ -128,6 +128,23 @@
       "description": ""
     },
     {
+      "id": "shop-8",
+      "name": "OMC　ONLINE　CLINIC",
+      "category": "medical",
+      "subcategory": "クリニック・ヘルスケア",
+      "url": "https://www.google.com/maps/search/?api=1&query=OMC%E3%80%80ONLINE%E3%80%80CLINIC%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
+      "tags": [
+        "オンライン診療",
+        "クリニック",
+        "診療所"
+      ],
+      "open": "",
+      "added_at": "2026-08-24",
+      "google_rating": null,
+      "price_range": null,
+      "description": ""
+    },
+    {
       "id": "shop-9",
       "name": "ファミリーマート＋コクミンドラッグ",
       "category": "retail",
@@ -511,6 +528,23 @@
       "google_rating": 4.3,
       "price_range": null,
       "description": "本格中華料理の店。点心が豊富で、ランチに人気。リーズナブルな価格設定。"
+    },
+    {
+      "id": "shop-28-6",
+      "name": "呑み処　シスターブラウン",
+      "category": "food",
+      "subcategory": "グルメ",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E5%91%91%E3%81%BF%E5%87%A6%E3%80%80%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
+      "tags": [
+        "居酒屋",
+        "大衆酒場",
+        "おつまみ"
+      ],
+      "open": "",
+      "added_at": "2026-08-24",
+      "google_rating": null,
+      "price_range": null,
+      "description": "気軽に一杯楽しめる呑み処。大衆酒場らしい雰囲気で仕事帰りの立ち寄りに向く。"
     },
     {
       "id": "shop-29",
@@ -979,6 +1013,24 @@
       "description": "晩酌向けの大衆酒場。気軽に立ち寄れて手頃な価格が魅力。"
     },
     {
+      "id": "shop-53-2",
+      "name": "お好み焼き・どろ焼き酒場　喃風",
+      "category": "food",
+      "subcategory": "グルメ",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D%E3%83%BB%E3%81%A9%E3%82%8D%E7%84%BC%E3%81%8D%E9%85%92%E5%A0%B4%E3%80%80%E5%96%83%E9%A2%A8%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
+      "tags": [
+        "お好み焼き",
+        "どろ焼き",
+        "鉄板焼き",
+        "居酒屋"
+      ],
+      "open": "",
+      "added_at": "2026-08-24",
+      "google_rating": null,
+      "price_range": null,
+      "description": "お好み焼きと名物どろ焼きが味わえる鉄板酒場。粉もんをつまみに一杯楽しめる。"
+    },
+    {
       "id": "shop-54",
       "name": "喫茶・軽食　フルール",
       "category": "food",
@@ -1390,24 +1442,6 @@
     },
     {
       "id": "shop-77",
-      "name": "空き区画",
-      "category": "empty",
-      "subcategory": "",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%B2%E3%81%B0%E3%81%8B98%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
-      "tags": [
-        "居酒屋",
-        "串焼",
-        "晩酌",
-        "酒場"
-      ],
-      "open": "",
-      "added_at": "2026-07-24",
-      "google_rating": null,
-      "price_range": null,
-      "description": "串焼きが看板の酒場。仕事帰りの晩酌に立ち寄りやすい。"
-    },
-    {
-      "id": "shop-78",
       "name": "愉快酒場",
       "category": "food",
       "subcategory": "グルメ",
@@ -1423,6 +1457,23 @@
       "google_rating": 3.6,
       "price_range": "~1000円",
       "description": "楽しい雰囲気の大衆酒場。晩酌に最適なリーズナブルな価格。"
+    },
+    {
+      "id": "shop-78",
+      "name": "愉快酒場",
+      "category": "food",
+      "subcategory": "グルメ",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E6%84%89%E5%BF%AB%E9%85%92%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
+      "tags": [
+        "居酒屋",
+        "大衆酒場",
+        "晩酌"
+      ],
+      "open": "",
+      "added_at": "2026-08-24",
+      "google_rating": null,
+      "price_range": null,
+      "description": "気軽に立ち寄れる大衆酒場。名前のとおり賑やかな雰囲気で晩酌が楽しめる。"
     },
     {
       "id": "shop-79",

@@ -267,8 +267,8 @@
     },
     {
       "id": "shop-18",
-      "name": "田ごと",
-      "category": "food",
+      "name": "空き区画",
+      "category": "empty",
       "subcategory": "食事",
       "url": "https://www.google.com/maps/search/?api=1&query=%E7%94%B0%E3%81%94%E3%81%A8%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
       "tags": [

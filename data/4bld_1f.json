@@ -684,6 +684,24 @@
       "description": ""
     },
     {
+      "id": "shop-40",
+      "name": "セルフカフェ",
+      "category": "service",
+      "subcategory": "その他",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%82%BB%E3%83%AB%E3%83%95%E3%82%AB%E3%83%95%E3%82%A7%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC4%E3%83%93%E3%83%AB",
+      "tags": [
+        "カフェ",
+        "セルフサービス",
+        "コーヒー",
+        "作業スペース"
+      ],
+      "open": "",
+      "added_at": "2026-09-07",
+      "google_rating": null,
+      "price_range": null,
+      "description": "セルフサービス形式のカフェ。第4ビル1階にあり、買い物や待ち合わせの合間に気軽に立ち寄れる。"
+    },
+    {
       "id": "shop-41",
       "name": "トイズアカデミー梅田教室",
       "category": "service",

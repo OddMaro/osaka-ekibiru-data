@@ -390,23 +390,6 @@
       "description": ""
     },
     {
-      "id": "shop-23",
-      "name": "Salon・de・KIRA",
-      "category": "food",
-      "subcategory": "グルメ",
-      "url": "https://www.google.com/maps/search/?api=1&query=Salon%E3%83%BBde%E3%83%BBKIRA%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
-      "tags": [
-        "バー",
-        "ダイニングバー",
-        "洋食"
-      ],
-      "open": "",
-      "added_at": "2025-04-30",
-      "google_rating": 5,
-      "price_range": null,
-      "description": "ダイニングバー。洋食とお酒が楽しめる落ち着いた雰囲気のお店。"
-    },
-    {
       "id": "shop-24",
       "name": "口コミ占い.com　ジャンヌダルク",
       "category": "retail",

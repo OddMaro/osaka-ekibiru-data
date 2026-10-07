@@ -184,7 +184,7 @@
       "id": "shop-12",
       "name": "空き区画",
       "category": "empty",
-      "subcategory": "食事",
+      "subcategory": "",
       "url": "",
       "tags": [],
       "open": "",
@@ -195,21 +195,21 @@
     },
     {
       "id": "shop-14",
-      "name": "ワインとオマール海老の店　ＵＯＭＯ",
+      "name": "フレンチ酒場GOLD",
       "category": "food",
       "subcategory": "食事",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%AF%E3%82%A4%E3%83%B3%E3%81%A8%E3%82%AA%E3%83%9E%E3%83%BC%E3%83%AB%E6%B5%B7%E8%80%81%E3%81%AE%E5%BA%97%E3%80%80%EF%BC%B5%EF%BC%AF%EF%BC%AD%EF%BC%AF%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E9%85%92%E5%A0%B4GOLD%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
       "tags": [
+        "フレンチ",
         "ワイン",
-        "海鮮",
-        "イタリアン",
-        "バー"
+        "居酒屋",
+        "ビストロ"
       ],
       "open": "",
-      "added_at": "2025-04-30",
-      "google_rating": 3.7,
-      "price_range": "~2000円",
-      "description": "オマール海老とワインを中心としたイタリアンバー。新鮮な海鮮と厳選ワインを組み合わせた大人の雰囲気が漂うディナー向けの一軒。"
+      "added_at": "2026-10-05",
+      "google_rating": null,
+      "price_range": null,
+      "description": "気軽に立ち寄れるフレンチ居酒屋。ワインに合わせた創作フレンチを酒場スタイルで楽しめる。"
     },
     {
       "id": "shop-15",
@@ -555,21 +555,21 @@
     },
     {
       "id": "shop-32-2",
-      "name": "海藤花",
+      "name": "肉と釜めし大阪ブラウン",
       "category": "food",
       "subcategory": "食事",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E8%97%A4%E8%8A%B1%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E8%82%89%E3%81%A8%E9%87%9C%E3%82%81%E3%81%97%E5%A4%A7%E9%98%AA%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
       "tags": [
-        "海鮮",
-        "刺身",
-        "居酒屋",
-        "鮮魚"
+        "肉料理",
+        "釜めし",
+        "立ち飲み",
+        "居酒屋"
       ],
       "open": "",
-      "added_at": "2025-04-30",
-      "google_rating": 3.6,
-      "price_range": null,
-      "description": "産地直送の新鮮な鮮魚と刺身を看板にした海鮮居酒屋。旬の魚介を使った料理と日本酒のペアリングが楽しめる一軒。"
+      "added_at": "2026-10-05",
+      "google_rating": null,
+      "price_range": "~2000円",
+      "description": "肉料理と炊きたての釜めしを看板にした居酒屋。立ち飲み「肉処 大阪ブラウン」系列で手軽な価格の肉メニューが揃う。"
     },
     {
       "id": "shop-33",

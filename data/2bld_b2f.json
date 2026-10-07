@@ -129,21 +129,21 @@
     },
     {
       "id": "shop-6-1",
-      "name": "空き区画",
-      "category": "empty",
-      "subcategory": "",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%AC%E3%81%8D%E3%81%86%E3%81%A9%E3%82%93%20%E5%9B%9B%E5%9B%BD%E5%B1%8B%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
+      "name": "なかや商店　大阪駅前第２ビル地下２階店",
+      "category": "food",
+      "subcategory": "飲食",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%81%AA%E3%81%8B%E3%82%84%E5%95%86%E5%BA%97%E3%80%80%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC%EF%BC%92%E3%83%93%E3%83%AB%E5%9C%B0%E4%B8%8B%EF%BC%92%E9%9A%8E%E5%BA%97%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
       "tags": [
-        "うどん",
-        "さぬきうどん",
-        "讃岐",
-        "ランチ"
+        "ホルモン",
+        "立ち飲み",
+        "居酒屋",
+        "焼肉"
       ],
       "open": "",
-      "added_at": "2025-04-30",
-      "google_rating": 4,
+      "added_at": "2026-09-28",
+      "google_rating": null,
       "price_range": "~2000円",
-      "description": "本場四国・讃岐のコシのあるうどんが楽しめる専門店。ランチの定番として地下街で長く親しまれている。"
+      "description": "2026年9月オープンのホルモン焼き立ち飲み居酒屋。名物の「アブラ」「レバテキ」「ハラミ」と安価なドリンクが看板。"
     },
     {
       "id": "shop-6-2",
@@ -713,21 +713,16 @@
     },
     {
       "id": "shop-28-1",
-      "name": "焼鳥 牛たん どんたく",
-      "category": "food",
-      "subcategory": "飲食",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E7%84%BC%E9%B3%A5%20%E7%89%9B%E3%81%9F%E3%82%93%20%E3%81%A9%E3%82%93%E3%81%9F%E3%81%8F%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC2%E3%83%93%E3%83%AB",
-      "tags": [
-        "焼き鳥",
-        "牛タン",
-        "居酒屋",
-        "炭火焼き"
-      ],
+      "name": "空き区画",
+      "category": "empty",
+      "subcategory": "",
+      "url": "",
+      "tags": [],
       "open": "",
       "added_at": "2025-04-30",
-      "google_rating": 4,
+      "google_rating": null,
       "price_range": null,
-      "description": "炭火焼きの焼き鳥と仙台名物牛タンが楽しめる居酒屋。香ばしい炭火の香りが食欲をそそる。"
+      "description": ""
     },
     {
       "id": "shop-28-2",

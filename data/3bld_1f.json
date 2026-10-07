@@ -220,7 +220,7 @@
       "id": "shop-25",
       "name": "空き区画",
       "category": "empty",
-      "subcategory": "その他",
+      "subcategory": "",
       "url": "",
       "tags": [],
       "open": "",
@@ -305,7 +305,7 @@
       "id": "shop-30",
       "name": "空き区画",
       "category": "empty",
-      "subcategory": "日用雑貨",
+      "subcategory": "",
       "url": "",
       "tags": [],
       "open": "",
@@ -892,16 +892,21 @@
     },
     {
       "id": "shop-63",
-      "name": "空き区画",
-      "category": "empty",
-      "subcategory": "その他",
-      "url": "",
-      "tags": [],
+      "name": "KUSELESS",
+      "category": "medical",
+      "subcategory": "ビューティー",
+      "url": "https://www.google.com/maps/search/?api=1&query=KUSELESS%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC3%E3%83%93%E3%83%AB",
+      "tags": [
+        "美容室",
+        "髪質改善",
+        "縮毛矯正",
+        "ヘアサロン"
+      ],
       "open": "",
-      "added_at": "2025-04-30",
+      "added_at": "2026-10-05",
       "google_rating": null,
       "price_range": null,
-      "description": ""
+      "description": "髪質改善を専門とする美容室。くせ毛や縮毛矯正など髪の悩みに対応したメニューを揃える。"
     },
     {
       "id": "shop-64",

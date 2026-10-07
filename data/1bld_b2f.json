@@ -1604,17 +1604,13 @@
       "name": "空き区画",
       "category": "empty",
       "subcategory": "",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%88%86%E3%81%8B%E3%82%89%E3%81%82%E3%81%92%20%E7%AB%8B%E3%81%A1%E9%A3%B2%E3%81%BF%E5%87%A6%20%E3%82%8A%E3%82%87%E3%81%86%E3%81%9F%E3%81%AE%E6%89%8B%E7%BE%BD%E5%85%88%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
-      "tags": [
-        "唐揚げ",
-        "立ち飲み",
-        "居酒屋"
-      ],
+      "url": "",
+      "tags": [],
       "open": "",
       "added_at": "2026-07-24",
       "google_rating": null,
       "price_range": null,
-      "description": "大分名物の唐揚げと手羽先が味わえる立ち飲み処。気軽に一杯楽しめる。"
+      "description": ""
     },
     {
       "id": "shop-84",

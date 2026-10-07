@@ -127,7 +127,7 @@ def main() -> int:
     for path in sorted(glob.glob('data/*.json')):
         if '_nav' in path:
             continue
-        with open(path) as f:
+        with open(path, encoding='utf-8') as f:
             doc = json.load(f)
         for shop in doc.get('shops', []):
             total += 1
@@ -150,4 +150,9 @@ def main() -> int:
 
 
 if __name__ == '__main__':
+    # Windows の既定コンソール（cp932）では店舗名の「吞」などが出力できないため
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+    except (AttributeError, OSError):
+        pass
     sys.exit(main())

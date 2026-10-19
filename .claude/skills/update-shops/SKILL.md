@@ -54,8 +54,17 @@ Windows では、JSON の読み書きに必ず `encoding="utf-8"` を指定す�
 - **price_range**: 飲食店だけ Places の priceLevel を変換して入れる（`add_shop_details.py` の PRICE_LEVEL_MAP）。飲食店以外は `null`。
 - **open**: 空欄のままにする。
 
-## 4. 確認と報告
+## 4. スクレイパー側に書き戻す
+
+補完した情報が次回のスクレイプでも引き継がれるように、スクレイパー側の `data/*.json` にも反映する（GitHub Actions は GitHub 上のデータから情報を引き継ぐ）。
+
+- 書き戻すのは、このとき更新した店舗だけにする。
+- id・name・category・subcategory はスクレイパー側の値のままにし、それ以外の項目（tags・description・google_rating など）を反映先の値で置き換える。
+- 形式はスクレイパー側と同じ（`ensure_ascii=False, indent=2`、末尾改行なし）。
+- 書き戻した後に残る差分は、空き区画の subcategory だけになるはず。それ以外の差分が残っていたら報告する。
+
+## 5. 確認と報告
 
 - `scripts/validate_open.py` を実行する（Mac は `python3`、Windows は `python`）。
 - 変更した店舗の一覧、反映しなかった差分とその理由、`null` のまま残した項目とその理由を報告する。
-- コミット・push は、ユーザーに指示されるまでしない。
+- コミット・push は、ユーザーに指示されるまでしない。指示されたら両方のリポジトリで行う（反映先は main、スクレイパー側は master）。

@@ -774,6 +774,24 @@
       "description": ""
     },
     {
+      "id": "shop-48",
+      "name": "トレヴァーデルチザン",
+      "category": "medical",
+      "subcategory": "ビューティ",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%88%E3%83%AC%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%87%E3%83%AB%E3%83%81%E3%82%B6%E3%83%B3%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC4%E3%83%93%E3%83%AB",
+      "tags": [
+        "美容室",
+        "髪質改善",
+        "縮毛矯正",
+        "ヘアサロン"
+      ],
+      "open": "",
+      "added_at": "2026-10-19",
+      "google_rating": null,
+      "price_range": null,
+      "description": "髪質改善・縮毛矯正を得意とする美容室。第1ビルの人気サロン「TREVOR DE'RTISAN」の第4ビル店。"
+    },
+    {
       "id": "shop-51",
       "name": "ヤマト運輸㈱",
       "category": "service",

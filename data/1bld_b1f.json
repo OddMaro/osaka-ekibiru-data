@@ -699,21 +699,21 @@
     },
     {
       "id": "shop-39",
-      "name": "リラクゼーション 憩 〜IKOI〜",
+      "name": "リラクゼーションKaolia〜カオリア〜",
       "category": "medical",
       "subcategory": "マッサージ",
-      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%A9%E3%82%AF%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%E6%86%A9%20%E3%80%9CIKOI%E3%80%9C%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
+      "url": "https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%A9%E3%82%AF%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3Kaolia%E3%80%9C%E3%82%AB%E3%82%AA%E3%83%AA%E3%82%A2%E3%80%9C%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC1%E3%83%93%E3%83%AB",
       "tags": [
+        "アロマ",
         "リラクゼーション",
-        "もみほぐし",
-        "癒し",
-        "疲労回復"
+        "タイ古式",
+        "ヘッドスパ"
       ],
       "open": "",
-      "added_at": "2025-04-30",
-      "google_rating": 4.4,
+      "added_at": "2026-10-12",
+      "google_rating": null,
       "price_range": null,
-      "description": ""
+      "description": "ヘッドスパ・タイ古式・アロマリンパマッサージの専門サロン。駅前ビル群に複数店舗を展開するカオリアの第1ビル店。"
     },
     {
       "id": "shop-40",
